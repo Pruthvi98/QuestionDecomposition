@@ -1,0 +1,4 @@
+sacrebleu
+rouge_score
+datasets
+git+https://github.com/google-research/bleurt.git
