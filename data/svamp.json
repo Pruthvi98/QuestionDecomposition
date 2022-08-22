@@ -1,0 +1,1213 @@
+[
+    {
+        "context": "Jessica had 8.0 quarters in her bank . Her sister borrowed 3.0 of her quarters.",
+        "question": "How many quarters does Jessica have now?",
+        "answer": "5.0",
+        "decompositions": [
+            {
+                "question": "How many quarters did Jessica have in her bank initially?",
+                "answer": "8.0",
+                
+            },
+            {
+                "question": "How many quarters did Jessica's sister borrow?",
+                "answer": "3.0",
+                
+            },
+            {
+                "question": "difference ! #1 ! #2",
+                "answer": "5.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "Shawn has 13.0 blocks. Mildred has with 2.0 blocks. Mildred finds another 84.0.",
+        "question": "How many blocks does Mildred end with?",
+        "answer": "86.0",
+        "decompositions": [
+            {
+                "question": "How many blocks does Mildred start with?",
+                "answer": "2.0",
+                
+            },
+            {
+                "question": "How many blocks does Mildred find?",
+                "answer": "84.0",
+                
+            },
+            {
+                "question": "summation ! #1 ! #2",
+                "answer": "86",
+                
+            }
+        ]
+    },
+    {
+        "context": "Dave was helping the cafeteria workers pick up lunch trays, but he could only carry 9.0 trays at a time. If he had to pick up 17.0 trays from one table and 55.0 trays from another,",
+        "question": "how many trips will he make?",
+        "answer": "8.0",
+        "decompositions": [
+            {
+                "question": "How many trays did Dave have to pick up from the first table?",
+                "answer": "17.0",
+                
+            },
+            {
+                "question": "How many trays did Dave have to pick up from the second table?",
+                "answer": "55.0",
+                
+            },
+            {
+                "question": "summation ! #1 ! #2",
+                "answer": "72.0",
+                
+            },
+            {
+                "question": "How many lunch trays could Dave carry at a time?",
+                "answer": "9.0",
+                
+            },
+            {
+                "question": "division ! #3 ! #4",
+                "answer": "8.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "Paco had 93.0 cookies. Paco ate 15.0 of them.",
+        "question": "How many cookies did Paco have left?",
+        "answer": "78.0",
+        "decompositions": [
+            {
+                "question": "How many cookies did Paco start with?",
+                "answer": "93.0",
+                
+            },
+            {
+                "question": "How many cookies did Paco eat?",
+                "answer": "15.0",
+                
+            },
+            {
+                "question": "difference ! #1 ! #2",
+                "answer": "78.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "Joan picked 43.0 apples from the orchard, and gave 27.0 apples to Melanie.",
+        "question": "How many apples does Joan have now?",
+        "answer": "16.0",
+        "decompositions": [
+            {
+                "question": "How many apples did Joan pick from the orchard?",
+                "answer": "43.0",
+                
+            },
+            {
+                "question": "How many apples did Joan give to Melanie?",
+                "answer": "27.0",
+                
+            },
+            {
+                "question": "difference ! #1 ! #2",
+                "answer": "16.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "when amy got to the fair she had $15. when she left she had $11.",
+        "question": "how much money did she spend at the fair?",
+        "answer": "4.0",
+        "decompositions": [
+            {
+                "question": "How many dollars did amy have when she got to the fair?",
+                "answer": "15.0",
+                
+            },
+            {
+                "question": "How many dollars did amy have when she left the fair?",
+                "answer": "11.0",
+                
+            },
+            {
+                "question": "difference ! #1 ! #2",
+                "answer": "4.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "chris has 18 soccer cards . his friend charlie has 32 cards.",
+        "question": "how many fewer cards does chris have?",
+        "answer": "14.0",
+        "decompositions": [
+            {
+                "question": "How many cards does charlie have?",
+                "answer": "32.0",
+                
+            },
+            {
+                "question": "How many cards does chris have?",
+                "answer": "18.0",
+                
+            },
+            {
+                "question": "difference ! #1 ! #2",
+                "answer": "14.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "Faye and her mom were picking carrots from their garden. Faye picked 23.0 and her mother picked 5.0. If only 12.0 of the carrots were good,",
+        "question": "how many bad carrots did they have?",
+        "answer": "16.0",
+        "decompositions": [
+            {
+                "question": "How many carrots did Faye pick?",
+                "answer": "23.0",
+                
+            },
+            {
+                "question": "How many carrots did Faye's mother pick?",
+                "answer": "5.0",
+                
+            },
+            {
+                "question": "summation ! #1 ! #2",
+                "answer": "28.0",
+                
+            },
+            {
+                "question": "How many carrots were good?",
+                "answer": "12.0",
+                
+            },
+            {
+                "question": "difference ! #3 ! #4",
+                "answer": "16.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "There are 8.0 oranges. 8.0 oranges more are added.",
+        "question": "How many are there total?",
+        "answer": "16.0",
+        "decompositions": [
+            {
+                "question": "How many oranges are there initially?",
+                "answer": "8.0",
+                
+            },
+            {
+                "question": "How many oranges are added?",
+                "answer": "8.0",
+                
+            },
+            {
+                "question": "summation ! #1 ! #2",
+                "answer": "16.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "15 students split 122 portfolios of paintings. each student should get the same number of portfolios.",
+        "question": "how many portfolios of paintings will each of them get?",
+        "answer": "8.13",
+        "decompositions": [
+            {
+                "question": "How many portfolios are split amongst the students?",
+                "answer": "122.0",
+                
+            },
+            {
+                "question": "How many students are there?",
+                "answer": "15.0",
+                
+            },
+            {
+                "question": "division ! #1 ! #2",
+                "answer": "8.1333333333",
+                
+            }
+        ]
+    },
+    {
+        "context": "Marie starts with 95.0 erasers. She loses 42.0.",
+        "question": "How many erasers does Marie end with?",
+        "answer": "53.0",
+        "decompositions": [
+            {
+                "question": "How many erasers does Marie start with?",
+                "answer": "95.0",
+                
+            },
+            {
+                "question": "How many erasers does Marie lose?",
+                "answer": "42.0",
+                
+            },
+            {
+                "question": "difference ! #1 ! #2",
+                "answer": "53.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "There are 2.0 apples in a pile on the desk. Each apple comes in a package of 7.0. 4.0 apples are added to the pile.",
+        "question": "How many apples are there in the pile?",
+        "answer": "6.0",
+        "decompositions": [
+            {
+                "question": "How many apples are in the pile initially?",
+                "answer": "2.0",
+                
+            },
+            {
+                "question": "How many apples are added to the pile?",
+                "answer": "4.0",
+                
+            },
+            {
+                "question": "summation ! #1 ! #2",
+                "answer": "6.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "There are 48.0 erasers in the drawer and 30.0 erasers on the desk. Alyssa placed 39.0 erasers and 45.0 rulers on the desk.",
+        "question": "How many erasers are now there in total?",
+        "answer": "117.0",
+        "decompositions": [
+            {
+                "question": "How many erasers are on the desk initially?",
+                "answer": "30.0",
+                
+            },
+            {
+                "question": "How many erasers does Alyssa place on the desk?",
+                "answer": "39.0",
+                
+            },
+            {
+                "question": "summation ! #1 ! #2",
+                "answer": "69.0",
+                
+            },
+            {
+                "question": "How many erasers are in the drawer?",
+                "answer": "48.0",
+                
+            },
+            {
+                "question": "summation ! #3 ! #4",
+                "answer": "117.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "Robin had 30.0 songs on her mp3 player. If she deleted 8.0 old songs from it and then added 10.0 new songs,",
+        "question": "how many songs does she have on her mp3 player",
+        "answer": "32.0",
+        "decompositions": [
+            {
+                "question": "How many songs does Robin have on her mp3 player initially?",
+                "answer": "30.0",
+                
+            },
+            {
+                "question": "How many old songs would Robin delete from her mp3 player?",
+                "answer": "8.0",
+                
+            },
+            {
+                "question": "difference ! #1 ! #2",
+                "answer": "22.0",
+                
+            },
+            {
+                "question": "How many new songs would Robin add?",
+                "answer": "10.0",
+                
+            },
+            {
+                "question": "summation ! #3 ! #4",
+                "answer": "32.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "rob is very fond of tall structures. he likes collecting pictures and comparing them. 2 of his favorite buildings are chicago's sears tower and dubai's burj khalifa. if burj khalifa stands at 830 meters high and sears stands at 527 meters high",
+        "question": "how much higher is burj khalifa than sears?",
+        "answer": "303.0",
+        "decompositions": [
+            {
+                "question": "How many meters high is burj khalifa?",
+                "answer": "830.0",
+                
+            },
+            {
+                "question": "How many meters high is sears tower?",
+                "answer": "527.0",
+                
+            },
+            {
+                "question": "difference ! #1 ! #2",
+                "answer": "303.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "Roger had 25.0 books. If he sold 21.0 of them and used the money he earned to buy 30.0 new books,",
+        "question": "how many books would Roger have?",
+        "answer": "34.0",
+        "decompositions": [
+            {
+                "question": "How many books did Roger have initially?",
+                "answer": "25.0",
+                
+            },
+            {
+                "question": "How many books would Roger sell?",
+                "answer": "21.0",
+                
+            },
+            {
+                "question": "difference ! #1 ! #2",
+                "answer": "4.0",
+                
+            },
+            {
+                "question": "How many new books would Roger buy?",
+                "answer": "30.0",
+                
+            },
+            {
+                "question": "summation ! #3 ! #4",
+                "answer": "34.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "mike had 51 books but he sold 45 at a garage sale.",
+        "question": "how many books does mike still have?",
+        "answer": "6.0",
+        "decompositions": [
+            {
+                "question": "How many books did mike have initially?",
+                "answer": "51.0",
+                
+            },
+            {
+                "question": "How many books did mike sell?",
+                "answer": "45.0",
+                
+            },
+            {
+                "question": "difference ! #1 ! #2",
+                "answer": "6.0",
+                
+            }
+        ]
+    },
+    {
+        "context": "Luke was organizing his baseball cards in a binder with 3.0 on each page. If he had 3.0 new cards and 9.0 old cards to put in the binder,",
+        "question": "how many pages would he use?",
+        "answer": "4.0",
+        "decompositions": [
+            {
+                "question": "How many new cards would Luke have to put in the binder?",
+                "answer": "3.0",
+                
+            },
+            {
+                "question": "How many old cards would Luke have to put in the binder?",
+                "answer": "9.0",
+                
+            },
+            {
+                "question": "summation ! #1 ! #2",
+                "answer": "12.0",
+                
+            },
+            {
+                "question": "How many baseball cards go on each page of the binder?",
+                "answer": "3.0",
+                
+            },
+            {
+                "question": "division ! #3 ! #4",
+                "answer": "4.0",
+                
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "context": "Bryan took a look at his books as well.If Bryan has 56.0 books in each of his 9.0 bookshelves.",
+        "question": "how many books does he have in total?",
+        "answer": "504.0",
+        "decompositions": [
+            {
+                "question": "How many books in each bookshelf?",
+                "answer": "56.0",
+                
+            },
+            {
+                "question": "How many bookshelves?",
+                "answer": "9.0",
+                
+            },
+            {
+                "question": "multiplication ! #1 ! #2",
+                "answer": "504.0",
+                
+            }
+        ]
+    },
+    {
+      "id": "2",
+      "context": "There are 41.0 short trees and 44.0 tall trees currently in the park. Park workers will plant 57.0 short trees today.",
+      "question": "How many short trees will the park have when the workers are finished?",
+      "answer": "98.0",
+      "decompositions": [
+        {
+            "question": "How many short trees are currently present in the park?",
+            "answer": "41.0",
+            
+        },
+        {
+            "question": "How many short trees are added today?",
+            "answer": "57.0",
+            
+        },
+        {
+            "question": "summation ! #1 ! #2",
+            "answer": "98.0",
+            
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "context": "In fourth grade there were 35.0 students at the start of the year . During the year 10.0 students left and 12.0 new students came to school.",
+      "question": "How many students were in fourth grade at the end?",
+      "answer": "37.0",
+      "decompositions": [
+          {
+            "question": "How many students present in fourth grade at the start of the year?",
+            "answer": "35.0",
+            
+          },
+          {
+            "question": "How many students left?",
+            "answer": "10.0",
+            
+          },
+          {
+            "question": "How many new students came to school?",
+            "answer": "12.0",
+            
+          },
+          {
+            "question": "difference ! #3 ! #1",
+            "answer": "2.0",
+            
+          },
+          {
+            "question": "summation ! #4 ! #1",
+            "answer": "37.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "5",
+      "context": "Conner has 25000.0 dollars in his bank account.Every month he spends 1500.0 dollars.He does not add money to the account.",
+      "question": "How much money will Conner have in his account after 8.0 months?",
+      "answer": "13000.0",
+      "decompositions": [
+          {
+            "question": "How many dollars Conner have in his bank account?",
+            "answer": "25000.0",
+            
+          },
+          {
+            "question": "How many dollars Conner spends every month?",
+            "answer": "1500.0",
+            
+          },
+          {
+            "question": "multiplication ! #2 ! 8.0",
+            "answer": "12000.0",
+            
+          },
+          {
+            "question": "difference ! #1 ! #3",
+            "answer": "13000.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "6",
+      "context": "Maggi had 3.0 packages of cupcakes.There are 4.0 cupcakes in each package.She ate 5.0 cupcakes.",
+      "question": "How many are left?",
+      "answer": "7.0",
+      "decompositions": [
+          {
+            "question": "How many packages of cupcakes does Maggie had?",
+            "answer": "3.0",
+            
+          },
+          {
+            "question": "How many cupcakes are present in each package?",
+            "answer": "4.0",
+            
+          },
+          {
+            "question": "multiplication ! #1 ! #2",
+            "answer": "12.0",
+            
+          },
+          {
+            "question": "How many cupcakes Maggie ate?",
+            "answer": "5.0",
+            
+          },
+          {
+            "question": "difference ! #3 ! #4",
+            "answer": "7.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "7",
+      "context": "You deposit 70.0 dollars in a savings account that pays an annual interest rate of 3.0 %.",
+      "question": "How much simple interest would you earn in 2.5 years , in dollars?",
+      "answer": "5.25",
+      "decompositions": [
+          {
+            "question": "How many dollars present in a savings account?",
+            "answer": "70.0",
+            
+          },
+          {
+            "question": "What is the rate of annual interest in percentage?",
+            "answer": "3.0",
+            
+          },
+          {
+            "question": "division ! #2 ! 100.0",
+            "answer": "0.03",
+            
+          },
+          {
+            "question": "multiplication ! #3 ! 70.0",
+            "answer": "2.1",
+            
+          },
+          {
+            "question": "multiplication ! #4 ! 2.5",
+            "answer": "5.25",
+            
+          }
+      ]
+    },
+    {
+      "id": "8",
+      "context": "Emily collects 63.0 cards.Emily 's father gives Emily 7.0 more.Bruce has 13.0 apples.",
+      "question": "How many cards does Emily have?",
+      "answer": "70.0",
+      "decompositions": [
+          {
+            "question": "How many cars Emily collected?",
+            "answer": "63.0",
+            
+          },
+          {
+            "question": "How many cards Emily's father gave her?",
+            "answer": "7.0",
+            
+          },
+          {
+            "question": "summation ! #1 ! #2",
+            "answer": "70.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "9",
+      "context": "Mary is baking a cake.The recipe calls for 7.0 cups of flour and 3.0 cups of sugar.She already put in 2.0 cups of flour.",
+      "question": "How many cups of flour does she need to add?",
+      "answer": "5.0",
+      "decompositions": [
+          {
+            "question": "How many cups of flour did recipe called?",
+            "answer": "7.0",
+            
+          },
+          {
+            "question": "How many cups of flour did Mary has already put?",
+            "answer": "2.0",
+            
+          },
+          {
+            "question": "difference ! #1 ! #2",
+            "answer": "5.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "10",
+      "context": "It takes 4.0 apples to make 1.0 pie.",
+      "question": "How many apples does it take to make 504.0 pies?",
+      "answer": "2016.0",
+      "decompositions": [
+          {
+            "question": "How many apples it takes to make 1.0 pie?",
+            "answer": "4.0",
+            
+          },
+          {
+            "question": "How many apples required to make?",
+            "answer": "504.0",
+            
+          },
+          {
+            "question": "multiplication ! #2 ! #1",
+            "answer": "2016.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "11",
+      "context": "Sean has 9.0 apples.Susan gives Sean 8.0 more.Later,Sean buys 18.0 tickets at the store.",
+      "question": "How many apples does Sean have in all?",
+      "answer": "17.0",
+      "decompositions": [
+          {
+            "question": "How many apples does Sean have?",
+            "answer": "9.0",
+            
+          },
+          {
+            "question": "How many apples does Susan give Sean?",
+            "answer": "8.0",
+            
+          },
+          {
+            "question": "summation #1 ! #2",
+            "answer": "17.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "12",
+      "context": "Rachel bought two coloring books.One had 24.0 pictures and the other had 39.0. After one week she had already colored 4.0 of the pictures.",
+      "question": "How many pictures does she still have to color?",
+      "answer": "59.0",
+      "decompositions": [
+          {
+            "question": "How many pictures present in first coloring book?",
+            "answer": "24.0",
+            
+          },
+          {
+            "question": "How many pictures present in second coloring book?",
+            "answer": "39.0",
+            
+          },
+          {
+            "question": "How many pictures she had colored after one week?",
+            "answer": "4.0",
+            
+          },
+          {
+            "question": "summation ! #1 ! #2",
+            "answer": "63.0",
+            
+          },
+          {
+            "question": "difference ! #4 ! #3",
+            "answer": "59.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "13",
+      "context": "A DVD book holds 126.0 DVDs.There are 81.0 DVDs already in the book.",
+      "question": "How many more DVDs can be put in the book?",
+      "answer": "45.0",
+      "decompositions": [
+          {
+            "question": "How many DVDs does DVD book hold?",
+            "answer": "126.0",
+            
+          },
+          {
+            "question": "How many DVDs are already present in the book?",
+            "answer": "81.0",
+            
+          },
+          {
+            "question": "difference ! #1 ! #2",
+            "answer": "45.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "14",
+      "context": "James has 232.0 balloons.Amy has 101.0 balloons.",
+      "question": "How many more balloons does James have than Amy?",
+      "answer": "131.0",
+      "decompositions": [
+          {
+            "question": "How many balloons does James have?",
+            "answer": "232.0",
+            
+          },
+          {
+            "question": "How many balloons does Amy have?",
+            "answer": "101.0",
+            
+          },
+          {
+            "question": "difference ! #1 ! #2",
+            "answer": "131.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "15",
+      "context": "A company invited 18.0 people to a luncheon , but 12.0 of them didn't show up.If the tables they had held 3.0 people each.",
+      "question": "How many tables do they need?",
+      "answer": "2.0",
+      "decompositions": [
+          {
+            "question": "How many people did company invited to lunceon?",
+            "answer": "18.0",
+            
+          },
+          {
+            "question": "How many people didn't show up?",
+            "answer": "12.0",
+            
+          },
+          {
+            "question": "difference ! #1 ! #2",
+            "answer": "6.0",
+            
+          },
+          {
+            "question": "How many people does each table held?",
+            "answer": "3.0",
+            
+          },
+          {
+            "question": "division ! #3 ! #4",
+            "answer": "2.0",
+            
+          }
+      ]
+    },
+    {
+      "id": "16",
+      "context": "An oil pipe in the sea broke.Before engineers started to fix the pipe,6522.0 liters of oil leaked into the water.While the engineers worked,the pipe leaked 5165.0 liters of oil.",
+      "question": "In all,how many liters of oil leaked into the water?",
+      "answer": "11687.0",
+      "decompositions": [
+          {
+            "question": "How many liters of oil leaked before engineers started to fix the pipe?",
+            "answer": "6522.0",
+            
+          },
+          {
+            "question": "How many liters of oil leaked while engineers worked on the pipe?",
+            "answer": "5165.0",
+            
+          },
+          {
+            "question": "difference ! #1 ! #2",
+            "answer": "11687.0",
+            
+          }
+      ]
+    },
+    {
+      "context": "Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack",
+      "question": "How much do you have to pay to buy each pack?",
+      "answer": "51.0",
+      "decompositions": [
+          {
+              "question": "How much is each pack of dvds without the discount?",
+              "answer": "76"
+          },
+          {
+              "question": "What is the discount?",
+              "answer": "25"
+          },
+          {
+              "question": "subtraction ! #1 ! #2",
+              "answer": "51"
+          }
+      ]
+    },
+    {
+      "context": "Dan had $ 3 left with him after he bought a candy bar. If he had $ 4 at the start",
+      "question": "How much did the candy bar cost?",
+      "answer": "1.0",
+      "decompositions": [
+          {
+              "question": "How much money did Dan have at the start?",
+              "answer": "4"
+          },
+          {
+              "question": "How much money did Dan have after he bought the candy bar?",
+              "answer": "3"
+          },
+          {
+              "question": "subtraction ! #1 ! #2",
+              "answer": "1"
+          }
+      ]
+    },
+    {
+      "context": "Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies and 9 salty cookies.",
+      "question": "How many salty cookies did Paco have left?",
+      "answer": "17.0",
+      "decompositions": [
+          {
+              "question": "How many salty cookies did Paco have?",
+              "answer": "26"
+          },
+          {
+              "question": "How many salty cookies did Paco eat?",
+              "answer": "9"
+          },
+          {
+              "question": "subtraction ! #1 ! #2",
+              "answer": "17"
+          }
+      ]
+    },
+    {
+      "context": "43 children were riding on the bus. At the bus stop some children got off the bus. Then there were 21 children left on the bus.",
+      "question": "How many children got off the bus at the bus stop?",
+      "answer": "22",
+      "decompositions": [
+          {
+              "question": "How many children were on the bus at the beginning?",
+              "answer": "43"
+          },
+          {
+              "question": "How many children were left on the bus?",
+              "answer": "21"
+          },
+          {
+              "question": "subtraction ! #1 ! #2",
+              "answer": "22"
+          }
+      ]
+  },
+  {
+    "context": "28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus.",
+    "question": "How many more children got on the bus than those that got off?",
+    "answer": "2",
+    "decompositions": [
+        {
+            "question": "How many children were on the bus at the beginning?",
+            "answer": "28"
+        },
+        {
+            "question": "How many children got on the bus?",
+            "answer": "82"
+        },
+        {
+            "question": "How many children were left on the bus?",
+            "answer": "30"
+        },
+        {
+            "question": "summation ! #1 ! #2",
+            "answer": "110"
+        },
+        {
+            "question": "difference ! #4 ! #3",
+            "answer": "80"
+        },
+        {
+            "question": "difference ! #2 ! #5",
+            "answer": "2"
+        }
+    ]
+},
+{
+  "context": "There were 3 dollars in Olivia's wallet. She collected 49 more dollars from an atm. After she visited a supermarket there were 49 dollars left.",
+  "question": "How much more money did she collect at the atm than she spent at the supermarket?",
+  "answer": "46.0",
+  "decompositions": [
+      {
+          "question": "How much money did Olivia collect from the atm?",
+          "answer": "49"
+      },
+      {
+          "question": "How much money was in Olivia's wallet at the beginning?",
+          "answer": "3"
+      },
+      {
+          "question": "summation ! #1 ! #2",
+          "answer": "52"
+      },
+      {
+        "question": "How much money was left?",
+        "answer": "49"
+    },
+    {
+        "question": "subtraction ! #3 ! #4",
+        "answer": "3"
+    },
+    {
+        "question": "subtraction ! #1 ! #5",
+        "answer": "46"
+    }
+  ]
+},
+{
+  "context": "Jerry had some action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If there are a total of 10 action figures on his shelf now",
+  "question": "How many action figures did he have initially on the shelf?",
+  "answer": "3",
+  "decompositions": [
+      {
+          "question": "How many action figures are on the shelf now?",
+          "answer": "10"
+      },
+      {
+          "question": "How many action figures were added to the shelf?",
+          "answer": "7"
+      },
+      {
+          "question": "subtraction ! #1 ! #2",
+          "answer": "3"
+      }
+  ]
+},
+{
+  "context": "Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies.",
+  "question": "How many more cookies did he eat than those he gave to his friend?",
+  "answer": "9",
+  "decompositions": [
+      {
+          "question": "How many cookies did Paco eat?",
+          "answer": "18"
+      },
+      {
+          "question": "How many cookies did he give to his friend?",
+          "answer": "9"
+      },
+      {
+          "question": "subtraction ! #1 ! #2",
+          "answer": ""
+      }
+  ]
+},
+{
+  "context": "Mary is baking a cake. The recipe calls for 3 cups of sugar 10 cups of flour and 15 cups of salt. She already put in 6 cups of flour.",
+  "question": "How many more cups of flour does she need to add?",
+  "answer": "4",
+  "decompositions": [
+      {
+          "question": "The recipe calls for many cups of flour?",
+          "answer": "10"
+      },
+      {
+          "question": "How many cups of flour did she already put?",
+          "answer": "6"
+      },
+      {
+          "question": "subtraction ! #1 ! #2",
+          "answer": ""
+      }
+  ]
+},
+{
+  "context": "A waiter had some customers. After 9 customers left he still had 12 customers.",
+  "question": "How many customers did he have at the start?",
+  "answer": "21",
+  "decompositions": [
+      {
+          "question": "How many customers did he still have?",
+          "answer": "12"
+      },
+      {
+          "question": "How many customers left?",
+          "answer": "9"
+      },
+      {
+          "question": "addition ! #1 ! #2",
+          "answer": "21"
+      }
+  ]
+},
+{
+  "context": "3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them.",
+  "question": "How many more storks than birds are sitting on the fence?",
+  "answer": "1",
+  "decompositions": [
+      {
+          "question": "How many birds were on the fence to start with?",
+          "answer": "3"
+      },
+      {
+          "question": "How many birds came to join them?",
+          "answer": "2"
+      },
+      {
+          "question": "How many storks came to join them",
+          "answer": "6"
+      },
+      {
+          "question": "addition ! #1 ! #2",
+          "answer": "5"
+      },
+      {
+          "question": "subtraction ! #3 ! #4",
+          "answer": "1"
+      }
+  ]
+},
+{
+  "context": "They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairs",
+  "question": "How many chairs do they have in the backyard?",
+  "answer": "143",
+  "decompositions": [
+      {
+          "question": "How many tables are there in the backyard?",
+          "answer": "11"
+      },
+      {
+          "question": "How many chairs are on each table?",
+          "answer": "13"
+      },
+      {
+          "question": "multiplication ! #1 ! #2",
+          "answer": "143"
+      }
+  ]
+},
+{
+  "context": "6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them.",
+  "question": "How many birds are sitting on the fence?",
+  "answer": "10",
+  "decompositions": [
+      {
+        "question": "How many birds were on the fence to start with?",
+        "answer": "6"
+    },
+    {
+        "question": "How many birds came to join them?",
+        "answer": "4"
+    },
+    {
+      "question": "addition ! #1 ! #2",
+      "answer": "10"
+  }
+  ]
+},
+{
+  "context": "In a school there are 697 girls and the rest are boys. If there are 228 more girls than boys",
+  "question": "How many boys are there in that school?",
+  "answer": "469",
+  "decompositions": [
+      {
+          "question": "How many girls are there in the school?",
+          "answer": "697"
+      },
+      {
+          "question": "How many more girls than boys?",
+          "answer": "228"
+      },
+      {
+          "question": "subtraction ! #1 ! #2",
+          "answer": "469"
+      }
+  ]
+},
+{
+  "context": "In a school there are 732 girls and 761 boys. 682 more girls and 8 more boys joined the school.",
+  "question": "How many girls are there in the school now?",
+  "answer": "1414",
+  "decompositions": [
+      {
+          "question": "How many girls did the school have initially?",
+          "answer": "732"
+      },
+      {
+          "question": "How many more girls joined the school?",
+          "answer": "682"
+      },
+      {
+          "question": "addition ! #1 ! #2",
+          "answer": "1414"
+      }
+  ]
+},
+{
+  "context": "Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection.",
+  "question": "How many wrappers did danny have at first?",
+  "answer": "27",
+  "decompositions": [
+      {
+          "question": "How many wrappers does Danny have now?",
+          "answer": "57"
+      },
+      {
+          "question": "How many wrappers did Danny find at the park?",
+          "answer": "30"
+      },
+      {
+          "question": "subtraction ! #1 ! #2",
+          "answer": "27"
+      }
+  ]
+},
+{
+  "context": "An industrial machine worked for 5 minutes. It can make 4 shirts a minute.",
+  "question": "How many shirts did machine make?",
+  "answer": "20",
+  "decompositions": [
+      {
+          "question": "How many shirts can the machine make in a minute?",
+          "answer": "4"
+      },
+      {
+          "question": "How many minutes did the machine work?",
+          "answer": "5"
+      },
+      {
+          "question": "multiplication ! #2 ! #1",
+          "answer": "20"
+      }
+  ]
+}
+]

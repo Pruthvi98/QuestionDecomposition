@@ -1,0 +1,942 @@
+[
+    {
+        "context": "Sometimes a full Moon moves through Earths shadow. This is a lunar eclipse.  During a total lunar eclipse, the Moon travels completely in Earths umbra. During a partial lunar eclipse, only a portion of the Moon enters Earths umbra. When the Moon passes through Earths penumbra, it is a penumbral eclipse. Since Earths shadow is large, a lunar eclipse lasts for hours. Anyone with a view of the Moon can see a lunar eclipse. So unlike a solar eclipse, it doesnt get dark on Earth. Instead it gets dark on the Moon. Partial lunar eclipses occur at least twice a year, but total lunar eclipses are less common. The Moon glows with a dull red coloring during a total lunar eclipse.",
+        "question": "Is it more common for the Moon to travel completely in the Earth's umbra or only partially?",
+        "answer": "Partially",
+        "decompositions": [
+            {
+                "question": "When does the Moon travel's completely in Earth's umbra?",
+                "answer": "total lunar eclipse",
+                
+            },
+            {
+                "question": "When does the Moon travel's partially in Earth's umbra?",
+                "answer": "partial lunar eclipse",
+                
+            },
+            {
+                "question": "Which is more common #1 or #2?",
+                "answer": "partial lunar eclipse",
+                
+            },
+            {
+                "question": "Does the Moon travel partially or completely in #3?",
+                "answer": "partially",
+                
+            }
+        ],
+        "list_answers": [
+            "Partially",
+            "A total eclipse is less common than partial so it is more common for the moon to travel partially in Earth's umbra"
+        ]
+    },
+    {
+        "context": "Should places at the same distance from the equator have the same climate? You might think they should. Unfor- tunately, you would not be correct to think this. Climate types vary due to other factors besides distance from the equator. So what are these factors? How can they have such a large impact on local climates? For one thing, these factors are big. You may wonder, are they as big as a car. Think bigger. Are they bigger than a house? Think bigger. Are they bigger than a football stadium? You are still not close. We are talking about mountains and oceans. They are big features and big factors. Oceans and mountains play a huge role in climates around the world. You can see this in Figure above.  Only one of those factors is latitude, or distance from the equator.",
+        "question": "Name at least one factor of climate",
+        "answer": "Oceans",
+        "decompositions": [
+            {
+                "question": "What are the different factors of climate?",
+                
+            },
+            {
+                "question": "Name one of the factors from #1.",
+                
+            }
+        ],
+        "list_answers": [
+            "Oceans",
+            "Latitude",
+            "Distance from the equator",
+            "Moutains",
+            "Mountains, ocean, longitude, latitude",
+            "Mountains"
+        ]
+    },
+    {
+        "context": "Tuesday, September 11, 2001, dawned temperate and nearly cloudless in the eastern United States. Millions of men and women readied themselves for work. Some made their way to the Twin Towers, the signature structures of the World Trade Center complex in New York City. Others went to Arlington, Virginia, to the Pentagon. Across the Potomac River, the United States Congress was back in session. At the other end of Pennsylvania Avenue, people began to line up for a White House tour. In Sarasota, Florida, President George W. Bush went for an early morning run. For those heading to an airport, weather conditions could not have been better for a safe and pleasant journey. Among the travelers were Mohamed Atta and Abdul Aziz al Omari, who arrived at the airport in Portland, Maine. Boston: American 11 and United 175. Atta and Omari boarded a 6:00 A.M. flight from Portland to Boston's Logan International Airport. When he checked in for his flight to Boston, Atta was selected by a computerized prescreening system known as CAPPS (Computer Assisted Passenger Prescreening System), created to identify passengers who should be subject to special security measures. Under security rules in place at the time, the only consequence of Atta's selection by CAPPS was that his checked bags were held off the plane until it was confirmed that he had boarded the aircraft. This did not hinder Atta's plans. Atta and Omari arrived in Boston at 6:45. Seven minutes later, Atta apparently took a call from Marwan al Shehhi, a longtime colleague who was at another terminal at Logan Airport. They spoke for three minutes. It would be their final conversation.",
+        "question": "From the time Atta and Omari boarded their flight in Portland, how long did it take them to reach Boston",
+        "answer": "Three quarters of an hour",
+        "decompositions": [
+            {
+                "question": "When did Atta and Omari board their flight in Portland?",
+                
+            },
+            {
+                "question": "When did Atta and Omari arrive at Boston?",
+                
+            },
+            {
+                "question": "What is the time difference between #1 and #2?",
+                
+            }
+        ],
+        "list_answers": [
+            "Three quarters of an hour",
+            "45 minutes"
+        ]
+    },
+    {
+        "context": "Michigan will lose $2 million in federal funding and $600,000 in state funding to provide legal aid to the poor in 2003, according to Deierdre L. Weir, executive director of the Legal Aid and Defender Association, Inc., the state's largest provider of legal services to the poor. Current federal funds of nearly $10.7 million from the Legal Services Corporation (LSC) will drop to $8.7 million for next year, according to Weir. She said that the reductions reflect a decline in the number of persons in the state who are living in poverty, according to the U.S. Census Bureau's 2000 census. LSC uses census data to determine funding across the nation, and according to the census, the state's poverty population fell from an estimated 1.2 million in 1990 to an estimated 968,000 in 2000. The state's legal aid agencies are also bracing for yet another cut in 2003 of some $600,000 of state funding. A portion of filing fees paid by litigants in the state's circuit courts, and a portion of interest on lawyers trust accounts (IOLTA) are earmarked for Michigan legal aid programs. These funds are expected to drop from currently $7.5 million in 2002 to $6.9 million when the Michigan State Bar Foundation makes distributions next year. Most of the decrease is attributed to the past year's low interest rates. \"The irony of these funding cuts is that while there may be fewer poor people in Michigan today, the demand for service will not change because the poverty population remains so large and the legal aid funding so little that local providers will never able to serve all who need our service,\" said Weir. \"It's as if the poor will be victimized twice-once for being poor and again as victims of these funding cuts.\" The U.S. Census Bureau, in spite of its best efforts, cannot locate every poor person living in a census tract, therefore the poor are also undercounted, added Weir. The brunt of these cuts will be felt most in Wayne County where according to the census some 333,000 poor people live, the largest concentration of poverty in the state. LAD will lose more than $870,000 for legal aid in Wayne County, nearly half of the state's total loss, said Weir. While difficult to measure, the loss of funds will mean that several thousand of Michigan's poor in need of legal service will not receive it, or they will receive significantly limited service. Cutbacks will include service in such civil legal matters as landlord-tenant, bankruptcy, consumer, child custody, predatory lending, mortgage foreclosure, utility shutoffs, social security, wills, and probate. \"Local providers will have to work harder and smarter and use more technology instead of staff to provide as much service as we can with fewer dollars,\" said Weir. \"We will be providing more selfhelp training to clients enabling them to navigate the legal system on their own in routine matters, more assistance on the telephone, and less direct representation by attorneys in specific, high impact matters. Currently, Michigan has 13 legal aid agencies covering the state's 83 counties.",
+        "question": "How did the Michigan's poverty population change in 2003 and how did it affect the federal funding?",
+        "answer": "Federal funding will drop",
+        "decompositions": [
+            {
+                "question": "How did the Michigan's poverty population change in 2003?",
+                
+            },
+            {
+                "question": "Due to #1, will the federal funding increase or drop?",
+                
+            }
+        ],
+        "list_answers": [
+            "Federal funding will drop",
+            "Poverty population dropped and the state cut down budget for legal aid",
+            "The poverty population decreased.  Some of the federal funding was cut",
+            "The state's poverty population has dropped",
+            "It decreased and reduced funding"
+        ]
+    },
+    {
+        "context": "In architecture Durer cites Vitruvius but elaborates his own classical designs and columns. In typography, Durer depicts the geometric construction of the Latin alphabet, relying on Italian precedent. However, his construction of the Gothic alphabet is based upon an entirely different modular system. The fourth book completes the progression of the first and second by moving to three-dimensional forms and the construction of polyhedra. Here Durer discusses the five Platonic solids, as well as seven Archimedean semi-regular solids, as well as several of his own invention. In all these, Durer shows the objects as nets. Finally, Durer discusses the Delian Problem and moves on to the 'construzione legittima', a method of depicting a cube in two dimensions through linear perspective. It was in Bologna that Durer was taught (possibly by Luca Pacioli or Bramante) the principles of linear perspective, and evidently became familiar with the 'costruzione legittima' in a written description of these principles found only, at this time, in the unpublished treatise of Piero della Francesca. He was also familiar with the 'abbreviated construction' as described by Alberti and the geometrical construction of shadows, a technique of Leonardo da Vinci. Although Durer made no innovations in these areas, he is notable as the first Northern European to treat matters of visual representation in a scientific way, and with understanding of Euclidean principles. In addition to these geometrical constructions, Durer discusses in this last book of Underweysung der Messung an assortment of mechanisms for drawing in perspective from models and provides woodcut illustrations of these methods that are often reproduced in discussions of perspective.",
+        "question": "Which of the alphabets does Durer depict in his architecture?",
+        "answer": "Latin",
+        "decompositions": [
+            {
+                "question": "Which alphabets have been depicted in architecture?",
+                
+            },
+            {
+                "question": "Which of the alphabets in #1 does Durer depict in his architecture?",
+                
+            }
+        ],
+        "list_answers": [
+            "Latin",
+            "Latin and Gothic",
+            "Gothic"
+        ]
+    },
+    {
+        "context": "Tokugawa Takes All: When Hideyoshi died in 1598, he hoped to have his five-year-old son continue his \"dynasty,\" initially under the tutelage of five regents. But one of the regents was Ieyasu Tokugawa, who had been biding his time at Edo for 12 years, nurturing dynastic ambitions of his own. Of the cunning, ruthless triumvirate that came out on top at the end of the country's century of civil war, Tokugawa was without doubt the most patient, the most prudent\u2002\u2014\u2002and most treacherous. He moved quickly to eliminate his strongest rivals, crushing them in 1600 at the great Battle of Sekigahara (near modern Nagoya). During its subsequent two and a half centuries of rule from the new capital established at Edo, the Tokugawa organized a tightly controlled coalition of some 260 daimyo in strategic strongholds throughout the country. The allegiance of this highly privileged and prestigious group was ensured by cementing their ethical principles in the code of bushido, \"The way of the warrior\": loyalty to one's master, defense of one's status and honor, and fulfillment of all obligations. Loyalty was further enforced by holding the vassals' wives and children hostage in Edo. All roads into Edo, the most famous being the Tokaido Highway, had checkpoints for guns coming in and for wives going out. One of the most effective ways of keeping a tight rein on the country was to cut it off from the outside world, to keep Japan Japanese. At first, Ieyasu Tokugawa was eager to promote foreign trade. He wanted silk and encouraged the Dutch and British as good, nonproselytizing Protestants just interested in trade. But he didn't like the Portuguese and Spanish Catholic missionaries, who he felt were undermining traditional Japanese values. He banned their activities in 1612 and two years later ordered the expulsion of all missionaries and unrepentant Japanese converts. Executions and torture followed. Converts were forced to renounce their faith by trampling crucifixes and effigies of Jesus and Mary. The Catholic Church has counted 3,125 martyrs in Japan from 1597 (beginning under Hideyoshi) to 1660. In 1635 the Japanese were forbidden, on pain of death, to attempt to travel abroad, and Japanese citizens already overseas were prevented from returning, in case they brought back subversive Christian doctrines. Western books were banned, as were Chinese books that mentioned Christianity.",
+        "question": "What three traits are credited with Tokugawa's victory at the Battle of Sekigahara?",
+        "answer": "Patience, prudence, and treachery",
+        "decompositions": [
+            {
+                "question": "What were Tokugawa's traits?",
+                
+            },
+            {
+                "question": "Which of those traits in #1 are credited with Tokugawa's victory at the Battle of Sekigahara?",
+                
+            }
+        ],
+        "list_answers": [
+            "Patience, prudence, and treachery",
+            "The most patient, the most prudent, the most treacherous"
+        ]
+    },
+    {
+        "context": "Earth processes have not changed over time. The way things happen now is the same way things happened in the past. Mountains grow and mountains slowly wear away. The same process is at work the same as it was billions of years ago. As the environment changes, living creatures adapt. They change over time. Some organisms may not be able to adapt. They become extinct. Becoming extinct means they die out completely. Some geologists study the history of the Earth. They want to learn about Earths past. They use clues from rocks and fossils. They use these clues to make sense of events. The goal is to place things in the order they happened. They also want to know how long it took for those events to happen.",
+        "question": "What is one example of how the earth's processes are the same today as in the past?",
+        "answer": "Things develop and then wither away",
+        "decompositions": [
+            {
+                "question": "What are the various examples of how the earth's processes are the same today as in the past?",
+                
+            },
+            {
+                "question": "Choose one of the the examples in #1.",
+                
+            }
+        ],
+        "list_answers": [
+            "Things develop and then wither away",
+            "Mountains grow and mountains slowly wear away",
+            "Mountains grow and mountains slowly wear away. The same process is at work the same as it was billions of years ago",
+            "Living organisms adapt"
+        ]
+    },
+    {
+        "context": "The series starts in Baghdad at an undetermined time.   The Sultan Shahryar has gone mad after accidentally killing his wife during a failed coup d' tat , Which she had planned with Shahryar's brother Schahzenan.   In his madness , Shahryar believes that all women now want to kill him , but the law states that the Sultan must be married again or the throne will be passed to his brother.   Shahryar therefore orders Grand Vizier Ja'Far ( ( ( Jim Carter to bring him a harem girl to marry and then have executed the next day.   In order to prevent this , the Grand Vizier's clever daughter , Scheherazade , decides to marry the Sultan herself.   Scheherazade has a plan to prevent her execution and at the same time cure the Sultan of his madness.   With the help of some tutoring from a bazaar storyteller , Scheherazade tells the Sultan a story every night , stopping at dawn with a cliffhanger and refusing to continue until dusk.   Shahryar must therefore let Scheherazade live for another day in order to hear the rest of the story.   Cunningly , Scheherazade has hidden a moral within every story , to bring the Sultan out of his madness.   Meanwhile , Schahzenan hears about the Sultan's madness and that he is unable to execute Scheherazade.   Perceiving this as weakness , Schahzenan leads his army to Baghdad in an attempt to take the throne by force.   However , by the time Schahzenan's army reaches the city , Scheherazade's plan has worked.   As a result of her stories , Shahryar has overcome his madness and has fallen in love with Scheherazade. ",
+        "question": "Based on what weakness of Sultan, Schahzenan lead his army to Baghdad in an attempt to take the throne?",
+        "answer": "That Sultan is unable to execute Scheherazade",
+        "decompositions": [
+            {
+                "question": "What were the weaknesses of Sultan?",
+                
+            },
+            {
+                "question": "Based on which of the weaknesses in #1 did Schahzenan lead his army to Baghdad in an attempt to take the throne?",
+                
+            }
+        ],
+        "list_answers": [
+            "That Sultan is unable to execute Scheherazade",
+            "The madness of Sultan",
+            "Mental illness",
+            "Poor leadership"
+        ]
+    },
+    {
+        "context": "(CNN) -- Britain's Chris Froome won the 17th stage of the Tour de France on Wednesday to strengthen his grip on the yellow jersey. Froome completed Wednesday's 32-kilometer time trial in 51 minutes 33 seconds, nine seconds ahead of Spain's Alberto Contador with his compatriot Joaquim Rodriguez Oliver finishing a further second behind in third. \"I couldn't believe it when I got over the line and saw I had the fastest time,\" Froome said after his third stage win of this year's tour. \"I went into today thinking I was going to try and limit my losses, thinking about the days to come now. So to go through the finish line with the fastest time, I really didn't see that coming.\" On mountainous terrain along a frequently twisting route most of the riders opted for their traditional road bikes over the more aerodynamic machines used in time trials. But Froome opted to use both on the stage, switching to a time trial model for the final 12-kilometer descent. The swap proved decisive as the Briton clawed back a 20-second advantage Contador had built up earlier in the stage. The Spaniard now moves up to second overall, four minutes 34 seconds behind Froome with just four stages remaining. Contador's Saxo-Tinkoff teammate Roman Kreuziger is now third and trails Froome by four minutes and 51 seconds. Thursday sees the riders tackle the gruelling 172.5-kilometer 18th stage which concludes with a double ascent of Alpe d'Huez over the last 60 kilometers.",
+        "question": "How long did Fromme bike on the 17th stage before the final descent?",
+        "answer": "20km",
+        "decompositions": [
+            {
+                "question": "When did Fromme start biking on the 17th stage?",
+                
+            },
+            {
+                "question": "When did Fromme start the final descent?",
+                
+            },
+            {
+                "question": "How much distance was covered between #1 and #2?",
+                
+            }
+        ],
+        "list_answers": [
+            "20km",
+            "20 kilometers",
+            "51 minutes 33 seconds"
+        ]
+    },
+    {
+        "context": "ATLANTA, Georgia (CNN) -- On a plot of soil, nestled against the backdrop of skyscrapers in downtown Atlanta, Georgia, a group of residents are turning a lack of access to fresh produce into a revival of old traditions and self-empowerment. Urban farming is a way for African-Americans to connect with the earth, says Cashawn Myers of HABESHA. HABESHA Gardens is one of many urban gardens sprouting up around the country. Fruits and vegetables are thriving in this community garden located in an economically depressed area of the city known as Mechanicsville. But the garden serves an even greater purpose. The harvest helps feed some of the neediest members of the neighborhood. \"It's a reawakening going on. It's almost like it's a renaissance,\" says Cashawn Myers, director of HABESHA Inc. \"There's a Ghanaian proverb that says Sankofa. Sankofa means return to your past so you can move forward. Even if you look at coming over here during our enslavement, we were brought here to cultivate the land because that's something we did on the continent. So really, that's what many of the people are doing now,\" he said. Myers believes urban farming is a way for many African-Americans to reconnect with their past. iReport.com: Show us your urban farm \"They are going through a process of Sankofa and going to what they traditionally did, which is connect to the Earth so they can move forward and grow,\" he says. But HABESHA Gardens isn't unique. Former pro basketball player Will Allen, who is considered to be one of the nation's leading urban farmers and founder of Growing Power Inc., estimates that there are hundreds of thousands of urban gardens in inner cities across America. Urban farms help feed people, sustain neighorhoods \u00bb \"It's beyond a movement at this point. Its more like a revolution,\" says Allen.",
+        "question": "What is Sankofa and what does it mean?",
+        "answer": "It means return to your past so you can move forward",
+        "decompositions": [
+            {
+                "question": "What is Sankofa?",
+                
+            },
+            {
+                "question": "What does #1 mean?",
+                
+            }
+        ],
+        "list_answers": [
+            "It means return to your past so you can move forward",
+            "It is a Ghanian proverb that means return to your past so you can move forward",
+            "Sankofa is a Ghanaian proverb that means return to your past so you can move forward"
+        ]
+    },
+    {
+        "context": "Appended to the last book, however, is a self-contained essay on aesthetics, which Durer worked on between 1512 and 1528, and it is here that we learn of his theories concerning 'ideal beauty'. Durer rejected Alberti's concept of an objective beauty, proposing a relativist notion of beauty based on variety. Nonetheless, Durer still believed that truth was hidden within nature, and that there were rules which ordered beauty, even though he found it difficult to define the criteria for such a code. In 1512/13 his three criteria were function ('Nutz'), naive approval ('Wohlgefallen') and the happy medium ('Mittelmass'). However, unlike Alberti and Leonardo, Durer was most troubled by understanding not just the abstract notions of beauty but also as to how an artist can create beautiful images. Between 1512 and the final draft in 1528, Durer's belief developed from an understanding of human creativity as spontaneous or inspired to a concept of 'selective inward synthesis'. In other words, that an artist builds on a wealth of visual experiences in order to imagine beautiful things. Durer's belief in the abilities of a single artist over inspiration prompted him to assert that \"one man may sketch something with his pen on half a sheet of paper in one day, or may cut it into a tiny piece of wood with his little iron, and it turns out to be better and more artistic than another's work at which its author labours with the utmost diligence for a whole year.\"",
+        "question": "Which three criteria did Durer believe were the code to ordered beauty?",
+        "answer": "His three criteria were function ('Nutz'), naive approval ('Wohlgefallen') and the happy medium ('Mittelmass')",
+        "decompositions": [
+            {
+                "question": "What were the criteria?",
+                
+            },
+            {
+                "question": "Which of the three criteria in #1 were the code to ordered beauty?",
+                
+            }
+        ],
+        "list_answers": [
+            "His three criteria were function ('Nutz'), naive approval ('Wohlgefallen') and the happy medium ('Mittelmass')"
+        ]
+    },
+    {
+        "context": "Fossils can be used to match up rock layers. As organisms change over time, they look different. Older fossils will look different than younger fossils. Some organisms only survived for a short time before going extinct. Knowing what organisms looked like at certain times also helps date rock layers. Some fossils are better than others for this use. The fossils that are very distinct at certain times of Earths history are called index fossils. Index fossils are commonly used to match rock layers. You can see how this works in Figure 2.30. If two rock layers have the same index fossils, then they're probably about the same age.",
+        "question": "What kind of fossils are used to date rock layers?",
+        "answer": "Index fossils",
+        "decompositions": [
+            {
+                "question": "What are the kind of fossils?",
+                
+            },
+            {
+                "question": "Which of the kinds of fossils in #1 are used to date rock layers?",
+                
+            }
+        ],
+        "list_answers": [
+            "Index fossils",
+            "Index Fossils"
+        ]
+    },
+    {
+        "context": "Radio Televizioni Shqiptar (RTSH) is the public radio and TV broadcaster of Albania, founded by King Zog in 1938. RTSH runs three analogue television stations as TVSH Televizioni Shqiptar, four digital thematic stations as RTSH, and three radio stations using the name Radio Tirana. In addition, 4 regional radio stations serve in the four extremities of Albania. The international service broadcasts radio programmes in Albanian and seven other languages via medium wave (AM) and short wave (SW). The international service has used the theme from the song \"Keputa nje gjethe dafine\" as its signature tune. The international television service via satellite was launched since 1993 and aims at Albanian communities in Kosovo, Serbia, Macedonia, Montenegro and northern Greece, plus the Albanian diaspora in the rest of Europe. RTSH has a past of being heavily influenced by the ruling party in its reporting, whether that party be left or right wing. According to the Albanian Media Authority, AMA, Albania has an estimated 257 media outlets, including 66 radio stations and 67 television stations, with three national, 62 local and more than 50 cable TV stations. Last years Albania has organized several shows as a part of worldwide series like Dancing with the Stars, Big Brother Albania, Albanians Got Talent, The Voice of Albania, and X Factor Albania.",
+        "question": "How many analogue television stations does Radio Televizioni Shqiptar run as TVSH Televizioni Shqiptar?",
+        "answer": "3",
+        "decompositions": [
+            {
+                "question": "Which television stations does Radio Televizioni Shqiptar run?",
+                
+            },
+            {
+                "question": "Which of the television stations in #1 are analogue?",
+                
+            },
+            {
+                "question": "Which of the television stations in #2 are run as TVSH Televizioni Shqiptar?",
+                
+            },
+            {
+                "question": "What is the count of television stations in #3?",
+                
+            }
+        ],
+        "list_answers": [
+            "3",
+            "Three"
+        ]
+    },
+    {
+        "context": "The after-action review had treated the CIA as the lead agency for any offensive against al Qaeda, and the principals, at their March 10 meeting, had endorsed strengthening the CIA's capability for that role. To the CTC, that meant proceeding with \"The Plan,\" which it had put forward half a year earlier-hiring and training more case officers and building up the capabilities of foreign security services that provided intelligence via liaison. On occasion, as in Jordan in December 1999, these liaison services took direct action against al Qaeda cells. In the CTC and higher up, the CIA's managers believed that they desperately needed funds just to continue their current counterterrorism effort, for they reckoned that the millennium alert had already used up all of the Center's funds for the current fiscal year; the  Bin Laden unit had spent 140 percent of its allocation. Tenet told us he met with Berger to discuss funding for counterterrorism just two days after the principals' meeting. While Clarke strongly favored giving the CIA more money for counterterrorism, he differed sharply with the CIA's managers about where it should come from. They insisted that the CIA had been shortchanged ever since the end of the Cold War. Their ability to perform any mission, counterterrorism included, they argued, depended on preserving what they had, restoring what they had lost since the beginning of the 1990s, and building from there-with across-the-board recruitment and training of new case officers, and the reopening of closed stations. To finance the counterterrorism effort, Tenet had gone to congressional leaders after the 1998 embassy bombings and persuaded them to give the CIA a special supplemental appropriation. Now, in the aftermath of the millennium alert, Tenet wanted a boost in overall funds for the CIA and another supplemental appropriation specifically for counterterrorism. To Clarke, this seemed evidence that the CIA's leadership did not give sufficient priority to the battle against  Bin Laden and al Qaeda. He told us that James Pavitt, the head of the CIA's Directorate of Operations, \"said if there's going to be money spent on going after  Bin Laden, it should be given to him. My view was that he had had a lot of money to do it and a long time to do it, and I didn't want to put more good money after bad.\" The CIA had a very different attitude: Pavitt told us that while the CIA's  Bin Laden unit did\"extraordinary and commendable work,\" his chief of station in London \"was just as much part of the al Qaeda struggle as an officer sitting in [the  Bin Laden unit].\" The dispute had large managerial implications, for Clarke had found Ailies in the Office of Management and Budget (OMB).",
+        "question": "What was the \"evidence\" in sentence 11 referring to?",
+        "answer": "The 1998 supplemental appropriation, a boost in CIA funds, and another supplemental appropriation",
+        "decompositions": [
+            {
+                "question": "What was the \"evidence\" in sentence 11?",
+                
+            },
+            {
+                "question": "What was the \"evidence\" in #1 referring to?",
+                
+            }
+        ],
+        "list_answers": [
+            "The 1998 supplemental appropriation, a boost in CIA funds, and another supplemental appropriation",
+            "The effort of Tenet to give boost to CIA"
+        ]
+    },
+    {
+        "context": "Born in Moscow, Pushkin published his first poem at the age of fifteen. By the time he finished school as part of the first graduating class of the prestigious Imperial Lyceum in Tsarskoe Selo near Saint Petersburg, his talent was already widely recognized within the Russian literary scene. After school, Pushkin plunged into the vibrant and raucous intellectual youth culture of the capital, Saint Petersburg. In 1820 he published his first long poem, Ruslan and Lyudmila, amidst much controversy about its subject and style. Pushkin gradually became committed to social reform and emerged as a spokesman for literary radicals. This angered the government, and led to his transfer from the capital (1820). He went to the Caucasus and to the Crimea, then to Kamenka and Chisinau, where he became a Freemason.",
+        "question": "Was Pushkin a published author and recognized by the Russian literary scene?",
+        "answer": "Yes",
+        "decompositions": [
+            {
+                "question": "Was Pushkin a published author?",
+                
+            },
+            {
+                "question": "Was Pushkin recognized by the Russian literary scene?",
+                
+            },
+            {
+                "question": "Are the answers to both #1 and #2 yes?",
+                
+            }
+        ],
+        "list_answers": [
+            "Yes",
+            "Yes he had published his first poem at the age of fifteen and graduated from the  prestigious Imperial Lyceum in Tsarskoe Selo"
+        ]
+    },
+    {
+        "id": "1",
+        "context": "Before the mysterious disappearance of one of its passenger jets this month, Malaysia wasn't a country used to finding itself dominating headlines around the world.Some of its Southeast Asian neighbors, including Indonesia and the Philippines, have suffered devastating natural disasters in recent years and are all too familiar with the media frenzy that accompanies a major crisis.But Malaysia has largely managed to stay out of the international spotlight since its independence from British colonial rule more than half a century ago.\"It is one of these countries, because of its geography, that doesn't have earthquakes,\" said Ernest Bower, senior adviser for Southeast Asia studies at the Center for Strategic and International Studies.\"It doesn't have tsunamis.It hasn't been tested with a disaster like this.\"The disappearance of Malaysia Airlines Flight 370 has thrust the government into the dazzling glare of worldwide attention.And it hasn't emerged with very good grades.\"I think on a stress test, they're failing,\" Bower told CNN's Jake Tapper, pointing to the government's coordination of different agencies and communication with other countries.China among critics Criticism and complaints have come from other countries involved in the search for the missing plane, including China and Vietnam, and from the relatives of passengers.Malaysian officials have created confusion by issuing contradictory statements on key aspects of the investigation.The majority of the people on board the plane were Chinese, and Beijing has increasingly voiced its displeasure with the search, especially after Malaysia announced over the weekend that evidence suggested the plane had been deliberately flown west into the Indian Ocean, away from its last confirmed location over the South China Sea.\"The new information means the intensive search in the South China Sea for the whole past week was worthless and would never bear fruit,\" said a commentary published by China's state-run news agency Xinhua.\"Even worse, the golden time for saving possible survivors, if any, was generously wasted.\"",
+        "question": "What has the new information from Malaysia potentially wasted time for?",
+        "answer": "Saving possible survivors",
+        "decompositions": [
+            {
+                "question": "What was the new information from Malaysia?",
+                "answer": "The plane had flown west into the Indian Ocean, away from its last confirmed location over,the South China Sea.",
+                
+            },
+            {
+                "question": "The new information #1 wasted the time for?",
+                "answer": "saving possible survivors",
+                
+            }
+        ],
+        "list_answers": [
+            "\"Saving possible survivors\"",
+            "Time has been wasted for saving passengers",
+            "Successful rescue of survivors",
+            "Locating survivors"
+        ]
+    },
+    {
+        "id": "2",
+        "context": "Before the mysterious disappearance of one of its passenger jets this month, Malaysia wasn't a country used to finding itself dominating headlines around the world.Some of its Southeast Asian neighbors, including Indonesia and the Philippines, have suffered devastating natural disasters in recent years and are all too familiar with the media frenzy that accompanies a major crisis.But Malaysia has largely managed to stay out of the international spotlight since its independence from British colonial rule more than half a century ago.\"It is one of these countries, because of its geography, that doesn't have earthquakes,\" said Ernest Bower, senior adviser for Southeast Asia studies at the Center for Strategic and International Studies.\"It doesn't have tsunamis.It hasn't been tested with a disaster like this.\"The disappearance of Malaysia Airlines Flight 370 has thrust the government into the dazzling glare of worldwide attention.And it hasn't emerged with very good grades.\"I think on a stress test, they're failing,\" Bower told CNN's Jake Tapper, pointing to the government's coordination of different agencies and communication with other countries.China among critics Criticism and complaints have come from other countries involved in the search for the missing plane, including China and Vietnam, and from the relatives of passengers.Malaysian officials have created confusion by issuing contradictory statements on key aspects of the investigation.The majority of the people on board the plane were Chinese, and Beijing has increasingly voiced its displeasure with the search, especially after Malaysia announced over the weekend that evidence suggested the plane had been deliberately flown west into the Indian Ocean, away from its last confirmed location over the South China Sea.\"The new information means the intensive search in the South China Sea for the whole past week was worthless and would never bear fruit,\" said a commentary published by China's state-run news agency Xinhua.\"Even worse, the golden time for saving possible survivors, if any, was generously wasted.\"",
+        "question": "Contradictory statements by the government of Malaysia have irritated what country involved with the investigation?",
+        "answer": "China",
+        "decompositions": [
+            {
+                "question": "Which countries were involved in the investigation?",
+                "answer": "Vietnam and China",
+                
+            },
+            {
+                "question": "Which country in #1 was irritated by the contradictory statement by the government of Malaysia?",
+                "answer": "China",
+                
+            }
+        ],
+        "list_answers": [
+            "They have irritated China",
+            "\"China\"",
+            "China has been very irritated by contradictory statements"
+        ]
+    },
+    {
+        "id": "6",
+        "context": "Elaan is a declaration of war against the reign of terror unleashed by the ganglords.The story revolves around an upright and principled Police Officer , A.C.P. Ramakant Chaudhary whose eldest son Vikas is killed in a pre-planned accident.But the A.C.P. is unable to nab the culprits for want of valid evidence.Consequently,the A.C.P.,his wife Revati and younger son Vishal are griefstricken over the loss of young Vikas.While the atmosphere in the city is already vitiated by the atrocities of ganglords Baba Khan and Manna Shetty who enjoy the support of some unscrupulous police personnel , the A.C.P. vows to make the ruthless gangsters bite the dust , without taking the law in his own hands.On the other hand , Vishal an angry young man , can not stand this injustice since the police had failed to arrest his brother's killers , and he silently resents his A.C.P father's inaction in dealing with the culprits.The ideologies of the father and son clash - Which lead to a conflict between a dutiful father and a reckless son.The only one who understands the agony of Vishal is Mohini , the daughter of head constable Devkinandan Sharma. The day comes when Vishal confronts Baba Khan and Manna Shetty Which leads to tension and gory situation for the A.C.P.,as the ganglords threaten to eliminate the A.C.P. as well as his wife Revati and son Vishal.",
+        "question": "What are the names of 2 individuals who were unleashing a reign of terror?",
+        "answer": "Baba Khan and Manna Shetty",
+        "decompositions": [
+            {
+                "question": "Who unleashed the reign of terror?",
+                "answer": "ganglords",
+                
+            },
+            {
+                "question": "Who are the #1?",
+                "answer": "Baba Khan and Manna Shetty",
+                
+            }
+        ],
+        "list_answers": [
+            "Baba Khan and Manna Shetty",
+            "Baba Kahn and Manna Shetty"
+        ]
+    },
+    {
+        "id": "7",
+        "context": "Elaan is a declaration of war against the reign of terror unleashed by the ganglords.The story revolves around an upright and principled Police Officer , A.C.P. Ramakant Chaudhary whose eldest son Vikas is killed in a pre-planned accident.But the A.C.P. is unable to nab the culprits for want of valid evidence.Consequently,the A.C.P.,his wife Revati and younger son Vishal are griefstricken over the loss of young Vikas.While the atmosphere in the city is already vitiated by the atrocities of ganglords Baba Khan and Manna Shetty who enjoy the support of some unscrupulous police personnel , the A.C.P. vows to make the ruthless gangsters bite the dust , without taking the law in his own hands.On the other hand , Vishal an angry young man , can not stand this injustice since the police had failed to arrest his brother's killers , and he silently resents his A.C.P father's inaction in dealing with the culprits.The ideologies of the father and son clash - Which lead to a conflict between a dutiful father and a reckless son.The only one who understands the agony of Vishal is Mohini , the daughter of head constable Devkinandan Sharma. The day comes when Vishal confronts Baba Khan and Manna Shetty Which leads to tension and gory situation for the A.C.P.,as the ganglords threaten to eliminate the A.C.P. as well as his wife Revati and son Vishal.",
+        "question": "Which head constable's daughter understands the agony of Ramakant's younger son?",
+        "answer": "Head constable Devkinandan Sharma",
+        "decompositions": [
+            {
+                "question": "Who is the younger son of Ramakant?",
+                "answer": "Vishal",
+                
+            },
+            {
+                "question": "Who understands the agony of Vishal?",
+                "answer": "Mohini",
+                
+            },
+            {
+                "question": "Who is #1 the daughter of?",
+                "answer": "Head constable Devkinandan Sharma",
+                
+            }
+        ],
+        "list_answers": [
+            "Devkinandan Sharma's Daughter understand the agony of Vishal",
+            "Devkinandan Sharma"
+        ]
+    },
+    {
+        "id": "8",
+        "context": "Elaan is a declaration of war against the reign of terror unleashed by the ganglords.The story revolves around an upright and principled Police Officer , A.C.P. Ramakant Chaudhary whose eldest son Vikas is killed in a pre-planned accident.But the A.C.P. is unable to nab the culprits for want of valid evidence.Consequently,the A.C.P.,his wife Revati and younger son Vishal are griefstricken over the loss of young Vikas.While the atmosphere in the city is already vitiated by the atrocities of ganglords Baba Khan and Manna Shetty who enjoy the support of some unscrupulous police personnel , the A.C.P. vows to make the ruthless gangsters bite the dust , without taking the law in his own hands.On the other hand , Vishal an angry young man , can not stand this injustice since the police had failed to arrest his brother's killers , and he silently resents his A.C.P father's inaction in dealing with the culprits.The ideologies of the father and son clash - Which lead to a conflict between a dutiful father and a reckless son.The only one who understands the agony of Vishal is Mohini , the daughter of head constable Devkinandan Sharma. The day comes when Vishal confronts Baba Khan and Manna Shetty Which leads to tension and gory situation for the A.C.P.,as the ganglords threaten to eliminate the A.C.P. as well as his wife Revati and son Vishal.",
+        "question": "What was the name of the younger brother of the murder victim?",
+        "answer": "Vishal",
+        "decompositions": [
+            {
+                "question": "Who was the murdered victim?",
+                "answer": "Vikas",
+                
+            },
+            {
+                "question": "Who is #1 the eldest son of?",
+                "answer": "A.C.P. Ramakant Chaudhary",
+                
+            },
+            {
+                "question": "Who is the younger son of #2?",
+                "answer": "Vishal",
+                
+            }
+        ],
+        "list_answers": [
+            "Vishal"
+        ]
+    },
+    {
+        "id": "9",
+        "context": "Elaan is a declaration of war against the reign of terror unleashed by the ganglords.The story revolves around an upright and principled Police Officer , A.C.P. Ramakant Chaudhary whose eldest son Vikas is killed in a pre-planned accident.But the A.C.P. is unable to nab the culprits for want of valid evidence.Consequently,the A.C.P.,his wife Revati and younger son Vishal are griefstricken over the loss of young Vikas.While the atmosphere in the city is already vitiated by the atrocities of ganglords Baba Khan and Manna Shetty who enjoy the support of some unscrupulous police personnel , the A.C.P. vows to make the ruthless gangsters bite the dust , without taking the law in his own hands.On the other hand , Vishal an angry young man , can not stand this injustice since the police had failed to arrest his brother's killers , and he silently resents his A.C.P father's inaction in dealing with the culprits.The ideologies of the father and son clash - Which lead to a conflict between a dutiful father and a reckless son.The only one who understands the agony of Vishal is Mohini , the daughter of head constable Devkinandan Sharma. The day comes when Vishal confronts Baba Khan and Manna Shetty Which leads to tension and gory situation for the A.C.P.,as the ganglords threaten to eliminate the A.C.P. as well as his wife Revati and son Vishal.",
+        "question": "What are the names of the persons who embody the father-son clash?",
+        "answer": "Ramakant Chaudhary and Vishal",
+        "decompositions": [
+            {
+                "question": "Who is the father in the context?",
+                "answer": "Ramakant Chaudhary",
+                
+            },
+            {
+                "question": "Who is the son of #1?",
+                "answer": "Vishal",
+                
+            },
+            {
+                "question": "List the names in #1 and #2",
+                
+            }
+        ],
+        "list_answers": [
+            "Ramakant Chaudhary and Vishal",
+            "Vishal and Ramakant"
+        ]
+    },
+    {
+        "id": "10",
+        "context": "Late on the next Sunday afternoon Gifford had gone for a country walk which he had arranged to bring him round in time for the evening service at the little village church of Wynford standing just outside the park boundary.His way took him by well-remembered field-paths which, although towards the end of his walk darkness had set in, he had no difficulty in tracing.The last field he crossed brought him to a by-road joining the highway which ran through Wynford, the junction being about a quarter of a mile from the church.As he neared the stile which admitted to the road he saw, on the other side of the hedge and showing just above it, the head of a man.At the sound of his footsteps the man quickly turned, and, as for a moment the fitful moonlight caught his face, Gifford was sure he recognized Gervase Henshaw.But he took no notice and kept on his way to the stile, which he crossed and gained the road.As he did so he glanced back.A horse and trap was waiting there with Henshaw in it.He was now bending down, probably with the object of concealing his identity, and had moved on a few paces farther down the road.",
+        "question": "Where was Gifford on his way to when he glanced back?",
+        "answer": "On his way to the stile",
+        "decompositions": [
+            {
+                "question": "When did Gifford glance back?",
+                "answer": "When Gifford crossed and gain the road",
+                
+            },
+            {
+                "question": "When did #1?",
+                "answer": "on his way to the stile",
+                
+            }
+        ],
+        "list_answers": [
+            "On his way to the stile"
+        ]
+    },
+    {
+        "id": "11",
+        "context": "Late on the next Sunday afternoon Gifford had gone for a country walk which he had arranged to bring him round in time for the evening service at the little village church of Wynford standing just outside the park boundary.His way took him by well-remembered field-paths which, although towards the end of his walk darkness had set in, he had no difficulty in tracing.The last field he crossed brought him to a by-road joining the highway which ran through Wynford, the junction being about a quarter of a mile from the church.As he neared the stile which admitted to the road he saw, on the other side of the hedge and showing just above it, the head of a man.At the sound of his footsteps the man quickly turned, and, as for a moment the fitful moonlight caught his face, Gifford was sure he recognized Gervase Henshaw.But he took no notice and kept on his way to the stile, which he crossed and gained the road.As he did so he glanced back.A horse and trap was waiting there with Henshaw in it.He was now bending down, probably with the object of concealing his identity, and had moved on a few paces farther down the road.",
+        "question": "Would darkness fall before Gifford's arrival at the church?",
+        "answer": "Yes",
+        "decompositions": [
+            {
+                "question": "When did darkness set in?",
+                "answer": "towards the end of his walk",
+                
+            },
+            {
+                "question": "Did #1 happen before Gifford's arrival?",
+                "answer": "Yes",
+                
+            }
+        ],
+        "list_answers": [
+            "Yes"
+        ]
+    },
+    {
+        "id": "13",
+        "context": "Late on the next Sunday afternoon Gifford had gone for a country walk which he had arranged to bring him round in time for the evening service at the little village church of Wynford standing just outside the park boundary.His way took him by well-remembered field-paths which, although towards the end of his walk darkness had set in, he had no difficulty in tracing.The last field he crossed brought him to a by-road joining the highway which ran through Wynford, the junction being about a quarter of a mile from the church.As he neared the stile which admitted to the road he saw, on the other side of the hedge and showing just above it, the head of a man.At the sound of his footsteps the man quickly turned, and, as for a moment the fitful moonlight caught his face, Gifford was sure he recognized Gervase Henshaw.But he took no notice and kept on his way to the stile, which he crossed and gained the road.As he did so he glanced back.A horse and trap was waiting there with Henshaw in it.He was now bending down, probably with the object of concealing his identity, and had moved on a few paces farther down the road.",
+        "question": "Who was walking and what animal did he see?",
+        "answer": "Giffard saw a horse",
+        "decompositions": [
+            {
+                "question": "Who had gone for a walk?",
+                "answer": "Giffard",
+                
+            },
+            {
+                "question": "Which animal did #1 see?",
+                "answer": "Horse",
+                
+            }
+        ],
+        "list_answers": [
+            "Horse",
+            "Gifford",
+            "Gifford saw a horse"
+        ]
+    },
+    {
+        "id": "14",
+        "context": "Late on the next Sunday afternoon Gifford had gone for a country walk which he had arranged to bring him round in time for the evening service at the little village church of Wynford standing just outside the park boundary.His way took him by well-remembered field-paths which, although towards the end of his walk darkness had set in, he had no difficulty in tracing.The last field he crossed brought him to a by-road joining the highway which ran through Wynford, the junction being about a quarter of a mile from the church.As he neared the stile which admitted to the road he saw, on the other side of the hedge and showing just above it, the head of a man.At the sound of his footsteps the man quickly turned, and, as for a moment the fitful moonlight caught his face, Gifford was sure he recognized Gervase Henshaw.But he took no notice and kept on his way to the stile, which he crossed and gained the road.As he did so he glanced back.A horse and trap was waiting there with Henshaw in it.He was now bending down, probably with the object of concealing his identity, and had moved on a few paces farther down the road.",
+        "question": "At what time of evening did Gifford reach the last field",
+        "answer": "Darkness set in",
+        "decompositions": [
+            {
+                "question": "When did Gifford reach the last field?",
+                "answer": "towards the end of his walk",
+                
+            },
+            {
+                "question": "What happened #1?",
+                "answer": "Darkness set in",
+                
+            }
+        ],
+        "list_answers": [
+            "Darkness set in"
+        ]
+    },
+    {
+        "id": "15",
+        "context": "Animated history of the US. Of course the cartoon is highly oversimplified, and most critics consider it one of the weakest parts of the film.But it makes a valid claim which you ignore entirely: That the strategy to promote \"gun rights\" for white people and to outlaw gun possession by black people was a way to uphold racism without letting an openly terrorist organization like the KKK flourish.Did the 19th century NRA in the southern states promote gun rights for black people? I highly doubt it.But if they didn't, one of their functions was to continue the racism of the KKK.This is the key message of this part of the animation, which is again being ignored by its critics.Buell shooting in Flint.You write: \"Fact: The little boy was the class thug, already suspended from school for stabbing another kid with a pencil, and had fought with Kayla the day before\".This characterization of a six-year-old as a pencil-stabbing thug is exactly the kind of hysteria that Moore's film warns against.It is the typical right-wing reaction which looks for simple answers that do not contradict the Republican mindset.The kid was a little bastard, and the parents were involved in drugs -- case closed.But why do people deal with drugs?Because it's so much fun to do so?It is by now well documented that the CIA tolerated crack sales in US cities to fund the operation of South American \"contras\" It is equally well known that the so-called \"war on drugs\" begun under the Nixon administration is a failure which has cost hundreds of billions and made America the world leader in prison population (both in relative and absolute numbers).",
+        "question": "What type of the film is being discussed and what is on of the key messages?",
+        "answer": "Animated history of the US and one of the key messages is continuing the racist goals of the KKK.",
+        "decompositions": [
+            {
+                "question": "What is the type of the film?",
+                "answer": "Animated history of the US",
+                
+            },
+            {
+                "question": "What is one of the key messages in #1?",
+                "answer": "one of the key messages is continuing the racist goals of the KKK.",
+                
+            }
+        ],
+        "list_answers": [
+            "Animated history of the US and one of the key messages is continuing the racist goals of the KKK",
+            "Animated, key message: how gun rights are promoted for whites, outlawed for blacks",
+            "It is an animated history of the US and one of the key messages is  to continue the racism of the KKK"
+        ]
+    },
+    {
+        "id": "16",
+        "context": "Animated history of the US. Of course the cartoon is highly oversimplified, and most critics consider it one of the weakest parts of the film.But it makes a valid claim which you ignore entirely: That the strategy to promote \"gun rights\" for white people and to outlaw gun possession by black people was a way to uphold racism without letting an openly terrorist organization like the KKK flourish.Did the 19th century NRA in the southern states promote gun rights for black people? I highly doubt it.But if they didn't, one of their functions was to continue the racism of the KKK.This is the key message of this part of the animation, which is again being ignored by its critics.Buell shooting in Flint.You write: \"Fact: The little boy was the class thug, already suspended from school for stabbing another kid with a pencil, and had fought with Kayla the day before\".This characterization of a six-year-old as a pencil-stabbing thug is exactly the kind of hysteria that Moore's film warns against.It is the typical right-wing reaction which looks for simple answers that do not contradict the Republican mindset.The kid was a little bastard, and the parents were involved in drugs -- case closed.But why do people deal with drugs?Because it's so much fun to do so?It is by now well documented that the CIA tolerated crack sales in US cities to fund the operation of South American \"contras\" It is equally well known that the so-called \"war on drugs\" begun under the Nixon administration is a failure which has cost hundreds of billions and made America the world leader in prison population (both in relative and absolute numbers).",
+        "question": "Which type of rights are being discussed and promoted by which group?",
+        "answer": "Gun rights promoted by the NRA",
+        "decompositions": [
+            {
+                "question": "Which type of rights are being discussed?",
+                "answer": "Gun rights",
+                
+            },
+            {
+                "question": "#1 are being promoted by which group?",
+                "answer": "NRA",
+                
+            }
+        ],
+        "list_answers": [
+            "Discussion of a strategy to promote \"gun rights\" for white people was discussed by NRS and KKK",
+            "The discussion of gun rights being promoted by the NRA",
+            "Gun rights promoted by the NRA"
+        ]
+    },
+    {
+        "id": "17",
+        "context": "Animated history of the US. Of course the cartoon is highly oversimplified, and most critics consider it one of the weakest parts of the film.But it makes a valid claim which you ignore entirely: That the strategy to promote \"gun rights\" for white people and to outlaw gun possession by black people was a way to uphold racism without letting an openly terrorist organization like the KKK flourish.Did the 19th century NRA in the southern states promote gun rights for black people? I highly doubt it.But if they didn't, one of their functions was to continue the racism of the KKK.This is the key message of this part of the animation, which is again being ignored by its critics.Buell shooting in Flint.You write: \"Fact: The little boy was the class thug, already suspended from school for stabbing another kid with a pencil, and had fought with Kayla the day before\".This characterization of a six-year-old as a pencil-stabbing thug is exactly the kind of hysteria that Moore's film warns against.It is the typical right-wing reaction which looks for simple answers that do not contradict the Republican mindset.The kid was a little bastard, and the parents were involved in drugs -- case closed.But why do people deal with drugs?Because it's so much fun to do so?It is by now well documented that the CIA tolerated crack sales in US cities to fund the operation of South American \"contras\" It is equally well known that the so-called \"war on drugs\" begun under the Nixon administration is a failure which has cost hundreds of billions and made America the world leader in prison population (both in relative and absolute numbers).",
+        "question": "How old was the little boy who had fought Kayla?",
+        "answer": "6 years old",
+        "decompositions": [
+            {
+                "question": "Who fought with kayla?",
+                "answer": "little boy",
+                
+            },
+            {
+                "question": "How old was #1?",
+                "answer": "6 years old",
+                
+            }
+        ],
+        "list_answers": [
+            "6 years old",
+            "Six"
+        ]
+    },
+    {
+        "context": "A group of researchers at a remote jungle island outpost discover the natives are practicing voodoo and black magic. After killing the local priest , a voodoo curse begins to raise the dead to feed on the living in retribution. The researchers on the island are killed by the newly risen zombies , except for Jenny , the daughter of a scientist couple. She escapes , protected by an enchanted necklace charm given to her by her mother shortly before her death. She returns years later as an adult with a group of mercenaries to attempt to uncover what happened to her parents. Shortly after arriving at the island their boat 's engine dies , stranding them. Meanwhile elsewhere on the island a trio of hikers discover a cave , the same cave leading to the underground temple where the original curse was created. After accidentally reviving the curse , the dead once again return to kill any who trespass on their island. The mercenaries encounter their first zombie , who injures a member of the team. Taking shelter in the remains of the old research facilities medical quarters they are soon joined by Chuck , the only surviving hiker. <b>Sent 11: </b>Arming themselves with weapons left behind by the long dead research team , they make their stand as the dead once again rise. One by one they are injured or killed , one of whom sacrifices himself to blow up the medical facility and his newly undead team members. Jenny and Chuck flee , the only survivors remaining. They stumble upon the cave once again , where the zombies appear and attack. ",
+        "question": "How many times does Chuck come across the cave where the voodoo curse was originally created?",
+        "answer": "twice",
+        "decompositions": [
+                {
+                    "question": "In which cave was the voodoo curse originally created?"
+                },
+                {
+                    "question": "How many times does Chuck come across #1?"
+                }
+            ],
+        "list_answers": [
+            "Twice",
+            "He stumbles upon the cave twice"
+            ]
+    },
+    {
+        "context": "The judge leaned back in his chair and beckoned to Mr. Andrews.It was finished.Spear was free, and from different parts of the courtroom people were moving toward the door.Their numbers showed that the friends of the young man had been many.Mr. Thorndike felt a certain twinge of disappointment.Even though the result relieved and pleased him, he wished, in bringing it about, he had had some part.He begrudged to Isaacs & Sons the credit of having given Spear his liberty.His morning had been wasted.He had neglected his own interests, and in no way assisted those of Spear.He was moving out of the railed enclosure when Andrews called him by name.\"His honor,\" he said impressively, \"wishes to speak to you.\" The judge leaned over his desk and shook Mr. Thorndike by the hand.Then he made a speech.The speech was about public-spirited citizens who, to the neglect of their own interests, came to assist the ends of justice, and fellow-creatures in misfortune.He purposely spoke in a loud voice, and every one stopped to listen.\"The law, Mr. Thorndike, is not vindictive,\" he said.\"It wishes only to be just.Nor can it be swayed by wealth or political or social influences.But when there is good in a man, I, personally, want to know it, and when gentlemen like yourself, of your standing in this city, come here to speak a good word for a man, we would stultify the purpose of justice if we did not listen.I thank you for coming, and I wish more of our citizens were as unselfish and public-spirited.\" It was all quite absurd and most embarrassing, but inwardly Mr. Thorndike glowed with pleasure.It was a long time since any one had had the audacity to tell him he had done well.",
+        "question": "What did the judge tell Mr. Thorndike about the law?",
+        "answer": "The law is not vindictive",
+        "decompositions": [
+                {
+                    "question": "Mention things about law."
+                },
+                {
+                    "question": "Which among #1 did judge tell Mr. Thorndike?"
+                }
+            ],
+        "list_answers": [
+            "Cannot be swayed by wealth or political or social influences",
+            "The law is not vindictive",
+            "It was not vindictive",
+            "The judge told Mr. Thorndike that the law is not vindictive. He said the law only wishes to be just. Judge said the law cannot be swayed by wealth, political, or social influences",
+            "It wishes only"
+            ]
+    },
+    {
+        "context": "In many parts of the world, trees lose their leaves in autumn.The leaves turn color.Then fall from the trees to the ground.As the leaves are falling, they have kinetic energy.While they are still attached to the trees they also have energy.When they are attached they are not in motion, so how can they have energy?Instead of kinetic energy, they have stored energy.This stored energy is called potential energy.An object has potential energy because of its position.For example, leaves on trees have potential energy because they could fall.They fall because of the pull of gravity.Potential energy can be transferred into motion.Motion can also be turned back into potential energy.Objects have potential energy due to their position.A leaf on a tree branch has potential energy.The leafs energy can be turned into motion as it falls.Once the leaf is on the ground, it has no more potential unless it is lifted back up.",
+        "question": "What happens to a leaf as it falls?",
+        "answer": "Leaf's energy is turned into motion",
+        "decompositions": [
+                {
+                    "question": "What kind of energy does a leaf when it is not falling?"
+                },
+                {
+                    "question": "What is #1 energy turned into as the leaf falls?"
+                }
+            ],
+        "list_answers": [
+            "Leaf's energy is turned into motion",
+            "Potential energy is turned into kinetic energy"
+            ]
+    },
+    {
+        "context": "Hurlburt Field, Florida (CNN) -- An Air Force CV-22 Osprey crashed Wednesday during a routine training mission north of Navarre, Florida, injuring five crew members aboard, a military official said.The crash occurred about 6:45 p.m.at Hurlburt Field's Eglin Range, said Amy Nicholson, chief of public affairs at the airfield.The five injured crew members were taken to an area hospital, Nicholson said.The extent of their injuries was not immediately known.The cause of the accident is under investigation, she said.The Osprey was assigned to the 1st Special Operations Wing, the Air Force said.The tilt-rotor aircraft can fly like an airplane and land like a helicopter.The Army began developing the Osprey in 1982, though the program was nearly scrapped in 1989 when then-Secretary of Defense Dick Cheney sought to cancel it because of ballooning costs.Questions were raised about the safety of the Osprey after two crashes, including one in 1992 at a Marine Corps air base in Virginia that killed the crew.In late 2000, the Marine Corps grounded the Osprey fleet after two crashes -- one in Arizona that killed four crew members and 15 passengers, and another in North Carolina that killed the crew.A redesign was ordered on the Osprey, and it resumed flights in 2002.The Air Force began using Ospreys in 2008 after testing the aircraft in 2006.They were first deployed by the Marines in Iraq in 2007 after 18 years and $20 billion in development.",
+        "question": "After the Osprey resumed flights in 2002 how long did it take for the Air Force to begin using the aircraft?",
+        "answer": "6 years",
+        "decompositions": [
+                {
+                    "question": "When did the Air Force resume flights?"
+                },
+                {
+                    "question": "When did the Air Force begin using Ospreys?"
+                },
+                {
+                    "question": "How many years between #2 and #1"
+                }
+            ],
+        "list_answers": [
+            "6 years"
+            ]
+    },
+    {
+        "context": "Hurlburt Field, Florida (CNN) -- An Air Force CV-22 Osprey crashed Wednesday during a routine training mission north of Navarre, Florida, injuring five crew members aboard, a military official said.The crash occurred about 6:45 p.m.at Hurlburt Field's Eglin Range, said Amy Nicholson, chief of public affairs at the airfield.The five injured crew members were taken to an area hospital, Nicholson said.The extent of their injuries was not immediately known.The cause of the accident is under investigation, she said.The Osprey was assigned to the 1st Special Operations Wing, the Air Force said.The tilt-rotor aircraft can fly like an airplane and land like a helicopter.The Army began developing the Osprey in 1982, though the program was nearly scrapped in 1989 when then-Secretary of Defense Dick Cheney sought to cancel it because of ballooning costs.Questions were raised about the safety of the Osprey after two crashes, including one in 1992 at a Marine Corps air base in Virginia that killed the crew.In late 2000, the Marine Corps grounded the Osprey fleet after two crashes -- one in Arizona that killed four crew members and 15 passengers, and another in North Carolina that killed the crew.A redesign was ordered on the Osprey, and it resumed flights in 2002.The Air Force began using Ospreys in 2008 after testing the aircraft in 2006.They were first deployed by the Marines in Iraq in 2007 after 18 years and $20 billion in development.",
+        "question": "The crash that left five injured occurred at what time?",
+        "answer": "6:45 pm",
+        "decompositions": [
+                {
+                    "question": "The crash that injured five crew members happened where?"
+                },
+                {
+                    "question": "At what time did the crash happen at #1?"
+                }
+            
+            ],
+        "list_answers": [
+            "6:45 pm"
+            ]
+    },
+    {
+        "context": "Hurlburt Field, Florida (CNN) -- An Air Force CV-22 Osprey crashed Wednesday during a routine training mission north of Navarre, Florida, injuring five crew members aboard, a military official said.The crash occurred about 6:45 p.m.at Hurlburt Field's Eglin Range, said Amy Nicholson, chief of public affairs at the airfield.The five injured crew members were taken to an area hospital, Nicholson said.The extent of their injuries was not immediately known.The cause of the accident is under investigation, she said.The Osprey was assigned to the 1st Special Operations Wing, the Air Force said.The tilt-rotor aircraft can fly like an airplane and land like a helicopter.The Army began developing the Osprey in 1982, though the program was nearly scrapped in 1989 when then-Secretary of Defense Dick Cheney sought to cancel it because of ballooning costs.Questions were raised about the safety of the Osprey after two crashes, including one in 1992 at a Marine Corps air base in Virginia that killed the crew.In late 2000, the Marine Corps grounded the Osprey fleet after two crashes -- one in Arizona that killed four crew members and 15 passengers, and another in North Carolina that killed the crew.A redesign was ordered on the Osprey, and it resumed flights in 2002.The Air Force began using Ospreys in 2008 after testing the aircraft in 2006.They were first deployed by the Marines in Iraq in 2007 after 18 years and $20 billion in development.",
+        "question": "How many years passed between the beginning of Osprey development and the fatal Osprey crash in Virginia?",
+        "answer": "10 years",
+        "decompositions": [
+                {
+                    "question": "In which year did the the development of Osprey begin?"
+                },
+                {
+                    "question": "In which year did the fatal Osprey crash in Virginia happend?"
+                },
+                {
+                    "question": "How many years pass between #2 and #1?"
+                }
+            
+            ],
+        "list_answers": [
+            "10 years"
+            ]
+    },
+    {
+        "context": "(CNN) -- Gabriel GarcÃ­a MÃ¡rquez, widely regarded as one of the most important contemporary Latin American authors, was admitted to a hospital in Mexico earlier this week, according to the Ministry of Health.The Nobel Prize recipient, known as \"Gabo,\" had infections in his lungs and his urinary tract.He was suffering from dehydration, the ministry said.GarcÃ­a MÃ¡rquez, 87, is responding well to antibiotics, but his release date is still to be determined.\"I wish him a speedy recovery.\"Mexican President Enrique PeÃ±a wrote on Twitter.GarcÃ­a MÃ¡rquez was born in the northern Colombian town of Aracataca, the inspiration for the fictional town of Macondo, the setting of the 1967 novel \"One Hundred Years of Solitude.\"He won the Nobel Prize for literature in 1982 \"for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent's life and conflicts,\" according to the Nobel Prize website.GarcÃ­a MÃ¡rquez has spent many years in Mexico and has a huge following there.Colombian President Juan Manuel Santos said his country is thinking of the author.\"All of Colombia wishes a speedy recovery to the greatest of all time: Gabriel GarcÃ­a MÃ¡rquez,\" he tweeted.CNN en EspaÃ±ol's Fidel Gutierrez contributed to this story.",
+        "question": "How many years after the novel \"One Hundred Years of Solitude\" was written did Gabo get a Nobel Prize?",
+        "answer": "15 years",
+        "decompositions": [
+                {
+                    "question": "When was the novel \"One Hundred Years of Solitude\" written?"
+                },
+                {
+                    "question": "When did Gabo receive the Nodel Price for literature?"
+                },
+                {
+                    "question": "How many years passed between #2 and #1?"
+                }
+            
+            ],
+        "list_answers": [
+            "15 years"
+            ]
+    },
+    {
+        "context": "Newton was the first one to suggest that gravity is universal.That means gravity affects all objects in the universe.Thats why his law of gravity is called the law of universal gravitation.Universal gravitation means that all objects are affected by gravity in the same way.This is the reason the apple falling from the tree and the Moon being held in orbit is the same.Universal gravitation also means that while Earth exerts a pull on you, you exert a pull on Earth.In fact, there is gravity between you and every mass around you.Even tiny molecules of gas are attracted to one another by the force of gravity.Newtons law had a huge impact on how people thought about the universe.It explains the motion of objects not only on Earth but in outer space as well.",
+        "question": "Why is Newton's law of gravity called the law of universal gravitation?",
+        "answer": "That means gravity affects all objects in the universe",
+        "decompositions": [
+                {
+                    "question": "Why is Newton's law universal?"
+                }
+            ],
+        "list_answers": [
+            "All objects in the universe in the same way",
+            "That means gravity affects all objects in the universe"
+            ]
+    },
+    {
+        "context": "Einstein and Maric married in January 1903.In May 1904, the couple's first son, Hans Albert Einstein, was born in Bern, Switzerland.Their second son, Eduard, was born in Zurich in July 1910.In 1914, the couple separated; Einstein moved to Berlin and his wife remained in Zurich with their sons.They divorced on 14 February 1919, having lived apart for five years.Eduard, whom his father called \"Tete\" (for petit), had a breakdown at about age 20 and was diagnosed with schizophrenia.His mother cared for him and he was also committed to asylums for several periods, including full-time after her death.The marriage with Maric does not seem to have been very happy.In letters revealed in 2015, Einstein wrote to his early love, Marie Winteler, about his marriage and his still strong feelings for Marie.In 1910 he wrote to her that \"I think of you in heartfelt love every spare minute and am so unhappy as only a man can be\" while his wife was pregnant with their second child.Einstein spoke about a \"misguided love\" and a \"missed life\" regarding his love for Marie.Einstein married Elsa Lowenthal on 2 June 1919, after having had a relationship with her since 1912.She was a first cousin maternally and a second cousin paternally.In 1933, they emigrated to the United States.In 1935, Elsa Einstein was diagnosed with heart and kidney problems; she died in December 1936.",
+        "question": "How much time passed, after Albert Einstein's father divorced his mother, that he re-married?",
+        "answer": "About four months had passed",
+        "decompositions": [
+                {
+                    "question": "On which date did Einstein and Maric get divorced?"
+                },
+                {
+                    "question": "On which date did Einstein marry Elsa Lowenthal?"
+                },
+                {
+                    "question": "How many months and days passed between #1 and #2?"
+                }
+            ],
+        "list_answers": [
+            "About four months had passed",
+            "3 months and 18 days"
+            ]
+    },
+    {
+        "context": "Einstein and Maric married in January 1903.In May 1904, the couple's first son, Hans Albert Einstein, was born in Bern, Switzerland.Their second son, Eduard, was born in Zurich in July 1910.In 1914, the couple separated; Einstein moved to Berlin and his wife remained in Zurich with their sons.They divorced on 14 February 1919, having lived apart for five years.Eduard, whom his father called \"Tete\" (for petit), had a breakdown at about age 20 and was diagnosed with schizophrenia.His mother cared for him and he was also committed to asylums for several periods, including full-time after her death.The marriage with Maric does not seem to have been very happy.In letters revealed in 2015, Einstein wrote to his early love, Marie Winteler, about his marriage and his still strong feelings for Marie.In 1910 he wrote to her that \"I think of you in heartfelt love every spare minute and am so unhappy as only a man can be\" while his wife was pregnant with their second child.Einstein spoke about a \"misguided love\" and a \"missed life\" regarding his love for Marie.Einstein married Elsa Lowenthal on 2 June 1919, after having had a relationship with her since 1912.She was a first cousin maternally and a second cousin paternally.In 1933, they emigrated to the United States.In 1935, Elsa Einstein was diagnosed with heart and kidney problems; she died in December 1936.",
+        "question": "How long were Einstein and Maric married before their second child was born?",
+        "answer": "7 Years and 6 months",
+        "decompositions": [
+                {
+                    "question": "In which month and year did Einstein and Maric get married?"
+                },
+                {
+                    "question": "In which month and year was the couple's second child born?"
+                },
+                {
+                    "question": "How many years and months passed between #2 and #1?"
+                }
+            
+            ],
+        "list_answers": [
+            "7 Years and 6 months"
+            ]
+    },
+    {
+        "context": "At the age of eighteen there came a change in Poe's life.Until then he had been a petted child in a wealthy family.Mr. Allan did not have that affection for him which Mrs. Allan had.He did not understand the boy's peculiar and erratic nature, and was particularly displeased when he found that Edgar had run into debt at college.There was an angry scene between the two, and Edgar was told that he must leave the university and go into the counting-room.It appears that he made some attempt to tie himself down to figures and accounts and business routine; but as he had not been brought up to this kind of life, he soon tired of it, and decided to go into the world to seek his own fortune.He went to Boston, where he published a volume of poetry.In the preface to this volume, Poe says that the poems were written before he was fourteen.Though this may not be strictly true, there is little doubt that some of them were.While he was still at school he had collected enough of his poems to make a volume, and Mr. Allan had taken them up to the master of the English and Classical School to get his advice about publishing them.This gentleman advised against it on the ground that it would make Edgar conceited,--a fault from which he was already suffering.As soon as he was free to do as he pleased, therefore, it was natural that he should rewrite his poems and publish them.",
+        "question": "When Mr. Allan showed Poe's poems to the master of English and Classical studies, what advice was he given?",
+        "answer": "On the ground that it would make Edgar conceited,--a fault from which he was already suffering",
+        "decompositions": [
+                {
+                    "question": "What advice did the master of English and Classical studies give?"
+                }
+            ],
+        "list_answers": [
+            "He was told not to publish the poems because it would make him more conceited",
+            "On the ground that it would make Edgar conceited,--a fault from which he was already suffering"
+            ]
+    },
+    {
+        "context": "The National Security Act of 1947 created the position of Director of Central Intelligence (DCI).Independent from the departments of Defense, State, Justice, and other policy departments, the DCI heads the U.S.intelligence community and provides intelligence to federal entities.The sole element of the intelligence community independent from a cabinet agency is the CIA.As an independent agency, it collects, analyzes, and disseminates intelligence from all sources.The CIA's number one customer is the president of the United States, who also has the authority to direct it to conduct covert operations.Although covert actions represent a very small fraction of the Agency's entire budget, these operations have at times been controversial and over time have dominated the public's perception of the CIA.The DCI is confirmed by the Senate but is not technically a member of the president's cabinet.The director's power under federal law over the loose, confederated \"intelligence community\" is limited.He or she states the community's priorities and coordinates development of intelligence agency budget requests for submission to Congress.This responsibility gives many the false impression that the DCI has line authority over the heads of these agencies and has the power to shift resources within these budgets as the need arises.Neither is true.In fact, the DCI's real authority has been directly proportional to his personal closeness to the president, which has waxed and waned over the years, and to others in government, especially the secretary of defense.Intelligence agencies under the Department of Defense account for approximately 80 percent of all U.S. spending for intelligence, including some that supports a national customer base and some that supports specific Defense Department or military service needs.As they are housed in the Defense Department, these agencies are keenly attentive to the military's strategic and tactical requirements.",
+        "question": "What does the sole element of the intelligence community (independent from a cabinet agency) do?",
+        "answer": "Collects, analyzes, and disseminates intelligence from all sources",
+        "decompositions": [
+                {
+                    "question": "Who is the sole element of the intelligence community?"
+                },
+                {
+                    "question": "What does #1 do?"
+                }
+            
+            ],
+        "list_answers": [
+            "Collects, analyzes, and disseminates intelligence from all sources"
+            ]
+    },
+    {
+        "context": "The National Security Act of 1947 created the position of Director of Central Intelligence (DCI).Independent from the departments of Defense, State, Justice, and other policy departments, the DCI heads the U.S.intelligence community and provides intelligence to federal entities.The sole element of the intelligence community independent from a cabinet agency is the CIA.As an independent agency, it collects, analyzes, and disseminates intelligence from all sources.The CIA's number one customer is the president of the United States, who also has the authority to direct it to conduct covert operations.Although covert actions represent a very small fraction of the Agency's entire budget, these operations have at times been controversial and over time have dominated the public's perception of the CIA.The DCI is confirmed by the Senate but is not technically a member of the president's cabinet.The director's power under federal law over the loose, confederated \"intelligence community\" is limited.He or she states the community's priorities and coordinates development of intelligence agency budget requests for submission to Congress.This responsibility gives many the false impression that the DCI has line authority over the heads of these agencies and has the power to shift resources within these budgets as the need arises.Neither is true.In fact, the DCI's real authority has been directly proportional to his personal closeness to the president, which has waxed and waned over the years, and to others in government, especially the secretary of defense.Intelligence agencies under the Department of Defense account for approximately 80 percent of all U.S. spending for intelligence, including some that supports a national customer base and some that supports specific Defense Department or military service needs.As they are housed in the Defense Department, these agencies are keenly attentive to the military's strategic and tactical requirements.",
+        "question": "Who has the authority to conduct covert operations that, although a small fraction of the Agency's budget, have been controversial and dominated public perception of the CIA?",
+        "answer": "the president of the united states",
+        "decompositions": [
+                {
+                    "question": "Who has the authority to direct CIA to conduct covert operations?"
+                }
+            ],
+        "list_answers": [
+            "CIA",
+            "The president of the United States",
+            "DCI"
+            ]
+    },
+    {
+        "context": "(OPRAH.com) -- Chris Rock is an Emmy-winning comedian, devoted husband and loving father --but it's time to get to know a new side of this funnyman.Meet Chris Rock, hair expert.It's a detour he took after an innocent carpool ride left Rock with an idea he just couldn't shake.\"I was with my daughter one day, and we're in the car and she's with one of her friends in the back seat, a little white friend,\" he says.\"She was just kind of raving about her friend's hair a little too much for my comfort [saying]: 'You've got great hair.Oh, your hair's so good.'\" Not wanting to make her comments a big deal, Rock says he tried to play his them off.\"[I said]: \"Oh, baby, your hair's beautiful.Come on,'\" he says.\"If I would have really reacted, then she would have a complex about her hair.\"Still, Rock couldn't let it go.\"It sparked something in me,\" he says.Oprah.com: Oprah's hair throughout the years!What Rock discovered is a $9 billion industry that affects the daily activities, wallets, self-esteem -- and even the sex lives -- of black women.Because women spend so much time and money on their hair, Rock says men are forced to adopt a hands-off policy.\"You cannot touch a black woman's hair.You are conditioned not to even go there,\" he says.\"When I was a dating guy, I dated women from different races.Anytime I was with an Asian or a Puerto Rican girl or a white girl, my hands would constantly be in their hair.",
+        "question": "Why do men have a hands off policy when it comes to black women's hair?",
+        "answer": "Women spend so much time and money on their hair",
+        "decompositions": [
+                {
+                    "question": "What is different about black women's hair?"
+                },
+                {
+                    "question": "Why is #1?"
+                }
+            ],
+        "list_answers": [
+            "Women spend so much time and money on their hair",
+            "The time and money involved"
+            ]
+    },
+    {
+        "context": "Lucy is an eight year old girl who lives with her parents and pet bird.One Saturday afternoon, she sits at the kitchen table.She draws a picture of her family.She makes sure to draw her mom named Martha wearing a purple dress, because that is her favorite.She draws many yellow feathers for her pet bird named Andy.After she is done, she gives the picture to her mom.Her mom hangs it up on the silver refrigerator.The next day, Lucy's mom comes home with a brown dog named Oliver.She tells Lucy that she is pet-sitting, which is like babysitting but with a friend's dog.Lucy's mom tells her she can play with the dog as long as she takes good care of him.Lucy is excited.She pets Oliver nicely on his soft back.He wags his tail.He barks, \"Woof!\"and shows he wants to play fetch with her.Lucy giggles and throws a ball for him to catch.She wishes her bird could play like this with her every day!",
+        "question": "What colors are definitely used in the picture Lucy drew?",
+        "answer": "Yellow and purple",
+        "decompositions": [
+                {
+                    "question": "Who is included in the picture Lucy drew?"
+                },
+                {
+                    "question": "What colors does Lucy use to draw #1?"
+                }
+            ],
+        "list_answers": [
+            "Purple for her mother's dress and yellow for her pet bird",
+            "Yellow and purple",
+            "Purple"
+            ]
+    },
+    {
+        "context": "Speed is an important aspect of motion.It is a measure of how fast or slow something moves.To determine speed you must know two things.First, you must know how far something travels.Second, you need to know how long it takes to travel that far.Speed can be calculated using this formula: speed = distance time A familiar example is the speed of a car.In the U.S., this is usually expressed in miles per hour.Think about a trip you and your family made in the car.Maybe the trip covered 120 miles and it took 3 hours.What was the cars speed?speed = 120 mi = 40 mi/h 3h The speed of a car may also be expressed in kilometers per hour (km/h).The SI unit for speed is meters per second (m/s).This is the unit of measure a scientist would use.",
+        "question": "How do US speed measurement and those used by a scientist differ?",
+        "answer": "Scientists calculate with the SI unit or in meters per second the US calculates by miles per hour",
+        "decompositions": [
+                {
+                    "question": "What speed measurement does US use?"
+                },
+                {
+                    "question": "What speed measurement would a scientist use?"
+                },
+                {
+                    "question": "How does #1 differ from #2?"
+                }
+            ],
+        "list_answers": [
+            "Scientists calculate with the SI unit or in meters per second the US calculates by miles per hour",
+            "Scientist use meters",
+            "US measures speed using miles per hour while scientist would use the SI (international ) unit of measurement of meters per second",
+            "U.S. uses miles"
+            ]
+    },
+    {
+        "context": "There have been many organisms that have lived in Earths past.Only a tiny number of them became fossils.Still, scientists learn a lot from fossils.Fossils are our best clues about the history of life on Earth.Fossils provide evidence about life on Earth.They tell us that life on Earth has changed over time.Fossils in younger rocks look like animals and plants that are living today.Fossils in older rocks are less like living organisms.Fossils can tell us about where the organism lived.Was it land or marine?Fossils can even tell us if the water was shallow or deep.Fossils can even provide clues to ancient climates.",
+        "question": "What is a major difference between younger fossils and older fossils?",
+        "answer": "Fossils in older rocks are less like living organisms",
+        "decompositions": [
+                {
+                    "question": "How do fossils in younger rocks look like?"
+                },
+                {
+                    "question": "How do fossils in older rocks look like?"
+                },
+                {
+                    "question": "What is the difference between #1 and #2?"
+                }
+            ],
+        "list_answers": [
+            "Fossils in older rocks are less like living organisms",
+            "Younger fossils look more like plant and animal life as we know it, older fossils look less like living organisms we know today",
+            "Younger rocks look like animals and plants of today, older rocks are less like living organism"
+            ]
+    }
+]

@@ -1,0 +1,1132 @@
+[{
+		"Problem": "find the simple interest on rs . 300 for 9 months at 6 paisa per month ?",
+		"Rationale": "\"i = ( 300 * 9 * 6 ) / 100 = 162 answer : c\"",
+		"options": "a ) 142 , b ) 152 , c ) 162 , d ) 172 , e ) 182",
+		"answer": "162",
+		"annotated_formula": "multiply(300, divide(9, const_100))",
+		"linear_formula": "divide(n1,const_100)|multiply(n0,#0)|",
+		"category": "gain",
+		"decompositions": [{
+				"question": "multiplication ! 300 ! 0.09"
+
+			},
+			{
+				"question": "multiplication ! #1 ! 6"
+
+			}
+		]
+	},
+	{
+		"Problem": "if a train , travelling at a speed of 180 kmph , crosses a pole in 6 sec , then the length of train is ?",
+		"Rationale": "d = 180 * 5 / 18 * 6 = 300 m answer : a",
+		"options": "a ) 300 , b ) 125 , c ) 288 , d ) 266 , e ) 121",
+		"answer": "300",
+		"annotated_formula": "multiply(multiply(180, const_0_2778), 6)",
+		"linear_formula": "multiply(n0,const_0_2778)|multiply(n1,#0)",
+		"category": "physics",
+		"decompositions": [{
+				"question": "multiplication ! 0.2778 ! 180"
+			},
+			{
+				"question": "multiplication ! #1 ! 6"
+			}
+		]
+	},
+	{
+		"Problem": "a dealer purchases 15 articles for rs . 25 and sells 12 articles for rs . 36 . find the profit percentage ?",
+		"Rationale": "\"l . c . m of 15 and 12 = 60 cp of 60 articles = rs . 100 ( 25 * 4 ) sp of 60 articles = rs . 180 ( 36 * 5 ) profit percentage = ( 180 - 100 ) / 100 * 100 = 80 % answer : a\"",
+		"options": "a ) 80 % , b ) 50 % , c ) 59 % , d ) 40 % , e ) 53 %",
+		"answer": "80",
+		"annotated_formula": "subtract(multiply(36, add(const_4, const_1)), multiply(25, const_4))",
+		"linear_formula": "add(const_1,const_4)|multiply(n1,const_4)|multiply(n3,#0)|subtract(#2,#1)|",
+		"category": "gain",
+		"decompositions": [{
+				"question": "multiplication ! 25 ! 4"
+			},
+			{
+				"question": "addition ! 4 ! 1"
+			},
+			{
+				"question": "multiplication ! 36 ! #2"
+			},
+			{
+				"question": "subtraction ! #3 ! #1"
+			}
+		]
+	},
+	{
+		"Problem": "5.005 / 4.004 =",
+		"options": "a ) 1.05 , b ) 1.50015 , c ) 1.501 , d ) 1.5015 , e ) 1.25",
+		"answer": "1.25",
+		"decompositions": [{
+				"question": "multiplication ! 5.005 ! 1000",
+				"answer": "5005",
+				"needs_context": "True"
+			},
+			{
+				"question": "multiplication ! 4.004 ! 1000",
+				"answer": "4004",
+				"needs_context": "True"
+			},
+			{
+				"question": "division ! #1 ! #2",
+				"answer": "1.25",
+				"needs_context": "True"
+			}
+		]
+	},
+	{
+		"Problem": "two bullet train s 140 m and 210 m long run at the speed of 60 km / hr and 40 km / hr respectively in opposite directions on parallel tracks . the time ( in seconds ) which they take to cross each other , is :",
+		"options": "a ) 15.8 sec . , b ) 12.6 sec . , c ) 11.8 sec . , d ) 10.8 sec . , e ) 08.8 sec .",
+		"answer": "12.6 sec . ",
+		"decompositions": [{
+				"question": "summation ! 140 ! 210",
+				"answer": "350 m",
+				"needs_context": "True"
+			},
+			{
+				"question": "summation ! 60 ! 40",
+				"answer": "100 km/hr",
+				"needs_context": "True"
+			},
+			{
+				"question": "multiplication ! #2 ! 0.277",
+				"answer": "27.778 m/s",
+				"needs_context": "True"
+			},
+			{
+				"question": "division ! #1 ! #3",
+				"answer": "12.6",
+				"needs_context": "True"
+			}
+		]
+	},
+	{
+		"Problem": "find the least number must be subtracted from 62575 so that remaining number is divisible by 99 .",
+		"question": "find the least number must be subtracted from 62575 so that remaining number is divisible by 99 .",
+		"options": "a ) 93 , b ) 7 , c ) 54 , d ) 9 , e ) 6",
+		"answer": "7 ",
+		"decompositions": [{
+				"question": "division ! 62575 ! 99",
+				"answer": "632",
+				"needs_context": "True"
+			},
+			{
+				"question": "multiplication ! #1 ! 99",
+				"answer": "62568"
+			},
+			{
+				"question": "difference ! 62575 ! #2",
+				"answer": "7"
+			}
+		]
+	},
+	{
+		"Problem": "find the value of 72519 x 9999 = m ?",
+		"question": "find the value of 72519 x 9999 = m ?",
+		"options": "a ) 455465473 , b ) 654676854 , c ) 667676753 , d ) 725117481 , e ) 764534522",
+		"answer": "m = 725117481 ",
+		"decompositions": [{
+			"question": "multiplication ! 72517 ! 9999",
+			"answer": "72511781",
+			"needs_context": "True"
+		}]
+	},
+	{
+		"Problem": "find the average of all prime numbers between 1 and 11 .",
+		"Rationale": "\"sol . there are five prime numbers between 1 and 5 . they are 2 , 3 , 5 , 7 , 11 \u00e2 \u02c6 \u00b4 required average = [ 2 + 3 + 5 + 7 + 11 / 5 ] = 28 / 5 = 5.6 answer c\"",
+		"options": "a ) 30 , b ) 3.6 , c ) 5.6 , d ) 6.6 , e ) none",
+		"answer": "5.6",
+		"annotated_formula": "divide(add(add(add(1, const_1), add(add(1, const_1), const_2)), add(subtract(5, 1), subtract(5, const_2))), 1)",
+		"linear_formula": "add(n0,const_1)|subtract(n1,n0)|subtract(n1,const_2)|add(#0,const_2)|add(#1,#2)|add(#0,#3)|add(#5,#4)|divide(#6,n0)|",
+		"category": "general",
+		"decompositions": [{
+				"question": "summation ! 2 ! 3 ! 5 ! 7 ! 11"
+			},
+			{
+				"question": "division ! #1 ! 5"
+			}
+		]
+	},
+	{
+		"Problem": "what will be the cost of building to paint which area equal to 196 sq ft , if the price per foot of building is rs . 15 ?",
+		"question": "what will be the cost of building to paint which area equal to 196 sq ft , if the price per foot of building is rs . 15",
+		"options": "a ) 120, b ) 240, c ) 360, d ) 380, e ) 840",
+		"answer": " 2940",
+		"decompositions": [{
+			"question": "multiplication ! 196 ! 15",
+			"answer": "2940",
+			"needs_context": "True"
+		}]
+	},
+	{
+		"Problem": "a rectangular lawn of dimensions 80 m * 60 m has two roads each 10 m wide running in the middle of the lawn , one parallel to the length and the other parallel to the breadth . what is the cost of traveling the two roads at rs . 5 per sq m ?",
+		"question": "a rectangular lawn of dimensions 80 m * 60 m has two roads each 10 m wide running in the middle of the lawn , one parallel to the length and the other parallel to the breadth . what is the cost of traveling the two roads at rs . 5 per sq m ?",
+		"options": "a ) 6500 , b ) 2779 , c ) 2779 , d ) 3900 , e ) 2781",
+		"answer": "6500",
+		"decompositions": [{
+				"question": "multiplicaiton ! 10 ! 60",
+				"answer": "600",
+				"needs_context": "True"
+			},
+			{
+				"question": "multiplication ! 10 ! 80",
+				"answer": "800",
+				"needs_context": "True"
+			},
+			{
+				"question": "summation ! 600 ! 800",
+				"answer": "1400",
+				"needs_context": "True"
+			},
+			{
+				"question": "multiplication ! 10 ! 10",
+				"answer": "100",
+				"needs_context": "True"
+			},
+			{
+				"question": "difference ! 1400 ! 100",
+				"answer": "1300",
+				"needs_context": "True"
+			},
+			{
+				"question": "multiplication ! 5 ! 1300",
+				"answer": "6500",
+				"needs_context": "True"
+			}
+		]
+	},
+	{
+		"Problem": "if the sides of a cube are in the ratio 9 : 5 . what is the ratio of their diagonals ?",
+		"Rationale": "\"explanation : diagonal of a cube = a \u221a 3 where a is side a 1 : a 2 = 9 : 5 d 1 : d 2 = 9 : 5 where \u221a 3 cancelled both side answer : a\"",
+		"options": "a ) 9 : 5 , b ) 16 : 9 , c ) 4 : , d ) 3 : 4 , e ) 3 : 8",
+		"answer": "9 : 5",
+		"annotated_formula": "divide(9, 5)",
+		"linear_formula": "divide(n0,n1)|",
+		"category": "geometry",
+		"decompositions": [{
+			"question": "concat ! 9 ! : ! 5",
+			"needs_context": "True"
+		}]
+	},
+	{
+		"Problem": "a can do a work in 6 days . b can do the same work in 12 days . if both a & b are working together in how many days they will finish the work ?",
+		"question": "A can do a work in 6 days . B can do the same work in 12 days . if both A & B are working together in how many days they will finish the work ?",
+		"options": "a ) 3 , b ) 5 , c ) 4 , d ) 2 , e ) 6",
+		"answer": "4 ",
+		"decompositions": [{
+				"question": "division ! 1 ! 6",
+				"answer": "1/6",
+				"needs_context": "True"
+			},
+			{
+				"question": "division ! 1 ! 12",
+				"answer": "1/12",
+				"needs_context": "True"
+			},
+			{
+				"question": "summation ! #1 ! #2",
+				"answer": "1/4",
+				"needs_context": "True"
+			},
+			{
+				"question": "division ! 1 ! #3",
+				"answer": "4",
+				"needs_context": "True"
+			}
+		]
+	},
+	{
+		"Problem": "if the simple interest on a certain amount in at 4 % rate 5 years amounted to rs 1920 less than the principal . what was the principal ?",
+		"Rationale": "\"p - 1920 = ( p * 5 * 4 ) / 100 p = 2400 answer : e\"",
+		"options": "a ) 1500 , b ) 2500 , c ) 2507 , d ) 3200 , e ) 2400",
+		"answer": "2400",
+		"annotated_formula": "divide(1920, subtract(const_1, divide(multiply(4, 5), const_100)))",
+		"linear_formula": "multiply(n0,n1)|divide(#0,const_100)|subtract(const_1,#1)|divide(n2,#2)|",
+		"category": "gain",
+		"decompositions": [{
+				"question": "multiplication ! 5 ! 4"
+			},
+			{
+				"question": "division ! #1 ! 100"
+			},
+			{
+				"question": "subtraction ! 1 ! #2"
+			},
+			{
+				"question": "division ! 1920 ! #3"
+			}
+		]
+	},
+	{
+		"Problem": "a room of 5 m 44 cm long and 3 m 74 cm broad is to be paved with squre tiles . find the least number of squre tiles required to cover the floor ?",
+		"question": "a room of 5 m 44 cm long and 3 m 74 cm broad is to be paved with squre tiles . find the least number of squre tiles required to cover the floor ?",
+		"options": "a ) 178 , b ) 128 , c ) 127 , d ) 176 , e ) 171",
+		"answer": "176 ",
+		"decompositions": [{
+			"question": "division ! 15505256 ! 900",
+			"answer": "176",
+			"needs_context": "True"
+		}]
+	},
+	{
+		"Problem": "12 . what is the dividend . divisor 17 , the quotient is 9 and the remainder is 7 .",
+		"Rationale": "d = d * q + r d = 17 * 9 + 7 d = 153 + 7 d = 160 answer e",
+		"options": "a ) 150 , b ) 152 , c ) 154 , d ) 158 , e ) 160",
+		"answer": "160",
+		"annotated_formula": "add(multiply(17, 9), 7)",
+		"linear_formula": "multiply(n1,n2)|add(n3,#0)",
+		"category": "general",
+		"decompositions": [{
+				"question": "multiplication ! 17 ! 9"
+			},
+			{
+				"question": "addition ! #1 ! 7"
+			}
+
+		]
+	},
+	{
+		"Problem": "find compound interest on $ 4000 at 15 % per annum for 2 years 4 months , compounded annually .",
+		"question": "find compound interest on $ 4000 at 15 % per annum for 2 years 4 months , compounded annually .",
+		"options": "a ) 1554.5 , b ) 1509.5 , c ) 1108.5 , d ) 1107.5 , e ) 1100.5",
+		"answer": "1554.5 ",
+		"decompositions": [{
+				"question": "division ! 15 ! 100",
+				"answer": "0.15",
+				"needs_context": "True"
+			},
+			{
+				"question": "summation ! 1 ! #1",
+				"answer": "1.15",
+				"needs_context": "True"
+			},
+			{
+				"question": "power ! #2 ! 2.33",
+				"answer": "1.39",
+				"needs_context": "True"
+			},
+			{
+				"question": "multiplication ! #3 ! 4000",
+				"answer": "5544.5",
+				"needs_context": "True"
+			},
+			{
+				"question": "difference ! #4 ! 4000",
+				"answer": "1544.5",
+				"needs_context": "True"
+			}
+
+		]
+	},
+	{
+		"Problem": "a , b and c , each working alone can complete a job in 6 , 8 and 12 days respectively . if all three of them work together to complete a job and earn $ 1170 , what will be b ' s share of the earnings ?",
+		"question": "A , B and C , each working alone can complete a job in 6 , 8 and 12 days respectively . if all three of them work together to complete a job and earn $ 1170 , what will be B's share of the earnings",
+		"options": "a ) $ 390 , b ) $ 520 , c ) $ 1080 , d ) $ 1170 , e ) $ 630",
+		"answer": " 390 ",
+		"decompositions": [{
+				"question": "division ! 1 ! 6",
+				"answer": "1/6",
+				"needs_context": "True"
+			},
+			{
+				"question": "division ! 1 ! 8",
+				"answer": "1/8",
+				"needs_context": "True"
+			},
+			{
+				"question": "division ! 1 ! 12",
+				"answer": "1/12",
+				"needs_context": "True"
+			},
+			{
+				"question": "summation ! #1 ! #2 ! #3",
+				"answer": "3/8",
+				"needs_context": "True"
+			},
+			{
+				"question": "division ! 1 ! #4?",
+				"answer": "8/3",
+				"needs_context": "True"
+			},
+			{
+				"question": "multiplication ! 8 ! #4",
+				"answer": "3",
+				"needs_context": "True"
+			},
+			{
+				"question": "multiplication ! 1170 ! #6",
+				"answer": "390",
+				"needs_context": "True"
+			}
+		]
+	},
+	{
+		"Problem": "x does a work in 20 days . y does the same work in 40 days . in how many days they together will do the same work ?",
+		"question": "X does a work in 20 days . Y does the same work in 40 days . in how many days they together will do the same work ?",
+		"options": "a ) 10 , b ) 12 , c ) 20 , d ) 30 , e ) 13.33",
+		"answer": "13.33",
+		"decompositions": [{
+				"question": "division ! 1 ! 20",
+				"answer": "1/20",
+				"needs_context": "True"
+			},
+			{
+				"question": "division ! 1 ! 40",
+				"answer": "1/40",
+				"needs_context": "True"
+			},
+			{
+				"question": "summation ! #1 ! #2",
+				"answer": "3/40",
+				"needs_context": "True"
+			},
+			{
+				"question": "division ! 1 ! #3",
+				"answer": "40/3",
+				"needs_context": "True"
+			}
+		]
+	},
+	{
+		"Problem": "one copy machine can make 20 copies a minute , and a second copy machine makes 10 copies a minute . if the two copiers work together , how long would it take them to make 900 copies ?",
+		"question": "one copy machine can make 20 copies a minute , and a second copy machine makes 10 copies a minute . if the two copiers work together , how long would it take them to make 900 copies ?",
+		"options": "a ) 10 minutes , b ) 20 minutes , c ) 25 minutes , d ) 30 minutes , e ) 35 minutes",
+		"answer": "30 minutes ",
+		"decompositions": [{
+				"question": "summation ! 20 ! 10",
+				"answer": "30",
+				"needs_context": "True"
+			},
+			{
+				"question": "division ! 900 ! #1",
+				"answer": "30",
+				"needs_context": "True"
+			}
+		]
+	},
+	{
+		"Problem": "what is the units digit of ( 147 ^ 17 ) ^ 48 ?",
+		"Rationale": "the units digit of the exponents of 7 repeat in a cycle of four , which is { 7,9 , 3,1 } . the number 17 has the form 4 n + 1 so the units digit is 7 inside the bracket . the exponent 48 has the form 4 n , so the units digit is 1 . the answer is a .",
+		"options": "a ) 1 , b ) 3 , c ) 5 , d ) 7 , e ) 9",
+		"answer": "1",
+		"annotated_formula": "add(add(const_4, const_3), const_2)",
+		"linear_formula": "add(const_3,const_4)|add(#0,const_2)|",
+		"category": "general",
+		"decompositions": [{
+				"question": "remainder ! 17 ! 4",
+				"answer": ""
+			},
+			{
+				"question": "return ! #1 ! 1 ! 7 ! 9 ! 3",
+				"answer": ""
+			},
+			{
+				"question": "remainder ! 48 ! 4",
+				"answer": ""
+			},
+			{
+				"question": "return ! #3 ! 1 ! 7 ! 9 ! 3",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "from an island , it is possible to reach the mainland by either ferry p or ferry q . ferry p travels for 3 hours at 8 kilometers per hour , while ferry q takes a route that is two times longer . if ferry p is slower than ferry q by 4 kilometers per hour , how many hours longer is the journey of ferry q compared with the journey of ferry p ?",
+		"Rationale": "\"the distance traveled by ferry p is 24 km . then the distance traveled by ferry q is 48 km . ferry q travels at a speed of 12 kph . the time of the journey for ferry q is 48 / 12 = 4 hours , which is 1 hour more than ferry p . the answer is a .\"",
+		"options": "a ) 1 , b ) 2 , c ) 3 , d ) 4 , e ) 5",
+		"answer": "1",
+		"annotated_formula": "subtract(divide(multiply(const_3, multiply(8, 3)), add(8, const_4.0)), 3)",
+		"linear_formula": "add(n1,n2)|multiply(const_2.0,n1)|multiply(#1,const_3)|divide(#2,#0)|subtract(#3,n0)|",
+		"category": "physics",
+		"decompositions": [{
+				"question": "multiplication ! 3 ! 8",
+				"answer": "24"
+			},
+			{
+				"question": "multiplication ! #1 ! 2",
+				"answer": "48"
+			},
+			{
+				"question": "addition ! 8 ! 4",
+				"answer": "12"
+			},
+			{
+				"question": "division ! #2 ! #3",
+				"answer": "4"
+			},
+			{
+				"question": "subtraction ! #4 ! 3",
+				"answer": "1"
+			}
+		]
+	},
+	{
+		"Problem": "find the cost of fencing around a circular field of diameter 39 m at the rate of rs . 1.50 a meter ?",
+		"Rationale": "\"2 * 22 / 7 * 19.5 = 122.6 122.6 * 1 1 / 2 = rs . 128.73 answer : e\"",
+		"options": "a ) 287 , b ) 132 , c ) 156 , d ) 158 , e ) 128.73",
+		"answer": "128.73",
+		"annotated_formula": "multiply(circumface(divide(39, const_2)), 1.50)",
+		"linear_formula": "divide(n0,const_2)|circumface(#0)|multiply(n1,#1)|",
+		"category": "physics",
+		"decompositions": [{
+				"question": "multiplication ! 39 ! 3.14",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #1 ! 1.5",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "the average weight of a group of persons increased from 48 kg to 51 kg , when two persons weighing 78 kg and 93 kg join the group . find the initial number of members in the group ?",
+		"Rationale": "let the initial number of members in the group be n . initial total weight of all the members in the group = n ( 48 ) from the data , 48 n + 78 + 93 = 51 ( n + 2 ) = > 51 n - 48 n = 69 = > n = 23 therefore there were 23 members in the group initially . answer : c",
+		"options": "a ) 87 , b ) 67 , c ) 23 , d ) 75 , e ) 25",
+		"answer": "23",
+		"annotated_formula": "divide(subtract(add(78, 93), multiply(51, const_2)), subtract(51, 48))",
+		"linear_formula": "add(n2,n3)|multiply(n1,const_2)|subtract(n1,n0)|subtract(#0,#1)|divide(#3,#2)",
+		"category": "general",
+		"decompositions": [{
+				"question": "subtraction ! 51 ! 48",
+				"answer": ""
+			},
+			{
+				"question": "addition ! 78 ! 93",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! 51 ! 2",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! #2 ! #3",
+				"answer": ""
+			},
+			{
+				"question": "division ! #4 ! #1",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "the population of a town increases 25 % and 40 % respectively in two consecutive years . after the growth the present population of the town is 1750 . then what is the population of the town 2 years ago ?",
+		"Rationale": "\"explanation : formula : ( after = 100 denominator ago = 100 numerator ) 1750 * 100 / 125 * 100 / 140 = 1000 answer : option b\"",
+		"options": "a ) a ) 750 , b ) 800 , c ) 850 , d ) 900 , e ) 950",
+		"answer": "800",
+		"annotated_formula": "divide(1750, multiply(add(const_1, divide(25, const_100)), add(const_1, divide(40, const_100))))",
+		"linear_formula": "divide(n0,const_100)|divide(n1,const_100)|add(#0,const_1)|add(#1,const_1)|multiply(#2,#3)|divide(n2,#4)|",
+		"category": "gain",
+		"decompositions": [{
+				"question": "division ! 40 ! 100",
+				"answer": ""
+			},
+			{
+				"question": "addition ! 1 ! #1",
+				"answer": ""
+			},
+			{
+				"question": "division ! 25 ! 100",
+				"answer": ""
+			},
+			{
+				"question": "addition ! 1 ! #3",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #2 ! #4",
+				"answer": ""
+			},
+			{
+				"question": "division ! 1750 ! #5",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "convert 0.34 in to a vulgar fraction ?",
+		"Rationale": "\"answer 0.34 = 34 / 100 = 17 / 50 correct option : c\"",
+		"options": "a ) 18 / 50 , b ) 16 / 50 , c ) 17 / 50 , d ) 19 / 50 , e ) none",
+		"answer": "17 / 50",
+		"annotated_formula": "divide(multiply(multiply(multiply(add(const_3, const_2), const_2), multiply(add(const_3, const_2), const_2)), 0.34), multiply(multiply(add(const_3, const_2), const_2), multiply(add(const_3, const_2), const_2)))",
+		"linear_formula": "add(const_2,const_3)|multiply(#0,const_2)|multiply(#1,#1)|multiply(n0,#2)|divide(#3,#2)|",
+		"category": "physics",
+		"decompositions": [{
+				"question": "division ! 34 ! 2",
+				"answer": ""
+			},
+			{
+				"question": "division ! 100 ! 2",
+				"answer": ""
+			},
+			{
+				"question": "concat ! #1 ! / ! #2",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "dhoni bought 5 toys with the average cost of $ 10 . if david also buys the sixth toy with the price of $ 16 , what is the average ( arithmetic mean ) price of those 6 toys ?",
+		"Rationale": "5 toys - > total cost = 5 * avg cost = 5 * 10 = 50 sixth toy cost = 16 total cost for 6 toys = 50 + 16 = 66 am = 66 / 6 = 11 hence e",
+		"options": "a ) $ 10 , b ) $ 7 , c ) $ 8.5 , d ) $ 9 , e ) $ 11",
+		"answer": "$ 11",
+		"annotated_formula": "divide(add(10, const_12), const_2)",
+		"linear_formula": "add(n1,const_12)|divide(#0,const_2)",
+		"category": "general",
+		"decompositions": [{
+				"question": "addition ! 10 ! 12",
+				"answer": ""
+			},
+			{
+				"question": "division ! #1 ! 2",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "a train traveling at 100 kmph overtakes a motorbike traveling at 64 kmph in 40 seconds . what is the length of the train in meters ?",
+		"Rationale": "\"relative speed of the train with respect to the motorbike should be the speed with which the length of the train is covered in 40 secs . calculate the relative speed = > 100 - 64 = 36 kmph and time is 40 sec = 40 / 3600 hrs distance ( in this case the length of the train ) = s * t = 36 * 40 / 3600 . 4 km or 400 meters . so answer ( a )\"",
+		"options": "a ) 400 meters , b ) 1111 meters , c ) 1777 meters , d ) 1822 meters , e ) none of these",
+		"answer": "400 meters",
+		"annotated_formula": "multiply(multiply(subtract(100, 64), const_0_2778), 40)",
+		"linear_formula": "subtract(n0,n1)|multiply(#0,const_0_2778)|multiply(n2,#1)|",
+		"category": "physics",
+		"decompositions": [{
+				"question": "subtraction ! 100 ! 64",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #1 ! 0.2778",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #2 ! 40",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "a train running at a speed of 36 kmph crosses an electric pole in 12 seconds . in how much time will it cross a 350 m long platform ?",
+		"Rationale": "\"let the length of the train be x m . when a train crosses an electric pole , the distance covered is its own length . so , x = 12 * 36 * 5 / 18 m = 120 m . time taken to cross the platform = ( 120 + 350 ) / 36 * 5 / 18 = 47 min . answer : d\"",
+		"options": "a ) 44 sec , b ) 49 sec , c ) 42 sec , d ) 47 sec , e ) none of these",
+		"answer": "47 sec",
+		"annotated_formula": "divide(add(350, multiply(multiply(const_0_2778, 36), 12)), multiply(const_0_2778, 36))",
+		"linear_formula": "multiply(n0,const_0_2778)|multiply(n1,#0)|add(n2,#1)|divide(#2,#0)|",
+		"category": "physics",
+		"decompositions": [{
+				"question": "multiplication ! 0.2778 ! 36",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #1 ! 12",
+				"answer": ""
+			},
+			{
+				"question": "addition ! 350 ! #2",
+				"answer": ""
+			},
+			{
+				"question": "division ! #3 ! #1",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "gold is 10 times as heavy as water and copper is 6 times as heavy as water . in what ratio should these be mixed to get an alloy 8 times as heavy as water ?",
+		"Rationale": "\"g = 10 w c = 6 w let 1 gm of gold mixed with x gm of copper to get 1 + x gm of the alloy 1 gm gold + x gm copper = x + 1 gm of alloy 10 w + 6 wx = x + 1 * 8 w 10 + 6 x = 8 ( x + 1 ) x = 1 / 1 ratio of gold with copper = 1 : 1 = 1 : 1 answer is b\"",
+		"options": "a ) 3 : 2 , b ) 1 : 1 , c ) 3 : 1 , d ) 5 : 2 , e ) 4 : 3",
+		"answer": "1 : 1",
+		"annotated_formula": "divide(subtract(8, 6), subtract(10, 8))",
+		"linear_formula": "subtract(n2,n1)|subtract(n0,n2)|divide(#0,#1)|",
+		"category": "general",
+		"decompositions": [{
+				"question": "subtraction ! 10 ! 8",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! 8 ! 6",
+				"answer": ""
+			},
+			{
+				"question": "division ! #1 ! 2",
+				"answer": ""
+			},
+			{
+				"question": "concat ! #3 ! : ! #3",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "points a , b , and , c have xy - coordinates ( 2,0 ) , ( 8,12 ) , and ( 14,0 ) , respectively . points x , y , and z have xy - coordinates ( 6,0 ) , ( 8,4 ) , and ( 10,0 ) , respectively . what fraction q of the area of triangle abc is the area of triangle xyz ?",
+		"Rationale": "\"if you notice , both triangles abc and xyz have a side on x axis . we can take these sides as bases for each triangle , therefore area of abc is 1 / 2 * 12 * 12 ( height of abc is the y coordinate of the third point ( 8,12 ) ) similarly area of xyz is 1 / 2 * 4 * 4 dividing area of xyz with that of abc gives q = 1 / 9 . a\"",
+		"options": "a ) 1 / 9 , b ) 1 / 8 , c ) 1 / 6 , d ) 1 / 5 , e ) 1 / 3",
+		"answer": "1 / 9",
+		"annotated_formula": "divide(divide(power(const_4, const_2), const_2), divide(power(add(const_10, const_2), const_2), const_2))",
+		"linear_formula": "add(const_10,const_2)|power(const_4,const_2)|divide(#1,const_2)|power(#0,const_2)|divide(#3,const_2)|divide(#2,#4)|",
+		"category": "geometry",
+		"decompositions": [{
+				"question": "multiplication ! 12 ! 12",
+				"answer": ""
+			},
+			{
+				"question": "division ! #1 ! 2",
+				"answer": ""
+			},
+			{
+				"question": "division ! 16 ! 2",
+				"answer": ""
+			},
+			{
+				"question": "division ! #3 ! 8",
+				"answer": ""
+			},
+			{
+				"question": "division ! #2 ! 8"
+			},
+			{
+				"question": "concat ! #4 ! / ! #5"
+			}
+		]
+	},
+	{
+		"Problem": "what will be the compound interest on a sum of rs . 20,000 after 3 years at the rate of 12 % p . a . ?",
+		"Rationale": "\"amount = [ 20000 * ( 1 + 12 / 100 ) ^ 3 ] = 20000 * 28 / 25 * 28 / 25 * 28 / 25 = rs . 28098.56 c . i . = ( 28098.56 - 20000 ) = rs . 8098.56 answer : a\"",
+		"options": "a ) rs . 8098.56 , b ) rs . 9720 , c ) rs . 10123.20 , d ) rs . 10483.20 , e ) none",
+		"answer": "rs. 8098.56",
+		"annotated_formula": "subtract(multiply(multiply(multiply(const_4, const_100), const_100), power(add(const_1, divide(12, const_100)), 3)), multiply(multiply(const_4, const_100), const_100))",
+		"linear_formula": "divide(n2,const_100)|multiply(const_100,const_4)|add(#0,const_1)|multiply(#1,const_100)|power(#2,n1)|multiply(#3,#4)|subtract(#5,#3)|",
+		"category": "gain",
+		"decompositions": [{
+				"question": "power ! 1.12 ! 3",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! 20000 ! #1",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! #2 ! 20000",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "a waitress ' s income consists of her salary and tips . during one week , her tips were 3 / 4 of her salary . what fraction of her income for the week came from tips ?",
+		"Rationale": "\"her tips were 3 / 4 of her salary . let ' s say her salary = $ 4 this mean her tips = ( 3 / 4 ) ( $ 4 ) = $ 3 so , her total income = $ 4 + $ 3 = $ 7 what fraction of her income for the week came from tips $ 3 / $ 7 = 3 / 7 = c\"",
+		"options": "a ) 1 / 9 , b ) 1 / 6 , c ) 3 / 7 , d ) 4 / 9 , e ) 5 / 9",
+		"answer": "3 / 7",
+		"annotated_formula": "divide(3, add(3, 4))",
+		"linear_formula": "add(n0,n1)|divide(n0,#0)|",
+		"category": "general",
+		"decompositions": [{
+			"question": "concat ! 3 ! / ! 7",
+			"answer": ""
+		}]
+	},
+	{
+		"Problem": "the height of a triangle is decreased by 5 % and its base increased by 10 % . its area will",
+		"Rationale": "explanation : let the initial height be 100 and the base be 200 units . \u00e2 \u02c6 \u00b4 area = 1 / 2 x 100 x 200 = 10000 sq units now , height = 95 units and base = 220 units \u00e2 \u02c6 \u00b4 new area = 1 / 2 x 95 x 220 = 10450 \u00e2 \u02c6 \u00b4 area is increased by ( 10450 - 10000 ) / 10000 x 10 = 4.5 % answer : option c",
+		"options": "a ) decrease by 12.5 %', b ) increase by 12.5 %', c ) increase by 4.5 %', d ) increase by 25 %', e ) none of these",
+		"answer": "increase by 4.5%",
+		"annotated_formula": "subtract(divide(multiply(subtract(const_100, 5), add(const_100, 10)), const_100), const_100)",
+		"linear_formula": "add(n1,const_100)|subtract(const_100,n0)|multiply(#0,#1)|divide(#2,const_100)|subtract(#3,const_100)",
+		"category": "geometry",
+		"decompositions": [{
+				"question": "multiplication ! 0.95 ! 1.1",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! 1 ! #1",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! 100 ! #2",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "how many different positive integers exist between 10 ^ 5 and 10 ^ 6 , the sum of whose digits is equal to 2 ?",
+		"Rationale": "\"so , the numbers should be from 100,000 to 1 , 000,000 the following two cases are possible for the sum of the digits to be 2 : 1 . two 1 ' s and the rest are 0 ' s : 100,001 100,010 100,100 101,000 110,000 5 numbers . 2 . one 2 and the rest are 0 ' s : 200,000 1 number . total = 6 numbers . answer : a\"",
+		"options": "a ) 6 , b ) 7 , c ) 5 , d ) 8 , e ) 18",
+		"answer": "6",
+		"annotated_formula": "add(add(const_4, const_3), const_1)",
+		"linear_formula": "add(const_3,const_4)|add(#0,const_1)|",
+		"category": "general",
+		"decompositions": [{
+				"question": "addition ! 4 ! 3",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! #1 ! 1",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "the average age of 20 students of a class is 20 years . out of these , the average age of 9 students is 11 years and that of the other 10 students is 24 years . the age of the 20 th student is ?",
+		"Rationale": "\"age of the 20 th student = 20 * 20 - ( 9 * 11 + 10 * 24 ) = 400 - 339 = 61 years answer is b\"",
+		"options": "a ) 65 , b ) 61 , c ) 59 , d ) 63 , e ) 64",
+		"answer": "61",
+		"annotated_formula": "subtract(multiply(20, 20), add(multiply(9, 11), multiply(10, 24)))",
+		"linear_formula": "multiply(n0,n0)|multiply(n2,n3)|multiply(n4,n5)|add(#1,#2)|subtract(#0,#3)|",
+		"category": "general",
+		"decompositions": [{
+				"question": "multiplication ! 10 ! 24",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! 9 ! 11",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! 20 ! 20",
+				"answer": ""
+			},
+			{
+				"question": "addition ! #1 ! #2",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! #3 ! #4",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "a man engaged a servant on the condition that he would pay him rs . 500 and a uniform after one year service . he served only for 9 months and received uniform and rs . 300 , find the price of the uniform ?",
+		"Rationale": "\"9 / 12 = 3 / 4 * 500 = 375 300 - - - - - - - - - - - - - 75 1 / 4 - - - - - - - - 75 1 - - - - - - - - - ? = > rs . 300 answer : d\"",
+		"options": "a ) rs . 80 , b ) rs . 85 , c ) rs . 90 , d ) rs . 300 , e ) rs . 120",
+		"answer": "rs. 300",
+		"annotated_formula": "multiply(divide(subtract(multiply(9, 500), multiply(multiply(const_3, const_4), 300)), multiply(multiply(const_3, const_4), const_1)), const_4)",
+		"linear_formula": "multiply(n0,n1)|multiply(const_3,const_4)|multiply(n2,#1)|multiply(#1,const_1)|subtract(#0,#2)|divide(#4,#3)|multiply(#5,const_4)|",
+		"category": "general",
+		"decompositions": [{
+				"question": "multiplication ! 500 ! 0.75",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! #1 ! 300",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #2 ! 4",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "a rectangular field is to be fenced on three sides leaving a side of 20 feet uncovered . if the area of the field is 800 sq . ft , how many feet of fencing will be required ?",
+		"Rationale": "\"explanation : we are given with length and area , so we can find the breadth . as length * breadth = area = > 20 * breadth = 800 = > breadth = 40 feet area to be fenced = 2 b + l = 2 * 40 + 20 = 100 feet answer : option a\"",
+		"options": "a ) 100 feet , b ) 120 feet , c ) 150 feet , d ) 180 feet , e ) 186 feet",
+		"answer": "100",
+		"annotated_formula": "add(multiply(divide(800, 20), const_2), 20)",
+		"linear_formula": "divide(n1,n0)|multiply(#0,const_2)|add(n0,#1)|",
+		"category": "geometry",
+		"decompositions": [{
+				"question": "division ! 800 ! 20",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #1 ! 20",
+				"answer": ""
+			},
+			{
+				"question": "addition ! #1 ! 20",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "a man buys a cycle for rs . 1400 and sells it at a loss of 10 % . what is the selling price of the cycle ?",
+		"Rationale": "\"solution s . p = 90 % of rs . 1400 = rs . ( 90 / 100 \u00d7 1400 ) rs . 1260 . answer ce\"",
+		"options": "a ) rs . 1090 , b ) rs . 1160 , c ) rs . 1190 , d ) rs . 1202 , e ) none",
+		"answer": "none",
+		"annotated_formula": "divide(multiply(subtract(const_100, 10), 1400), const_100)",
+		"linear_formula": "subtract(const_100,n1)|multiply(n0,#0)|divide(#1,const_100)|",
+		"category": "gain",
+		"decompositions": [{
+				"question": "division ! 10 ! 100",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! 1 ! #1",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! 1400 ! #2",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "every day daniel drives 60 miles back from work . on sunday , daniel drove all the way back from work at a constant speed of x miles per hour . on monday , daniel drove the first 32 miles back from work at ( 2 x ) miles per hour , and the rest of the way at ( x / 2 ) miles per hour . the time it took daniel to drive back from work on monday is longer than the time it took him to drive back from work on sunday by what percent ?",
+		"Rationale": "\"let ' s test x = 4 . . . . on sunday , daniel drove 60 miles at 4 miles / hour . d = ( r ) ( t ) 60 = ( 4 ) ( t ) 60 / 4 = 15 = t it takes 15 hours to drive home on monday , daniel drove the first 32 miles at ( 2 ) ( 4 ) = 8 miles / hour and the rest of the way ( 28 miles ) at 4 / 2 = 2 miles / hour d = ( r ) ( t ) 32 = ( 8 ) ( t ) 32 / 8 = 4 = t it takes 4 hours for the first part d = ( r ) ( t ) 28 = ( 2 ) ( t ) 28 / 2 = 14 = t it takes 14 hours for the second part total time to drive home on monday = 4 + 14 = 18 hours we ' re asked by what percent 18 hours is greater than 15 hours . 18 / 15 = 1.2 , so it is 20 % greater . b\"",
+		"options": "a ) 10 % , b ) 20 % , c ) 30 % , d ) 40 % , e ) 50 %",
+		"answer": "20 %",
+		"annotated_formula": "multiply(divide(subtract(add(divide(32, 2), multiply(subtract(60, 32), 2)), 60), 60), const_100)",
+		"linear_formula": "divide(n1,n2)|subtract(n0,n1)|multiply(#1,n2)|add(#0,#2)|subtract(#3,n0)|divide(#4,n0)|multiply(#5,const_100)|",
+		"category": "physics",
+		"decompositions": [{
+				"question": "subtraction ! 60 ! 32",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #1 ! 2",
+				"answer": ""
+			},
+			{
+				"question": "division ! 32 ! 2",
+				"answer": ""
+			},
+			{
+				"question": "addition ! #2 ! #3",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! #4 ! 60",
+				"answer": ""
+			},
+			{
+				"question": "division ! #5 ! 60",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #6 ! 100",
+				"answer": ""
+			},
+			{
+				"question": "concat ! #7 ! %",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "the length of a rectangle is halved , while its breadth is tripled . watis the % change in area ?",
+		"Rationale": "\"let original length = x and original breadth = y . original area = xy . new length = x . 2 new breadth = 3 y . new area = x x 3 y = 3 xy . 2 2 increase % = 1 xy x 1 x 100 % = 50 % . 2 xy c\"",
+		"options": "a ) 43 % , b ) 47 % , c ) 50 % , d ) 65 % , e ) 68 %",
+		"answer": "50 %",
+		"annotated_formula": "multiply(divide(subtract(multiply(const_3, divide(const_1, const_2)), const_1), const_1), const_100)",
+		"linear_formula": "divide(const_1,const_2)|multiply(#0,const_3)|subtract(#1,const_1)|divide(#2,const_1)|multiply(#3,const_100)|",
+		"category": "geometry",
+		"decompositions": [{
+				"question": "multiplication ! 0.5 ! 3",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! #1 ! 1",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #2 ! 100",
+				"answer": ""
+			},
+			{
+				"question": "concat ! #3 ! %",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "the number of sailors on a ship is 85 % more than the number of officers . the ratio of sailors to officers would be",
+		"Rationale": "\"sailor = 1.85 * officer sailor / officer = 1.85 / 1 = 185 / 100 = 37 / 20 answer will be a\"",
+		"options": "a ) 37 : 20 , b ) 47 : 20 , c ) 47 : 25 , d ) 22 : 25 , e ) 97 : 50",
+		"answer": "37 : 20",
+		"annotated_formula": "divide(add(85, const_100), const_100)",
+		"linear_formula": "add(n0,const_100)|divide(#0,const_100)|",
+		"category": "other",
+		"decompositions": [{
+				"question": "division ! 185 ! 5",
+				"answer": ""
+			},
+			{
+				"question": "division ! 100 ! 5",
+				"answer": ""
+			},
+			{
+				"question": "concat ! #1 ! : ! #2",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "a goods train runs at the speed of 72 km / hr and crosses a 270 m long platform in 26 sec . what is the length of the goods train ?",
+		"Rationale": "\"speed = 72 * 5 / 18 = 20 m / sec . time = 26 sec . let the length of the train be x meters . then , ( x + 270 ) / 26 = 20 x = 250 m . answer : d\"",
+		"options": "a ) 278 , b ) 166 , c ) 151 , d ) 250 , e ) 109",
+		"answer": "250",
+		"annotated_formula": "subtract(multiply(multiply(divide(72, const_3600), const_1000), 26), 270)",
+		"linear_formula": "divide(n0,const_3600)|multiply(#0,const_1000)|multiply(n2,#1)|subtract(#2,n1)|",
+		"category": "physics",
+		"decompositions": [{
+				"question": "division ! 72 ! 3600",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #1 ! 1000",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #2 ! 26",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! #3 ! 270",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "the volume of water inside a swimming pool doubles every hour . if the pool is filled to its full capacity within 8 hours , in how many hours was it filled to one quarter of its capacity ?",
+		"Rationale": "d",
+		"options": "a ) 2, b ) 4, c ) 5, d ) 6, e ) 7",
+		"answer": "6",
+		"annotated_formula": "subtract(subtract(8, const_1), const_1)",
+		"linear_formula": "subtract(n0,const_1)|subtract(#0,const_1)",
+		"category": "physics",
+		"decompositions": [{
+			"question": "subtraction ! 8 ! 2",
+			"answer": ""
+		}]
+	},
+	{
+		"Problem": "if pintu is coded as 79523 in a certain code language , how would you code mintu in the same language ?",
+		"Rationale": "\"1 2 3 4 5 6 7 8 9 a b c d e f g h i j k l m n o p q r s t u v w x y z sooo . . . mintu is 49523 . . . answer : c\"",
+		"options": "a ) 13426 , b ) 14236 , c ) 49523 , d ) 14263 , e ) 15263",
+		"answer": "49523",
+		"annotated_formula": "divide(79523, add(const_3, const_3))",
+		"linear_formula": "add(const_3,const_3)|divide(n0,#0)|",
+		"category": "general",
+		"decompositions": [{
+				"question": "subtraction ! 7 ! 3",
+				"answer": ""
+			},
+			{
+				"question": "concat ! #1 ! 9523",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "a 20 % stock yielding 12 % is quoted at :",
+		"Rationale": "\"income of rs 12 on investment of rs 100 income of rs 20 on investment of ? = ( 20 * 100 ) / 12 = 167 answer : b\"",
+		"options": "a ) rs . 83.33 , b ) rs . 167 , c ) rs . 112 , d ) rs . 120 , e ) rs . 140",
+		"answer": "rs. 167",
+		"annotated_formula": "multiply(divide(const_100, 12), 20)",
+		"linear_formula": "divide(const_100,n1)|multiply(n0,#0)|",
+		"category": "gain",
+		"decompositions": [{
+				"question": "multiplication ! 20 ! 100",
+				"answer": ""
+			},
+			{
+				"question": "division ! #1 ! 12",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "water is leaking out from a cylinder container at the rate of 0.31 m ^ 3 per minute . after 10 minutes , the water level decreases 1 / 9 meters . what is value of the radius in meters ?",
+		"Rationale": "\"10 * 0.31 = 3.1 = pi * r ^ 2 * h r ^ 2 = 3.1 / ( pi * 1 / 9 ) which is about 9 r = 3 the answer is b .\"",
+		"options": "a ) 2 , b ) 3 , c ) 4 , d ) 6 , e ) 9",
+		"answer": "3",
+		"annotated_formula": "divide(multiply(10, 0.31), 1)",
+		"linear_formula": "multiply(n0,n2)|divide(#0,n3)|",
+		"category": "physics",
+		"decompositions": [{
+			"question": "multiplication ! 10 ! 0.3",
+			"answer": ""
+		}]
+	},
+	{
+		"Problem": "it costs $ 2 for the first 1 / 5 hour to use the laundry machine at the laundromat . after the first hour it costs $ 12 per hour . if a certain customer uses the laundry machine for 2 hours and 15 minutes , how much will it cost him ?",
+		"Rationale": "\"2 hrs 15 min = 135 min first 12 min - - - - - - > $ 2 time left is 135 min . . . now , 60 min costs $ 12 1 min costs $ 12 / 60 135 min costs $ 12 / 60 * 135 = > $ 27 so , total cost will be $ 27 + $ 2 = > $ 29 hence answer will be c\"",
+		"options": "a ) $ 25 . , b ) $ 26.6 . , c ) $ 29 . , d ) $ 30 . , e ) $ 31 .",
+		"answer": "26.6",
+		"annotated_formula": "add(add(multiply(12, 2), 2), multiply(divide(12, const_60), divide(15, 5)))",
+		"linear_formula": "divide(n3,const_60)|divide(n5,n2)|multiply(n3,n4)|add(n0,#2)|multiply(#0,#1)|add(#3,#4)|",
+		"category": "physics",
+		"decompositions": [{
+				"question": "multiplication ! 2.25 ! 60",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! 60 ! 0.2",
+				"answer": ""
+			},
+			{
+				"question": "subtraction ! #1 ! #2",
+				"answer": ""
+			},
+			{
+				"question": "division ! 12 ! 60",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #3 ! #4",
+				"answer": ""
+			},
+			{
+				"question": "addition ! 2 ! #5",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "a train 200 m long can cross an electric pole in 5 sec and then find the speed of the train ?",
+		"Rationale": "\"length = speed * time speed = l / t s = 200 / 5 s = 40 m / sec speed = 40 * 18 / 5 ( to convert m / sec in to kmph multiply by 18 / 5 ) speed = 144 kmph answer : d\"",
+		"options": "a ) 114 , b ) 124 , c ) 134 , d ) 144 , e ) 154",
+		"answer": "144",
+		"annotated_formula": "divide(divide(200, const_1000), divide(5, const_3600))",
+		"linear_formula": "divide(n0,const_1000)|divide(n1,const_3600)|divide(#0,#1)|",
+		"category": "physics",
+		"decompositions": [{
+				"question": "division ! 200 ! 5",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! 18 ! #1",
+				"answer": ""
+			},
+			{
+				"question": "division ! #2 ! 5",
+				"answer": ""
+			}
+		]
+	},
+	{
+		"Problem": "water is leaking out from a cylinder container at the rate of 0.31 m ^ 3 per minute . after 10 minutes , the water level decreases 1 / 9 meters . what is value of the radius in meters ?",
+		"Rationale": "\"10 * 0.31 = 3.1 = pi * r ^ 2 * h r ^ 2 = 3.1 / ( pi * 1 / 9 ) which is about 9 r = 3 the answer is b .\"",
+		"options": "a ) 2 , b ) 3 , c ) 4 , d ) 6 , e ) 9",
+		"answer": "3",
+		"annotated_formula": "divide(multiply(10, 0.31), 1)",
+		"linear_formula": "multiply(n0,n2)|divide(#0,n3)|",
+		"category": "physics",
+		"decompositions": [{
+			"question": "multiplication ! 0.3 ! 10",
+			"answer": ""
+		}]
+	},
+	{
+		"Problem": "a person crosses a 800 m long street in 5 minutes . what is his speed in km per hour ?",
+		"Rationale": "\"distance = 800 meter time = 5 minutes = 5 x 60 seconds = 300 seconds speed = distance / time = 800 / 300 = 2.67 m / s = 2.67 \u00e3 \u2014 18 / 5 km / hr = 9.61 km / hr answer : e\"",
+		"options": "a ) 1.23 , b ) 2.86 , c ) 4.36 , d ) 9.25 , e ) 9.61",
+		"answer": "9.61",
+		"annotated_formula": "divide(divide(800, const_1000), divide(multiply(5, const_60), const_3600))",
+		"linear_formula": "divide(n0,const_1000)|multiply(n1,const_60)|divide(#1,const_3600)|divide(#0,#2)|",
+		"category": "physics",
+		"decompositions": [{
+				"question": "division ! 800 ! 5",
+				"answer": ""
+			},
+			{
+				"question": "multiplication ! #1 ! 60",
+				"answer": ""
+			},
+			{
+				"question": "division ! #2 ! 1000",
+				"answer": ""
+			}
+		]
+	}
+]

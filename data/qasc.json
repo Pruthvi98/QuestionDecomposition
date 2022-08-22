@@ -1,0 +1,1973 @@
+[{
+		"id": 1,
+		"context": "beads of water are formed by water vapor condensing. Clouds are made of water vapor. Beads of water can be formed by clouds.\n",
+		"question": "What  type of water formation is formed by clouds? (A) pearls (B) streams (C) shells (D) diamonds (E) rain (F) beads (G) cooled (H) liquid\n",
+		"answer": "beads",
+		"choices": [{
+				"text": "pearls",
+				"label": "A"
+			},
+			{
+				"text": "streams",
+				"label": "B"
+			},
+			{
+				"text": "shells",
+				"label": "C"
+			},
+			{
+				"text": "diamonds",
+				"label": "D"
+			},
+			{
+				"text": "rain",
+				"label": "E"
+			},
+			{
+				"text": "beads",
+				"label": "F"
+			},
+			{
+				"text": "cooled",
+				"label": "G"
+			},
+			{
+				"text": "liquid",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is # a type of water formation which is formed by clouds?"
+		}]
+	},
+	{
+		"id": 2,
+		"context": "beads of water are formed by water vapor condensing. Condensation is the change of water vapor to a liquid. Vapor turning into a liquid leaves behind beads of water\n",
+		"question": "Where do beads of water come from? (A) Too much water (B) underground systems (C) When the water is too cold (D) Water spills (E) Vapor turning into a liquid (F) Warm air moving into cold air (G) At the peak of a mountain (H) To another location like underground\n",
+		"answer": "Vapor turning into a liquid",
+		"choices": [{
+				"text": "Too much water",
+				"label": "A"
+			},
+			{
+				"text": "underground systems",
+				"label": "B"
+			},
+			{
+				"text": "When the water is too cold",
+				"label": "C"
+			},
+			{
+				"text": "Water spills",
+				"label": "D"
+			},
+			{
+				"text": "Vapor turning into a liquid",
+				"label": "E"
+			},
+			{
+				"text": "Warm air moving into cold air",
+				"label": "F"
+			},
+			{
+				"text": "At the peak of a mountain",
+				"label": "G"
+			},
+			{
+				"text": "To another location like underground",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Do beads of water come from #?"
+		}]
+	},
+	{
+		"id": 3,
+		"context": "beads of water are formed by water vapor condensing. An example of water vapor is steam. Steam forms beads of water.\n",
+		"question": "What forms beads of water?  (A) Necklaces. (B) Steam. (C) Glass beads . (D) a wave (E) tiny (F) a solute (G) rain (H) Bracelets.\n",
+		"answer": "Steam.",
+		"choices": [{
+				"text": "Necklaces.",
+				"label": "A"
+			},
+			{
+				"text": "Steam.",
+				"label": "B"
+			},
+			{
+				"text": "Glass beads .",
+				"label": "C"
+			},
+			{
+				"text": "a wave",
+				"label": "D"
+			},
+			{
+				"text": "tiny",
+				"label": "E"
+			},
+			{
+				"text": "a solute",
+				"label": "F"
+			},
+			{
+				"text": "rain",
+				"label": "G"
+			},
+			{
+				"text": "Bracelets.",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does # form beads of water?"
+		}]
+	},
+	{
+		"id": 4,
+		"context": "beads of water are formed by water vapor condensing. Water is made up of H2O molecules. h2o beads are formed by h2o vapor condensing\n",
+		"question": "what kind of beads are formed from vapor condensing? (A) tiny (B) H20 (C) h2o (D) carbon (E) hydrogen (F) rain (G) oxygen (H) Dew\n",
+		"answer": "h2o",
+		"choices": [{
+				"text": "tiny",
+				"label": "A"
+			},
+			{
+				"text": "H20",
+				"label": "B"
+			},
+			{
+				"text": "h2o",
+				"label": "C"
+			},
+			{
+				"text": "carbon",
+				"label": "D"
+			},
+			{
+				"text": "hydrogen",
+				"label": "E"
+			},
+			{
+				"text": "rain",
+				"label": "F"
+			},
+			{
+				"text": "oxygen",
+				"label": "G"
+			},
+			{
+				"text": "Dew",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Are # the kind of beads formed from vapor condensing?"
+		}]
+	},
+	{
+		"id": 5,
+		"context": "beads of water are formed by water vapor condensing. Water is made up of H2O molecules. beads of h2o are formed by h2o vapor condensing\n",
+		"question": "what kind of beads are formed by their vapor condensing? (A) h2o (B) rain (C) tiny (D) H20 (E) CO 2 (F) blue (G) Aves (H) Dew\n",
+		"answer": "h2o",
+		"choices": [{
+				"text": "h2o",
+				"label": "A"
+			},
+			{
+				"text": "rain",
+				"label": "B"
+			},
+			{
+				"text": "tiny",
+				"label": "C"
+			},
+			{
+				"text": "H20",
+				"label": "D"
+			},
+			{
+				"text": "CO 2",
+				"label": "E"
+			},
+			{
+				"text": "blue",
+				"label": "F"
+			},
+			{
+				"text": "Aves",
+				"label": "G"
+			},
+			{
+				"text": "Dew",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Are # the kind of beads formed by their vapor condensing?"
+		}]
+	},
+	{
+		"id": 6,
+		"context": "beads of water are formed by water vapor condensing. When water vapor condenses, energy in the form of heat is given to the remaining air molecules. When water vapor condenses heat energy goes to the remaining air molecules\n",
+		"question": "What happens to the heat energy during condensation. (A) It goes to the remaining air molecules (B) Temperature changing (C) they travel great distances (D) raising their temperature (E) liquid precipitation (F) changing phenomenon (G) Movement of an air mass (H) electrons in motion\n",
+		"answer": "It goes to the remaining air molecules",
+		"choices": [{
+				"text": "It goes to the remaining air molecules",
+				"label": "A"
+			},
+			{
+				"text": "Temperature changing",
+				"label": "B"
+			},
+			{
+				"text": "they travel great distances",
+				"label": "C"
+			},
+			{
+				"text": "raising their temperature",
+				"label": "D"
+			},
+			{
+				"text": "liquid precipitation",
+				"label": "E"
+			},
+			{
+				"text": "changing phenomenon",
+				"label": "F"
+			},
+			{
+				"text": "Movement of an air mass",
+				"label": "G"
+			},
+			{
+				"text": "electrons in motion",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does # happen to the heat energy during condensation?"
+		}]
+	},
+	{
+		"id": 7,
+		"context": "beads of water are formed by water vapor condensing. Water, for example, is a liquid. beads of liquid are formed by vapor condensing\n",
+		"question": "Vapor doing what forms beads of liquid? (A) energy barrier (B) condensing (C) a solute (D) boiling (E) unidirectional (F) motion (G) kinetic energy (H) evaporation\n",
+		"answer": "condensing",
+		"choices": [{
+				"text": "energy barrier",
+				"label": "A"
+			},
+			{
+				"text": "condensing",
+				"label": "B"
+			},
+			{
+				"text": "a solute",
+				"label": "C"
+			},
+			{
+				"text": "boiling",
+				"label": "D"
+			},
+			{
+				"text": "unidirectional",
+				"label": "E"
+			},
+			{
+				"text": "motion",
+				"label": "F"
+			},
+			{
+				"text": "kinetic energy",
+				"label": "G"
+			},
+			{
+				"text": "evaporation",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does vapor doing # forms beads of liquid?"
+		}]
+	},
+	{
+		"id": 8,
+		"context": "beads of water are formed by water vapor condensing. Condensation of water vapor occurs during the chilling season. Beads of water are formed during the chilling season\n",
+		"question": "Beads of water are formed when? (A) heat is produced (B) Temperature changing (C) forest is destroyed (D) refract or absorb. (E) body temperature reduces (F) precipitation (G) Movement of an air mass (H) during the chilling season\n",
+		"answer": "during the chilling season",
+		"choices": [{
+				"text": "heat is produced",
+				"label": "A"
+			},
+			{
+				"text": "Temperature changing",
+				"label": "B"
+			},
+			{
+				"text": "forest is destroyed",
+				"label": "C"
+			},
+			{
+				"text": "refract or absorb.",
+				"label": "D"
+			},
+			{
+				"text": "body temperature reduces",
+				"label": "E"
+			},
+			{
+				"text": "precipitation",
+				"label": "F"
+			},
+			{
+				"text": "Movement of an air mass",
+				"label": "G"
+			},
+			{
+				"text": "during the chilling season",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Are beads of water formed when #?"
+		}]
+	},
+	{
+		"id": 9,
+		"context": "beads of water are formed by water vapor condensing. Moisture builds up in the air and condenses wherever the surfaces are cold. Water beads form on cold surfaces.\n",
+		"question": "Where is water likely to form beads? (A) aqueous solution (B) on cold surfaces (C) jungles of the sea (D) colder weather (E) Evaporation (F) colder and wetter (G) Wet weather (H) streams.\n",
+		"answer": "on cold surfaces",
+		"choices": [{
+				"text": "aqueous solution",
+				"label": "A"
+			},
+			{
+				"text": "on cold surfaces",
+				"label": "B"
+			},
+			{
+				"text": "jungles of the sea",
+				"label": "C"
+			},
+			{
+				"text": "colder weather",
+				"label": "D"
+			},
+			{
+				"text": "Evaporation",
+				"label": "E"
+			},
+			{
+				"text": "colder and wetter",
+				"label": "F"
+			},
+			{
+				"text": "Wet weather",
+				"label": "G"
+			},
+			{
+				"text": "streams.",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is water likely to form beads on #?"
+		}]
+	},
+	{
+		"id": 10,
+		"context": "dehydrating food is used for preserving food. Dehydration preserves foods by removing moisture. removing moisture from food preserves it.\n",
+		"question": "Removing what from food will preserve it? (A) flavor (B) body water (C) heat energy (D) color (E) Water (F) Bodily water (G) moisture (H) ingredients\n",
+		"answer": "moisture",
+		"choices": [{
+				"text": "flavor",
+				"label": "A"
+			},
+			{
+				"text": "body water",
+				"label": "B"
+			},
+			{
+				"text": "heat energy",
+				"label": "C"
+			},
+			{
+				"text": "color",
+				"label": "D"
+			},
+			{
+				"text": "Water",
+				"label": "E"
+			},
+			{
+				"text": "Bodily water",
+				"label": "F"
+			},
+			{
+				"text": "moisture",
+				"label": "G"
+			},
+			{
+				"text": "ingredients",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Will removing # from food preserve it?"
+		}]
+	},
+	{
+		"id": 11,
+		"context": "dehydrating food is used for preserving food. To preserve a food by salting. You can save food with dehydration or salt. \n",
+		"question": "What are two ways you can save food? (A) Fully cooking the oysters (B) Burning fuel and air (C) Bread it and fry it (D) Water it down and drink it (E) converting electricity to heat (F) lowered energy cost (G) Dehydration and salting (H) Burn it and throw it away\n",
+		"choices": [{
+				"text": "Fully cooking the oysters",
+				"label": "A"
+			},
+			{
+				"text": "Burning fuel and air",
+				"label": "B"
+			},
+			{
+				"text": "Bread it and fry it",
+				"label": "C"
+			},
+			{
+				"text": "Water it down and drink it",
+				"label": "D"
+			},
+			{
+				"text": "converting electricity to heat",
+				"label": "E"
+			},
+			{
+				"text": "lowered energy cost",
+				"label": "F"
+			},
+			{
+				"text": "Dehydration and salting",
+				"label": "G"
+			},
+			{
+				"text": "Burn it and throw it away",
+				"label": "H"
+			}
+		],
+		"answer": "Dehydration and salting",
+		"decompositions": [{
+			"question": "Are # the two ways you can save food?"
+		}]
+	},
+	{
+		"id": 12,
+		"context": "dehydrating food is used for preserving food. Foods usually were covered with copious quantities of salt or saturated salt brine, and the salt was allowed to infuse into the tissue while dehydrating the product. Salting food preserves it\n",
+		"question": "What does salting food do to it? (A) decrease stamina (B) evaporation (C) hydration (D) Preserves it (E) Causes bacteria to spread (F) chemical changes (G) Causes it to rot (H) Cooks it\n",
+		"answer": "Preserves it",
+		"choices": [{
+				"text": "decrease stamina",
+				"label": "A"
+			},
+			{
+				"text": "evaporation",
+				"label": "B"
+			},
+			{
+				"text": "hydration",
+				"label": "C"
+			},
+			{
+				"text": "Preserves it",
+				"label": "D"
+			},
+			{
+				"text": "Causes bacteria to spread",
+				"label": "E"
+			},
+			{
+				"text": "chemical changes",
+				"label": "F"
+			},
+			{
+				"text": "Causes it to rot",
+				"label": "G"
+			},
+			{
+				"text": "Cooks it",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does salting food do # to it?"
+		}]
+	},
+	{
+		"id": 13,
+		"context": "dehydrating food is used for preserving food. Preservatives are required to prevent spoilage. dehydrating food prevent spoilage.\n",
+		"question": "What can prevent food spoilage? (A) prolactin release (B) one celled organisms (C) hydrating food (D) cleaning food (E) airing out food (F) Electric generators (G) a hydraulic system (H) dehydrating food\n",
+		"answer": "dehydrating food",
+		"choices": [{
+				"text": "prolactin release",
+				"label": "A"
+			},
+			{
+				"text": "one celled organisms",
+				"label": "B"
+			},
+			{
+				"text": "hydrating food",
+				"label": "C"
+			},
+			{
+				"text": "cleaning food",
+				"label": "D"
+			},
+			{
+				"text": "airing out food",
+				"label": "E"
+			},
+			{
+				"text": "Electric generators",
+				"label": "F"
+			},
+			{
+				"text": "a hydraulic system",
+				"label": "G"
+			},
+			{
+				"text": "dehydrating food",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Can # prevent food spoilage?"
+		}]
+	},
+	{
+		"id": 14,
+		"context": "dehydrating food is used for preserving food. Dehydration is the removal of water. Removing water preserves food. \n",
+		"question": "What can be removed to preserve food? (A) water (B) nutrients (C) toxins (D) salt (E) A virus (F) sugar (G) leeches (H) peat\n",
+		"answer": "water",
+		"choices": [{
+				"text": "water",
+				"label": "A"
+			},
+			{
+				"text": "nutrients",
+				"label": "B"
+			},
+			{
+				"text": "toxins",
+				"label": "C"
+			},
+			{
+				"text": "salt",
+				"label": "D"
+			},
+			{
+				"text": "A virus",
+				"label": "E"
+			},
+			{
+				"text": "sugar",
+				"label": "F"
+			},
+			{
+				"text": "leeches",
+				"label": "G"
+			},
+			{
+				"text": "peat",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Can # be removed to preserve food?"
+		}]
+	},
+	{
+		"id": 15,
+		"context": "dehydrating food is used for preserving food. Blueberries retain their antioxidant benefits after dehydration. Blueberries can be eaten as a preserved food still with antioxidant benefits\n",
+		"question": "Which of the following  has the most antioxidant benefits for the body? (A) preserved muskrat (B) preserved blueberries (C) antibiotics (D) hamburger (E) hydrogen peroxide (F) prolactin release (G) evaporation (H) Thyroid-stimulating hormone\n",
+		"answer": "preserved blueberries",
+		"choices": [{
+				"text": "preserved muskrat",
+				"label": "A"
+			},
+			{
+				"text": "preserved blueberries",
+				"label": "B"
+			},
+			{
+				"text": "antibiotics",
+				"label": "C"
+			},
+			{
+				"text": "hamburger",
+				"label": "D"
+			},
+			{
+				"text": "hydrogen peroxide",
+				"label": "E"
+			},
+			{
+				"text": "prolactin release",
+				"label": "F"
+			},
+			{
+				"text": "evaporation",
+				"label": "G"
+			},
+			{
+				"text": "Thyroid-stimulating hormone",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does # have the most antioxidant benefits for the body?"
+		}]
+	},
+	{
+		"id": 16,
+		"context": "dehydrating food is used for preserving food. To keep cut flowers lasting longer, use a commercial florist preservative such as Floralife. Dehydrating food is used to make it last longer.\n",
+		"question": "Dehydrating food is used to make it what? (A) last longer (B) survive (C) go bad (D) burn up (E) get started (F) throw out (G) Relieve pain (H) dormant state\n",
+		"answer": "last longer",
+		"choices": [{
+				"text": "last longer",
+				"label": "A"
+			},
+			{
+				"text": "survive",
+				"label": "B"
+			},
+			{
+				"text": "go bad",
+				"label": "C"
+			},
+			{
+				"text": "burn up",
+				"label": "D"
+			},
+			{
+				"text": "get started",
+				"label": "E"
+			},
+			{
+				"text": "throw out",
+				"label": "F"
+			},
+			{
+				"text": "Relieve pain",
+				"label": "G"
+			},
+			{
+				"text": "dormant state",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is dehydrating food used to make it #?"
+		}]
+	},
+	{
+		"id": 17,
+		"context": "dehydrating food is used for preserving food. Some food is dehydrated, while others are dried much like beef jerky. beef jerky is preserved\n",
+		"question": "Beef jerky is what? (A) low in protein content (B) wet (C) prone to spoilage (D) nutrients (E) barrel-shaped (F) Relieve pain (G) preserved (H) layers of fat\n",
+		"answer": "preserved",
+		"choices": [{
+				"text": "low in protein content",
+				"label": "A"
+			},
+			{
+				"text": "wet",
+				"label": "B"
+			},
+			{
+				"text": "prone to spoilage",
+				"label": "C"
+			},
+			{
+				"text": "nutrients",
+				"label": "D"
+			},
+			{
+				"text": "barrel-shaped",
+				"label": "E"
+			},
+			{
+				"text": "Relieve pain",
+				"label": "F"
+			},
+			{
+				"text": "preserved",
+				"label": "G"
+			},
+			{
+				"text": "layers of fat",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is beef jerky #?"
+		}]
+	},
+	{
+		"id": 18,
+		"context": "dehydrating food is used for preserving food. Food is then dehydrated in slow oven or dehydrator. food is preserved by drying\n",
+		"question": "How is food preserved? (A) liquid (B) moistness (C) hydration (D) bacteria (E) mold (F) heat (G) Cooking (H) drying\n",
+		"answer": "drying",
+		"choices": [{
+				"text": "liquid",
+				"label": "A"
+			},
+			{
+				"text": "moistness",
+				"label": "B"
+			},
+			{
+				"text": "hydration",
+				"label": "C"
+			},
+			{
+				"text": "bacteria",
+				"label": "D"
+			},
+			{
+				"text": "mold",
+				"label": "E"
+			},
+			{
+				"text": "heat",
+				"label": "F"
+			},
+			{
+				"text": "Cooking",
+				"label": "G"
+			},
+			{
+				"text": "drying",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is food preserved by #?"
+		}]
+	},
+	{
+		"context": "seeing and vision are the same.",
+		"question": "What is the same as seeing? (A) taste (B) vision (C) SI units (D) movement (E) cilia (F) distal (G) Watch (H) Type O",
+		"answer": "vision",
+		"choices": [{
+				"text": "taste",
+				"label": "A"
+			},
+			{
+				"text": "vision",
+				"label": "B"
+			},
+			{
+				"text": "SI units",
+				"label": "C"
+			},
+			{
+				"text": "movement",
+				"label": "D"
+			},
+			{
+				"text": "cilia",
+				"label": "E"
+			},
+			{
+				"text": "distal",
+				"label": "F"
+			},
+			{
+				"text": "Watch",
+				"label": "G"
+			},
+			{
+				"text": "Type O",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is # the same as seeing?"
+		}]
+	},
+	{
+		"context": "Kidney failure may be treated by cleaning the blood with an artificial kidney.",
+		"question": "What are you treating when you clean blood with an artificial kidney? (A) unicellular organisms (B) Cancer (C) coliform (D) Kidney failure (E) Kidney growth (F) bacterial infections (G) Pasteurization (H) saves lives",
+		"answer": "Kidney failure",
+		"choices": [{
+				"text": "unicellular organisms",
+				"label": "A"
+			},
+			{
+				"text": "Cancer",
+				"label": "B"
+			},
+			{
+				"text": "coliform",
+				"label": "C"
+			},
+			{
+				"text": "Kidney failure",
+				"label": "D"
+			},
+			{
+				"text": "Kidney growth",
+				"label": "E"
+			},
+			{
+				"text": "bacterial infections",
+				"label": "F"
+			},
+			{
+				"text": "Pasteurization",
+				"label": "G"
+			},
+			{
+				"text": "saves lives",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Are you treating # when you clean blood with an artificial kidney?"
+		}]
+	},
+	{
+		"context": "male gametes are released into the surrounding water through the osculum.",
+		"question": "what is released into the surrounding water through the osculum? (A) keratin (B) hydrogen (C) Vibrissae (D) male gametes (E) melanin content (F) irritants (G) precipitation (H) water vapor",
+		"answer": "male gametes",
+		"choices": [{
+				"text": "keratin",
+				"label": "A"
+			},
+			{
+				"text": "hydrogen",
+				"label": "B"
+			},
+			{
+				"text": "Vibrissae",
+				"label": "C"
+			},
+			{
+				"text": "male gametes",
+				"label": "D"
+			},
+			{
+				"text": "melanin content",
+				"label": "E"
+			},
+			{
+				"text": "irritants",
+				"label": "F"
+			},
+			{
+				"text": "precipitation",
+				"label": "G"
+			},
+			{
+				"text": "water vapor",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is # released into the surrounding water through the osculum?"
+		}]
+	},
+	{
+		"context": "Meteorologists use satellite technology.",
+		"question": "What do meteorologists use? (A) higher ultraviolet  radiation (B) x-rays (C) A backbone (D) the stock market (E) occurs over a wide range (F) satellite technology (G) tractors (H) nutritious fluid",
+		"answer": "satellite technology",
+		"choices": [{
+				"text": "higher ultraviolet  radiation",
+				"label": "A"
+			},
+			{
+				"text": "x-rays",
+				"label": "B"
+			},
+			{
+				"text": "A backbone",
+				"label": "C"
+			},
+			{
+				"text": "the stock market",
+				"label": "D"
+			},
+			{
+				"text": "occurs over a wide range",
+				"label": "E"
+			},
+			{
+				"text": "satellite technology",
+				"label": "F"
+			},
+			{
+				"text": "tractors",
+				"label": "G"
+			},
+			{
+				"text": "nutritious fluid",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Do meteorologists use #?"
+		}]
+	},
+	{
+		"context": "Infancy is the period of most rapidly getting bigger after birth.",
+		"question": "What is the period of most rapidly getting bigger after birth? (A) 86400 (B) infancy (C) adult (D) a hosta (E) pregnancy (F) adulthood (G) eight (H) angiosperm",
+		"answer": "infancy",
+		"choices": [{
+				"text": "86400",
+				"label": "A"
+			},
+			{
+				"text": "infancy",
+				"label": "B"
+			},
+			{
+				"text": "adult",
+				"label": "C"
+			},
+			{
+				"text": "a hosta",
+				"label": "D"
+			},
+			{
+				"text": "pregnancy",
+				"label": "E"
+			},
+			{
+				"text": "adulthood",
+				"label": "F"
+			},
+			{
+				"text": "eight",
+				"label": "G"
+			},
+			{
+				"text": "angiosperm",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is # the period of most rapidly getting bigger after birth?"
+		}]
+	},
+	{
+		"context": "the last stage of life before adulthood is very complex.",
+		"question": "what is the last stage like before adulthood? (A) some anthozoans (B) very simple (C) Pasteurization (D) prokaryotic cells (E) death (F) very complex (G) Slows down (H) non-existent",
+		"answer": "very complex",
+		"choices": [{
+				"text": "some anthozoans",
+				"label": "A"
+			},
+			{
+				"text": "very simple",
+				"label": "B"
+			},
+			{
+				"text": "Pasteurization",
+				"label": "C"
+			},
+			{
+				"text": "prokaryotic cells",
+				"label": "D"
+			},
+			{
+				"text": "death",
+				"label": "E"
+			},
+			{
+				"text": "very complex",
+				"label": "F"
+			},
+			{
+				"text": "Slows down",
+				"label": "G"
+			},
+			{
+				"text": "non-existent",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is last stage before adulthood #?"
+		}]
+	},
+	{
+		"context": "Keratin forming over the ends of fingers prevents injury.",
+		"question": "What forming over the ends of fingers prevents injury? (A) tissue (B) keratin (C) hairs (D) needles (E) shells (F) bone (G) Cartilage (H) tiny hairs",
+		"answer": "keratin",
+		"choices": [{
+				"text": "tissue",
+				"label": "A"
+			},
+			{
+				"text": "keratin",
+				"label": "B"
+			},
+			{
+				"text": "hairs",
+				"label": "C"
+			},
+			{
+				"text": "needles",
+				"label": "D"
+			},
+			{
+				"text": "shells",
+				"label": "E"
+			},
+			{
+				"text": "bone",
+				"label": "F"
+			},
+			{
+				"text": "Cartilage",
+				"label": "G"
+			},
+			{
+				"text": "tiny hairs",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does # forming over the ends of fingers prevent injury?"
+		}]
+	},
+	{
+		"context": "flagellum are tiny hairs that trap particles.",
+		"question": "What traps particles? (A) tissue (B) keratin (C) hairs (D) needles (E) shells (F) bone (G) Cartilage (H) tiny hairs",
+		"answer": "flagellum or tiny hairs",
+		"choices": [{
+				"text": "water vapor",
+				"label": "A"
+			},
+			{
+				"text": "antigens",
+				"label": "B"
+			},
+			{
+				"text": "particles",
+				"label": "C"
+			},
+			{
+				"text": "light",
+				"label": "D"
+			},
+			{
+				"text": "magma",
+				"label": "E"
+			},
+			{
+				"text": "fish",
+				"label": "F"
+			},
+			{
+				"text": "jellyfish",
+				"label": "G"
+			},
+			{
+				"text": "coelenterates",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does # trap particles?"
+		}]
+	},
+	{
+		"context": "Skin color is controlled by two or more genes.",
+		"question": "What is controlled by two or more genes? (A) humans (B) black widows (C) insects (D) chin fissure (E) wild canines (F) flagella (G) enzymes (H) skin color",
+		"answer": "skin color",
+		"choices": [{
+				"text": "humans",
+				"label": "A"
+			},
+			{
+				"text": "black widows",
+				"label": "B"
+			},
+			{
+				"text": "insects",
+				"label": "C"
+			},
+			{
+				"text": "chin fissure",
+				"label": "D"
+			},
+			{
+				"text": "wild canines",
+				"label": "E"
+			},
+			{
+				"text": "flagella",
+				"label": "F"
+			},
+			{
+				"text": "enzymes",
+				"label": "G"
+			},
+			{
+				"text": "skin color",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is # controlled by two or more genes?"
+		}]
+	},
+	{
+		"context": "Choanocytes have tiny hairs that trap the particles.",
+		"question": "What do choanocytes have to trap the particles? (A) several genes (B) a large mouth (C) a hosta (D) a set of teeth (E) antibodies (F) melanin content (G) tiny hairs (H) Protein",
+		"answer": "tiny hairs",
+		"choices": [{
+				"text": "several genes",
+				"label": "A"
+			},
+			{
+				"text": "a large mouth",
+				"label": "B"
+			},
+			{
+				"text": "a hosta",
+				"label": "C"
+			},
+			{
+				"text": "a set of teeth",
+				"label": "D"
+			},
+			{
+				"text": "antibodies",
+				"label": "E"
+			},
+			{
+				"text": "melanin content",
+				"label": "F"
+			},
+			{
+				"text": "tiny hairs",
+				"label": "G"
+			},
+			{
+				"text": "Protein",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Do choanocytes have # to trap the particles?"
+		}]
+	},
+	{
+		"context": "When a wave reaches your ear, your ear drum vibrates and you can hear it.",
+		"question": "What does your ear drum do when it hears something? (A) Expands (B) Nothing (C) feedback (D) it increases (E) Echos (F) Vibrates (G) weater (H) move",
+		"answer": "Vibrates",
+		"choices": [{
+				"text": "Expands",
+				"label": "A"
+			},
+			{
+				"text": "Nothing",
+				"label": "B"
+			},
+			{
+				"text": "feedback",
+				"label": "C"
+			},
+			{
+				"text": "it increases",
+				"label": "D"
+			},
+			{
+				"text": "Echos",
+				"label": "E"
+			},
+			{
+				"text": "Vibrates",
+				"label": "F"
+			},
+			{
+				"text": "weater",
+				"label": "G"
+			},
+			{
+				"text": "move",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does your ear drums # when it hears something?"
+		}]
+	},
+	{
+		"context": "Growth is faster in infancy than it is in the time when breasts grow.",
+		"question": "When is growth faster? (A) adulthood (B) sponges (C) when breasts develop (D) 86400 (E) angiosperm (F) when menstruation stops (G) corn (H) infancy",
+		"answer": "infancy",
+		"choices": [{
+				"text": "adulthood",
+				"label": "A"
+			},
+			{
+				"text": "sponges",
+				"label": "B"
+			},
+			{
+				"text": "when breasts develop",
+				"label": "C"
+			},
+			{
+				"text": "86400",
+				"label": "D"
+			},
+			{
+				"text": "angiosperm",
+				"label": "E"
+			},
+			{
+				"text": "when menstruation stops",
+				"label": "F"
+			},
+			{
+				"text": "corn",
+				"label": "G"
+			},
+			{
+				"text": "infancy",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is growth faster during #?"
+		}]
+	},
+	{
+		"context": "a compass is used to navigate the Pacific.",
+		"question": "what is a compass used to navigate? (A) lamphreys (B) calibrated (C) navigation (D) eight (E) elevators (F) 100 meter dash (G) Pacific (H) the same",
+		"answer": "Pacific",
+		"choices": [{
+				"text": "lamphreys",
+				"label": "A"
+			},
+			{
+				"text": "calibrated",
+				"label": "B"
+			},
+			{
+				"text": "navigation",
+				"label": "C"
+			},
+			{
+				"text": "eight",
+				"label": "D"
+			},
+			{
+				"text": "elevators",
+				"label": "E"
+			},
+			{
+				"text": "100 meter dash",
+				"label": "F"
+			},
+			{
+				"text": "Pacific",
+				"label": "G"
+			},
+			{
+				"text": "the same",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is a compass used to navigate #?"
+		}]
+	},
+	{
+		"context": "A lack of dialysis may lead to death.",
+		"question": "What are the consequences of not getting dialysis when needed? (A) ADHD (B) several (C) death (D) Unsafe (E) E. Coli (F) weight (G) Type O (H) Cold",
+		"answer": "death",
+		"choices": [{
+				"text": "ADHD",
+				"label": "A"
+			},
+			{
+				"text": "several",
+				"label": "B"
+			},
+			{
+				"text": "death",
+				"label": "C"
+			},
+			{
+				"text": "Unsafe",
+				"label": "D"
+			},
+			{
+				"text": "E. Coli",
+				"label": "E"
+			},
+			{
+				"text": "weight",
+				"label": "F"
+			},
+			{
+				"text": "Type O",
+				"label": "G"
+			},
+			{
+				"text": "Cold",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is # a consequence of not getting dialysis when needed?"
+		}]
+	},
+	{
+		"context": "Blood in our body contains minerals.",
+		"question": "what in our body contains minerals? (A) tissues (B) pigment (C) seeds (D) Protein (E) bytes (F) calcium (G) blood (H) information",
+		"answer": "blood",
+		"choices": [{
+				"text": "tissues",
+				"label": "A"
+			},
+			{
+				"text": "pigment",
+				"label": "B"
+			},
+			{
+				"text": "seeds",
+				"label": "C"
+			},
+			{
+				"text": "Protein",
+				"label": "D"
+			},
+			{
+				"text": "bytes",
+				"label": "E"
+			},
+			{
+				"text": "calcium",
+				"label": "F"
+			},
+			{
+				"text": "blood",
+				"label": "G"
+			},
+			{
+				"text": "information",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does # in our body contain minerals?"
+		}]
+	},
+	{
+		"context": "skin color is the result of the interaction of several genes.",
+		"question": "what is the result of the interaction of several genes? (A) canis lupus (B) skin color (C) hunger (D) weathering (E) death (F) Rolex (G) Major effects (H) diphtheria",
+		"answer": "skin color",
+		"choices": [{
+				"text": "canis lupus",
+				"label": "A"
+			},
+			{
+				"text": "skin color",
+				"label": "B"
+			},
+			{
+				"text": "hunger",
+				"label": "C"
+			},
+			{
+				"text": "weathering",
+				"label": "D"
+			},
+			{
+				"text": "death",
+				"label": "E"
+			},
+			{
+				"text": "Rolex",
+				"label": "F"
+			},
+			{
+				"text": "Major effects",
+				"label": "G"
+			},
+			{
+				"text": "diphtheria",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is # a result of the interaction of several genes?"
+		}]
+	},
+	{
+		"context": "Knowledge of the stars can be used to travel.",
+		"question": "What can knowledge of the stars be used for? (A) travel (B) art (C) as a base (D) safety (E) story telling (F) light source (G) vision (H) life",
+		"answer": "travel",
+		"choices": [{
+				"text": "travel",
+				"label": "A"
+			},
+			{
+				"text": "art",
+				"label": "B"
+			},
+			{
+				"text": "as a base",
+				"label": "C"
+			},
+			{
+				"text": "safety",
+				"label": "D"
+			},
+			{
+				"text": "story telling",
+				"label": "E"
+			},
+			{
+				"text": "light source",
+				"label": "F"
+			},
+			{
+				"text": "vision",
+				"label": "G"
+			},
+			{
+				"text": "life",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Can the knowledge of # be used for travel?"
+		}]
+	},
+	{
+		"context": "predicting weather requires meteorology.",
+		"question": "What requires meteorology? (A) waiting for bad weather (B) gas spreads in the air (C) precipitation (D) moving over land (E) predicting weather (F) extremely dangerous storms (G) measure of motion (H) hoping for good weather",
+		"answer": "predicting weather",
+		"choices": [{
+				"text": "waiting for bad weather",
+				"label": "A"
+			},
+			{
+				"text": "gas spreads in the air",
+				"label": "B"
+			},
+			{
+				"text": "precipitation",
+				"label": "C"
+			},
+			{
+				"text": "moving over land",
+				"label": "D"
+			},
+			{
+				"text": "predicting weather",
+				"label": "E"
+			},
+			{
+				"text": "extremely dangerous storms",
+				"label": "F"
+			},
+			{
+				"text": "measure of motion",
+				"label": "G"
+			},
+			{
+				"text": "hoping for good weather",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does # require meteorology?"
+		}]
+	},
+	{
+		"context": "The vibrations that reach the ear to make noise are Otoacoustic.",
+		"question": "What are the vibrations in the ear called? (A) intensity (B) very complex (C) melanin content (D) lamphreys (E) Otoacoustic (F) weater (G) Seisometers (H) trucks and cars",
+		"answer": "Otoacoustic",
+		"choices": [{
+				"text": "intensity",
+				"label": "A"
+			},
+			{
+				"text": "very complex",
+				"label": "B"
+			},
+			{
+				"text": "melanin content",
+				"label": "C"
+			},
+			{
+				"text": "lamphreys",
+				"label": "D"
+			},
+			{
+				"text": "Otoacoustic",
+				"label": "E"
+			},
+			{
+				"text": "weater",
+				"label": "F"
+			},
+			{
+				"text": "Seisometers",
+				"label": "G"
+			},
+			{
+				"text": "trucks and cars",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Is # called the vibrations in the ear?"
+		}]
+	},
+	{
+		"context": "a sick child needs food.",
+		"question": "what does a sick child need? (A) homes (B) bacteria (C) magma (D) people (E) soil (F) liver (G) light (H) food",
+		"answer": "food",
+		"choices": [{
+				"text": "homes",
+				"label": "A"
+			},
+			{
+				"text": "bacteria",
+				"label": "B"
+			},
+			{
+				"text": "magma",
+				"label": "C"
+			},
+			{
+				"text": "people",
+				"label": "D"
+			},
+			{
+				"text": "soil",
+				"label": "E"
+			},
+			{
+				"text": "liver",
+				"label": "F"
+			},
+			{
+				"text": "light",
+				"label": "G"
+			},
+			{
+				"text": "food",
+				"label": "H"
+			}
+		],
+		"decompositions": [{
+			"question": "Does a sick child need #?"
+		}]
+	},
+	{
+		"context": "bees convert nectar into honey. Butterflies feed on nectar produced by flowers. Bees need flowers to make honey.",
+		"question": "From what part of the plant do bees collect the substance they need to make honey? (A) Fruit (B) a hosta (C) food (D) Leaves (E) keratin (F) Flowers (G) liquids (H) Stem",
+		"answer": "Flowers",
+		"choices": [{
+			"text": "Fruit",
+			"label": "A"
+		}, {
+			"text": "a hosta",
+			"label": "B"
+		}, {
+			"text": "food",
+			"label": "C"
+		}, {
+			"text": "Leaves",
+			"label": "D"
+		}, {
+			"text": "keratin",
+			"label": "E"
+		}, {
+			"text": "Flowers",
+			"label": "F"
+		}, {
+			"text": "liquids",
+			"label": "G"
+		}, {
+			"text": "Stem",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Do bees collect the substance they to make honey from #?"
+		}]
+	},
+	{
+		"context": "Chromoplasts make and store pigments. Chromoplasts are found in many flower petals and fruits. Flower petals and fruits make and store pigments.",
+		"question": "What can make and store pigments? (A) single celled organisms (B) unicellular organisms (C) pastels (D) single cell microorganisms (E) pencils (F) acrylics (G) flower petals and fruits (H) some prokaryotes",
+		"answer": "flower petals and fruits",
+		"choices": [{
+			"text": "single celled organisms",
+			"label": "A"
+		}, {
+			"text": "unicellular organisms",
+			"label": "B"
+		}, {
+			"text": "pastels",
+			"label": "C"
+		}, {
+			"text": "single cell microorganisms",
+			"label": "D"
+		}, {
+			"text": "pencils",
+			"label": "E"
+		}, {
+			"text": "acrylics",
+			"label": "F"
+		}, {
+			"text": "flower petals and fruits",
+			"label": "G"
+		}, {
+			"text": "some prokaryotes",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Can # make and store pigments?"
+		}]
+	},
+	{
+		"context": "Protozoa can be classified on the basis of how they move. Ciliates are ciliated protozoa. Ciliates can be classified on the basis of how they move.",
+		"question": "Ciliates can be classified on the basis of how they what? (A) shells (B) marine (C) smooth (D) hairs (E) tissue (F) cells (G) move (H) snails",
+		"answer": "move",
+		"choices": [{
+			"text": "shells",
+			"label": "A"
+		}, {
+			"text": "marine",
+			"label": "B"
+		}, {
+			"text": "smooth",
+			"label": "C"
+		}, {
+			"text": "hairs",
+			"label": "D"
+		}, {
+			"text": "tissue",
+			"label": "E"
+		}, {
+			"text": "cells",
+			"label": "F"
+		}, {
+			"text": "move",
+			"label": "G"
+		}, {
+			"text": "snails",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Are ciliates classified on the basis of how they #?"
+		}]
+	},
+	{
+		"context": "a spider web is used to capture food by spiders. Spider webs are interesting traps. a spider uses traps to capture food",
+		"question": "a spider uses traps to capture what (A) larvae (B) Worms (C) water (D) Testes (E) food (F) Honey (G) light (H) cilia",
+		"answer": "food",
+		"choices": [{
+			"text": "larvae",
+			"label": "A"
+		}, {
+			"text": "Worms",
+			"label": "B"
+		}, {
+			"text": "water",
+			"label": "C"
+		}, {
+			"text": "Testes",
+			"label": "D"
+		}, {
+			"text": "food",
+			"label": "E"
+		}, {
+			"text": "Honey",
+			"label": "F"
+		}, {
+			"text": "light",
+			"label": "G"
+		}, {
+			"text": "cilia",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Does a spider use trap to capture #?"
+		}]
+	},
+	{
+		"context": "a spider web is used to capture food by spiders. Spiders inject venom into the body of a captured insect to paralyze it. Eight legged arachnid capture food with a web and inject venom to paralyze it to eat",
+		"question": "What do eight legged arachnids do after they catch their prey in a web? (A) Inject venom (B) moving over land (C) scratching it (D) nutritious fluid (E) secreting (F) Communication (G) how they move (H) male gametes",
+		"answer": "Inject venom",
+		"choices": [{
+			"text": "Inject venom",
+			"label": "A"
+		}, {
+			"text": "moving over land",
+			"label": "B"
+		}, {
+			"text": "scratching it",
+			"label": "C"
+		}, {
+			"text": "nutritious fluid",
+			"label": "D"
+		}, {
+			"text": "secreting",
+			"label": "E"
+		}, {
+			"text": "Communication",
+			"label": "F"
+		}, {
+			"text": "how they move",
+			"label": "G"
+		}, {
+			"text": "male gametes",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Do eight legged arachnids # adter they catch their prey in a web?"
+		}]
+	},
+	{
+		"context": "Precipitation increases moisture. Moisture is related to the electrical conductivity, which increases with increasing moisture levels. The electrical conductivity of wood increases after precipitation falls on it.",
+		"question": "What happens to the electrical conductivity of wood after it is made wet by precipitation? (A) danger (B) destruction (C) damaging (D) thermal expansion (E) amount of heat (F) it increases (G) Slows down (H) Major effects",
+		"answer": "it increases",
+		"choices": [{
+			"text": "danger",
+			"label": "A"
+		}, {
+			"text": "destruction",
+			"label": "B"
+		}, {
+			"text": "damaging",
+			"label": "C"
+		}, {
+			"text": "thermal expansion",
+			"label": "D"
+		}, {
+			"text": "amount of heat",
+			"label": "E"
+		}, {
+			"text": "it increases",
+			"label": "F"
+		}, {
+			"text": "Slows down",
+			"label": "G"
+		}, {
+			"text": "Major effects",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Does electrical conductivity of wood # after is it made wet by precipitation?"
+		}]
+	},
+	{
+		"context": "Precipitation increases moisture. All precipitation amounts are in inches. moisture is measured in inches",
+		"question": "What unit of measurement is moisture measured in? (A) barometer (B) water (C) liquids (D) inches (E) Honey (F) measures (G) lamphreys (H) osculum",
+		"answer": "inches",
+		"choices": [{
+			"text": "barometer",
+			"label": "A"
+		}, {
+			"text": "water",
+			"label": "B"
+		}, {
+			"text": "liquids",
+			"label": "C"
+		}, {
+			"text": "inches",
+			"label": "D"
+		}, {
+			"text": "Honey",
+			"label": "E"
+		}, {
+			"text": "measures",
+			"label": "F"
+		}, {
+			"text": "lamphreys",
+			"label": "G"
+		}, {
+			"text": "osculum",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Is # a unit of measurement for moisture?"
+		}]
+	},
+	{
+		"context": "Precipitation increases moisture. Local precipitation increases sharply with altitude. moisture increases sharply with altitude",
+		"question": "What increases with altitude? (A) moisture (B) elephants (C) worms (D) fever (E) heat (F) Gravity (G) water vapor (H) earthquakes",
+		"answer": "moisture",
+		"choices": [{
+			"text": "moisture",
+			"label": "A"
+		}, {
+			"text": "elephants",
+			"label": "B"
+		}, {
+			"text": "worms",
+			"label": "C"
+		}, {
+			"text": "fever",
+			"label": "D"
+		}, {
+			"text": "heat",
+			"label": "E"
+		}, {
+			"text": "Gravity",
+			"label": "F"
+		}, {
+			"text": "water vapor",
+			"label": "G"
+		}, {
+			"text": "earthquakes",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Does # increase with altitude?"
+		}]
+	},
+	{
+		"context": "a compass is used to navigate oceans. On moonless nights they navigate solely with the geomagnetic compass. oceans can be navigated even on moonless nights",
+		"question": "oceans can be what even on moonless nights (A) reflecting sunlight (B) very complex (C) photosynthesizing (D) moving plates (E) solid (F) damaging (G) free-swimming (H) navigated",
+		"answer": "navigated",
+		"choices": [{
+			"text": "reflecting sunlight",
+			"label": "A"
+		}, {
+			"text": "very complex",
+			"label": "B"
+		}, {
+			"text": "photosynthesizing",
+			"label": "C"
+		}, {
+			"text": "moving plates",
+			"label": "D"
+		}, {
+			"text": "solid",
+			"label": "E"
+		}, {
+			"text": "damaging",
+			"label": "F"
+		}, {
+			"text": "free-swimming",
+			"label": "G"
+		}, {
+			"text": "navigated",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Can oceans be # even on moonless nights?"
+		}]
+	},
+	{
+		"context": "when a hurricane moves over land , that hurricane will decrease in strength. Hurricanes grow strength from warm waters. Hurricanes are worse over warm water and weaker over land.",
+		"question": "What makes a hurricane weaker? (A) Stronger winds (B) rapid changes occur (C) Tornadoes (D) Differences in speed (E) amount of heat (F) Being over land (G) chemical messengers (H) Warm water",
+		"answer": "Being over land",
+		"choices": [{
+			"text": "Stronger winds",
+			"label": "A"
+		}, {
+			"text": "rapid changes occur",
+			"label": "B"
+		}, {
+			"text": "Tornadoes",
+			"label": "C"
+		}, {
+			"text": "Differences in speed",
+			"label": "D"
+		}, {
+			"text": "amount of heat",
+			"label": "E"
+		}, {
+			"text": "Being over land",
+			"label": "F"
+		}, {
+			"text": "chemical messengers",
+			"label": "G"
+		}, {
+			"text": "Warm water",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Does # make a hurricane weaker?"
+		}]
+	},
+	{
+		"context": "when a hurricane moves over land , that hurricane will decrease in strength. Large bodies of land are called continents. When hurricanes move over continents, their strength decreases.",
+		"question": "When will a hurricane lose its strength? (A) occurs over a wide range (B) the rate of travel (C) gas spreads in the air (D) last stage before adulthood (E) when it goes over a lake (F) when it passes over a continent (G) when it goes over a stream (H) when it stalls in an ocean",
+		"answer": "when it passes over a continent",
+		"choices": [{
+			"text": "occurs over a wide range",
+			"label": "A"
+		}, {
+			"text": "the rate of travel",
+			"label": "B"
+		}, {
+			"text": "gas spreads in the air",
+			"label": "C"
+		}, {
+			"text": "last stage before adulthood",
+			"label": "D"
+		}, {
+			"text": "when it goes over a lake",
+			"label": "E"
+		}, {
+			"text": "when it passes over a continent",
+			"label": "F"
+		}, {
+			"text": "when it goes over a stream",
+			"label": "G"
+		}, {
+			"text": "when it stalls in an ocean",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Will a hurricane lose its strength when #?"
+		}]
+	},
+	{
+		"context": "Climate is generally described in terms of temperature and moisture. Fire behavior is driven by local weather conditions such as winds, temperature and moisture. Climate is generally described in terms of local weather conditions",
+		"question": "Climate is generally described in terms of what? (A) sand (B) occurs over a wide range (C) forests (D) Global warming (E) rapid changes occur (F) local weather conditions (G) measure of motion (H) city life",
+		"answer": "local weather conditions",
+		"choices": [{
+			"text": "sand",
+			"label": "A"
+		}, {
+			"text": "occurs over a wide range",
+			"label": "B"
+		}, {
+			"text": "forests",
+			"label": "C"
+		}, {
+			"text": "Global warming",
+			"label": "D"
+		}, {
+			"text": "rapid changes occur",
+			"label": "E"
+		}, {
+			"text": "local weather conditions",
+			"label": "F"
+		}, {
+			"text": "measure of motion",
+			"label": "G"
+		}, {
+			"text": "city life",
+			"label": "H"
+		}],
+		"decompositions": [{
+			"question": "Is climate generally described in terms of #?"
+		}]
+	}
+]

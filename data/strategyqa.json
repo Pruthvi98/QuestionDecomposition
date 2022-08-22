@@ -1,0 +1,1012 @@
+[
+    {
+        "context": "The spinal cord is a long, thin, tubular structure made up of nervous tissue, which extends from the medulla oblongata in the brainstem to the lumbar region of the vertebral column. It encloses the central canal of the spinal cord, which contains cerebrospinal fluid. The brain and spinal cord together make up the central nervous system (CNS). In humans, the spinal cord begins at the occipital bone, passing through the foramen magnum and entering the spinal canal at the beginning of the cervical vertebrae. The spinal cord extends down to between the first and second lumbar vertebrae, where it ends. The enclosing bony vertebral column protects the relatively shorter spinal cord. It is around 45\u00a0cm (18\u00a0in) in men and around 43\u00a0cm (17\u00a0in) long in women. The diameter of the spinal cord ranges from 13\u00a0mm (1\u20442\u00a0in) in the cervical and lumbar regions to 6.4\u00a0mm (1\u20444\u00a0in) in the thoracic area.\n\nThe Home Depot, Inc. is the largest home improvement retailer in the United States, supplying tools, construction products, and services. The company is headquartered at the Atlanta Store Support Center at 2455 Paces Ferry Road NW; Atlanta, GA, 30339 in unincorporated Cobb County, Georgia (with an Atlanta mailing address).",
+        "question": "Is it true or false that you can buy spinal cord at Home Depot?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "Where are spinal cords found?",
+                "answer": "inside the spinal column",
+                
+            },
+            {
+                "question": "What does Home Depot sell?",
+                "answer": "Home appliances, tools, hardware, builders hardware, lumber, building materials, paint, plumbing, flooring, garden supplies & plants",
+                
+            },
+            {
+                "question": "Is it true or false that \"#1\" is listed in \"#2\"?",
+                "answer": "false",
+                
+            }
+        ]
+    },
+    {
+        "context": "Moon also promised transparency in his presidency, moving the presidential residence from the palatial and isolated Blue House to an existing government complex in downtown Seoul.\n\nConstruction of the World Trade Center's North Tower began in August 1968, and the South Tower in 1969. Extensive use of prefabricated components helped to speed up the construction process. The first tenants moved into the North Tower in December 1970 and into the South Tower in January 1972. Four other low-level buildings were constructed as part of the World Trade Center in the early 1970s, and the complex was mostly complete by 1973. A seventh building, 7 World Trade Center, was opened in 1987.",
+        "question": "Did Moon Jae-in's residence exist when the World Trade Center was completed?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "What is Moon Jae-in's residence?",
+                "answer": "Blue House",
+                
+            },
+            {
+                "question": "When was the construction of #1 finished?",
+                "answer": "1969",
+                
+            },
+            {
+                "question": "When was the construction of the World Trade Center completed?",
+                "answer": "1973",
+                
+            },
+            {
+                "question": "Is #2 before #3?",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "Libra (\u264e\ufe0e) is the seventh astrological sign in the Zodiac. It spans 180\u00b0\u2013210\u00b0 celestial longitude. The Sun transits this sign on average between (northern autumnal equinox) September 23 and October 22. Under the sidereal zodiac, the Sun currently transits the constellation of Libra from approximately October 31 to November 22. The symbol of the scales is based on the Scales of Justice held by Themis, the Greek personification of divine law and custom. She became the inspiration for modern depictions of Lady Justice. The ruling planet of Libra is Venus. Libra is the only zodiac constellation in the sky represented by an inanimate object. The other eleven signs are represented either as an animal or mythological characters throughout history.\n\nA Beam balance (or Beam scale) is a device to measure weight or mass. These are also known as mass scales, weight scales, mass balances, weight balances, or simply scales, balances, or balance scales.\n\nThe Home Depot, Inc. is the largest home improvement retailer in the United States, supplying tools, construction products, and services. The company is headquartered at the Atlanta Store Support Center at 2455 Paces Ferry Road NW; Atlanta, GA, 30339 in unincorporated Cobb County, Georgia (with an Atlanta mailing address).",
+        "question": "Does Home Depot sell item in late September zodiac sign symbol?",
+        "answer": "true",
+        "decompositions": [
+            {
+                "question": "What is the zodiac sign that represents late September?",
+                "answer": "Libra",
+                
+            },
+            {
+                "question": "What is symbol of #1?",
+                "answer": "Balance Scales",
+                
+            },
+            {
+                "question": "What kinds of goods (and services) does The Home Depot deal in?",
+                "answer": "building materials, home improvement products, lawn and garden products, decor products, and facilities maintenance, repair and operations products",
+                
+            },
+            {
+                "question": "Is #2 likely to be included in #3?",
+                "answer": true,
+                
+            }
+        ]
+    },
+    {
+        "context": "The bigger the front, the bigger the back. Illness is the doorway to health. Tragedy turns to comedy. Disasters turn out to be blessings. Yin is the black side, and yang is the white side. The relationship between yin and yang is often described in terms of sunlight playing over a mountain and a valley. Yin (literally the 'shady place' or 'north slope') is the dark area occluded by the mountain's bulk, while yang (literally the \"sunny place' or \"south slope\") is the brightly lit portion. As the sun moves across the sky, yin and yang gradually trade places with each other, revealing what was obscured and obscuring what was revealed.\n\nThe giant panda has luxuriant black-and-white fur. Adults measure around 1.2 to 1.9\u00a0m (4 to 6\u00a0ft) long, including a tail of about 10\u201315\u00a0cm (3.9\u20135.9\u00a0in), and 60 to 90\u00a0cm (2.0 to 3.0\u00a0ft) tall at the shoulder. Males can weigh up to 160\u00a0kg (350\u00a0lb). Females (generally 10\u201320% smaller than males) can weigh as little as 70\u00a0kg (150\u00a0lb), but can also weigh up to 125\u00a0kg (276\u00a0lb). Average adult weight is 100 to 115\u00a0kg (220 to 254\u00a0lb).",
+        "question": "Does giant panda have colors that differ from yin yang?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "What colors does the concept \" yin and yang\" represent?",
+                "answer": "black and white",
+                
+            },
+            {
+                "question": "What are colors of adult giant pandas?",
+                "answer": "black and white",
+                
+            },
+            {
+                "question": "Is any of #2 excluded from #1?",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "A White Russian (Russian language: \u0411\u0435\u043b\u044b\u0439 \u0420\u0443\u0441\u0441\u043a\u0438\u0439) is a cocktail made with vodka, coffee liqueur (e.g., Kahl\u00faa or Tia Maria) and cream served with ice in an Old Fashioned glass. Often milk or half and half will be used as an alternative to cream.",
+        "question": "Would kaffir lime be good in a White Russian?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "What are the ingredients of a White Russian?",
+                "answer": "5 parts vodka, 2 parts coffee liqueur, 3 parts fresh cream",
+                
+            },
+            {
+                "question": "Do any of #1 curdle when mixed with lime?",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "Napoleon Bonaparte (born Napoleone di Buonaparte (Italian:\u00a0[napole\u02c8o\u02d0ne di \u02ccbw\u0254na\u02c8parte]; Corsican: Napulione Buonaparte; French: Napol\u00e9on Bonaparte [nap\u0254le\u0254\u0303 b\u0254napa\u0281t]; 15 August 1769 \u2013 5 May 1821) was a French statesman and military leader who rose to prominence during the French Revolution and led several successful campaigns during the French Revolutionary Wars. He was Emperor of the French as Napoleon I from 1804 until 1814 and again briefly in 1815 during the Hundred Days. Napoleon dominated European and global affairs for more than a decade while leading France against a series of coalitions in the Napoleonic Wars. He won most of these wars and the vast majority of his battles, building a large empire that ruled over much of continental Europe before its final collapse in 1815. He is considered one of the greatest commanders in history, and his wars and campaigns are studied at military schools worldwide. Napoleon's political and cultural legacy has endured as one of the most celebrated and controversial leaders in human history.\n\nFran\u00e7ois Maurice Adrien Marie Mitterrand (26 October 1916 \u2013 8 January 1996) was a French statesman who served as President of France from 1981 to 1995, the longest time in office in the history of France. As First Secretary of the Socialist Party, he was the first left-wing politician to assume the presidency under the Fifth Republic.",
+        "question": "Did Fran\u00e7ois Mitterrand serve under Napoleon Bonapart in the French army?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "When was Fran\u00e7ois Mitterrand born?",
+                "answer": "1916",
+                
+            },
+            {
+                "question": "When did Napoleon Bonapart die?",
+                "answer": "1821",
+                
+            },
+            {
+                "question": "Is #1 before #2?",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "The Passover Seder /\u02c8se\u026ad\u0259r/ (Hebrew: \u05e1\u05b5\u05d3\u05b6\u05e8 [\u02c8sede\u0281] 'order, arrangement'; Yiddish: \u05e1\u05d3\u05e8\u200e seyder) is a ritual feast that marks the beginning of the Jewish holiday of Passover. It is conducted throughout the world on the eve of the 15th day of Nisan in the Hebrew calendar (i.e., at the start of the 15th; a Hebrew day begins at sunset). The day falls in late March or in April of the Gregorian calendar and the Passover lasts for seven days in Israel and eight days outside Israel. Jews generally observe one or two seders: in Israel, one seder is observed on the first night of Passover; many Diaspora communities hold a seder also on the second night. The Seder is a ritual performed by a community or by multiple generations of a family, involving a retelling of the story of the liberation of the Israelites from slavery in ancient Egypt. This story is in the Book of Exodus (Shemot) in the Hebrew Bible. The Seder itself is based on the Biblical verse commanding Jews to retell the story of the Exodus from Egypt: \"You shall tell your child on that day, saying, 'It is because of what the LORD did for me when I came out of Egypt.'\" (Exodus 13:8) Traditionally, families and friends gather in the evening to read the text of the Haggadah, an ancient work derived from the Mishnah (Pesahim 10). The Haggadah contains the narrative of the Israelite exodus from Egypt, special blessings and rituals, commentaries from the Talmud, and special Passover songs.\n\nKosher food is food that conforms to kashrut, i.e. Jewish dietary laws. Under these rules, some foods \u2013 for example, pork and shellfish \u2013 are forbidden. Any meat must come from an animal that was slaughtered using a process known as shechita. Jewish dietary law also prohibits the eating of meat and milk at the same meal. For this purpose, \"meat\" means the flesh of mammals and birds, and \"milk\" includes dairy products such as cheese and butter. Thus a kosher delicatessen selling corned beef sandwiches would not have any cheese, and a kosher bakery selling bagels and cream cheese would not have any meat. Many foods are classified as pareve (sometimes spelled \"parve\") \u2013 neither meat nor milk, and therefore acceptable at any meal. Pareve foods include fish, eggs, honey, and any edible plant. Kosher commercial establishments must be closed from Friday evening to Saturday evening, during the Jewish sabbath.\n\nPork chops and applesauce is a traditional dish in Spanish and British cuisine consisting of cooked pork chops and apple sauce. The pork chops can be pan-fried, baked or broiled, and the meat is sometimes breaded prior to cooking. Some people consider the dish to be a comfort food.",
+        "question": "Are Chipotle Cinnamon Pork Chops appropriate for a Seder?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "What kind of event is a Seder?",
+                "answer": "Passover",
+                
+            },
+            {
+                "question": "Which religious group observes #1?",
+                "answer": "Jews",
+                
+            },
+            {
+                "question": "Which foods are considered appropriate by the dietary restrictions imposed on #2?",
+                "answer": "The type of animals a Jew can eat is convered by the Kashrut Laws",
+                
+            },
+            {
+                "question": "What are the main ingredients of Chipotle Cinnamon Pork Chops?",
+                "answer": "baked pork chops",
+                
+            },
+            {
+                "question": "Are any of #4 included in #3?",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "Markhor are adapted to mountainous terrain, and can be found between 600 and 3,600 meters in elevation. They typically inhabit scrub forests made up primarily of oaks (Quercus ilex), pines (Pinus gerardiana), and junipers (Juniperus macropoda). They are diurnal, and are mainly active in the early morning and late afternoon. Their diets shift seasonally: in the spring and summer periods they graze, but turn to browsing in winter, sometimes standing on their hind legs to reach high branches. The mating season takes place in winter, during which the males fight each other by lunging, locking horns and attempting to push each other off balance. The gestation period lasts 135\u2013170 days, and usually results in the birth of one or two kids, though rarely three. Markhor live in flocks, usually numbering nine animals, composed of adult females and their young. Adult males are largely solitary. Adult females and kids comprise most of the markhor population, with adult females making up 32% of the population and kids making up 31%. Adult males comprise 19%, while subadults (males aged 2\u20133 years) make up 12%, and yearlings (females aged 12\u201324 months) make up 9% of the population. Their alarm call closely resembles the bleating of domestic goats. Early in the season the males and females may be found together on the open grassy patches and clear slopes among the forest. During the summer, the males remain in the forest, while the females generally climb to the highest rocky ridges above.\n\nThe Gregorian year, which is in use in most of the world, begins on January 1 and ends on December 31. It has a length of 365 days in an ordinary year, with 8,760 hours, 525,600 minutes, or 31,536,000 seconds; but 366 days in a leap year, with 8,784 hours, 527,040 minutes, or 31,622,400 seconds. With 97 leap years every 400 years, the year has an average length of 365.2425 days. Other formula-based calendars can have lengths which are further out of step with the solar cycle: for example, the Julian calendar has an average length of 365.25 days, and the Hebrew calendar has an average length of 365.2468 days. The Islamic calendar is a lunar calendar consisting of 12 months in a year of 354 or 355 days.",
+        "question": "Could a markhor give birth three times in a single year?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "What is the gestation period of a Markhor?",
+                "answer": "168 days",
+                
+            },
+            {
+                "question": "How many days are in a year?",
+                "answer": "365 days",
+                
+            },
+            {
+                "question": "Can #1 be divided into #2 at least 3 times",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "Joker generated positive responses from industry figures. DC Comics chief creative officer Jim Lee praised it as \"intense, raw and soulful,\" and said that it remained true to the character despite deviating from the source material. Actor Mark Hamill, who has voiced the Joker in animation and video games, thought the film \"brilliantly\" reinvented the character and gave it \"[two] thumbs up.\" Documentary filmmaker Michael Moore called Joker a \"cinematic masterpiece\" and said it was a \"danger to society\" if people did not see it. Actor Josh Brolin, who portrays Thanos in the Marvel Cinematic Universe, found the film powerful: \"To appreciate Joker I believe you have to have either gone through something traumatic in your lifetime (and I believe most of us have) or understand somewhere in your psyche what true compassion is.\" Actor Vincent D'Onofrio, who portrays Wilson Fisk in the Marvel Cinematic Universe, vocally praised Phoenix's performance in the film on Twitter, stating that he \"deserves recognition for this performance,\" while actress Jessica Chastain agreed, replying, \"it's one of the greatest pieces of acting I've ever seen.\" Actress and writer Phoebe Waller-Bridge also praised the film, stating: \"I think the reason people got so uncomfortable is because it feels too true, too raw. I was watching it and thinking to myself, God, if this came out a year into Obama's time in office, I don't think we'd be feeling as worried about it\n\nIn January 2012, Marvel Studios held a global Twitter chat. The 30-minute live tweeting event featured writer/director Joss Whedon, cast members Samuel L. Jackson, Tom Hiddleston and Clark Gregg and a 10-second tease of the 30-second Super Bowl commercial that would air during Super Bowl XLVI in February. According to the Los Angeles Times, Disney paid an estimated $4\u00a0million for the 30-second spot. On May 1, 2012, executives from Marvel Studios, along with actors Tom Hiddleston and Clark Gregg, rang the opening bell of the New York Stock Exchange in honor of the film's theatrical release.\n\nThe film's world premiere was April 11, 2012, at Hollywood's El Capitan Theatre. The Avengers closed the 11th Annual Tribeca Film Festival with a screening on April 28, 2012. The film received an expanded one-week theatrical push for the 2012 U.S. Labor Day weekend, increasing the number of theaters from 123 to 1,700. The Avengers was the last film released in Phase One of the MCU.",
+        "question": "Was the Joker an enemy of the Avengers?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "Which world does the Joker exist in?",
+                "answer": "DC",
+                
+            },
+            {
+                "question": "The Avengers are from which universe?",
+                "answer": "The Marvel Cinematic",
+                
+            },
+            {
+                "question": "Is #1 the same as #2?",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "Mail carriers, also referred to as mailmen or letter carriers, prepare and deliver mail and parcels. They are divided into two categories: City Letter Carriers, who are represented by the NALC, and Rural Letter Carriers, who are represented by the NRLCA. City Carriers are paid hourly with automatic overtime paid after 8 hours or 40 hours a week of duty. City Carriers are required to work in any kind of weather, daylight or dark and carry three bundles of mail (letters in one hand, magazines in the other and advertisements in a mailbag) in addition to parcels up to a total of 70\u00a0lbs. Mail routes are outfitted with a number of scanpoints (mailbox barcodes) on random streets every 30 to 40 minutes apart to keep track of the Carriers' whereabouts up until the last 5 minutes of any given workday. Rural carriers are under a form of salary called \"evaluated hours\", usually with overtime built into their pay. The evaluated hours are created by having all mail counted for a period of two or four weeks, and a formula used to create the set dollar amount they will be paid for each day worked until the next time the route is counted. Mail handlers and processors, prepare, separate, load and unload mail and parcels, by delivery ZIP code and station, for the clerks. They work almost exclusively at the plants or larger mail facilities now after having their duties excessed and reassigned to clerks in Post Offices and Station branches. Clerks, have a dual function by design of where their assignment is. Window clerks directly handle customer service needs at the counter, sort box mail and also sort first-class letters, standard and bulk-rate mail for the carriers on the work floor. Clerks may also work alongside mail handlers in large sorting facilities, outside of the public view, sorting mail. Data Conversion Operators, who encode address information at Remote Encoding Centers, are also members of the clerk craft. Mail handlers and Clerks are represented by the NPMHU and the APWU, respectively. Other non-managerial positions in the USPS include:\n\nClothing serves many purposes: it can serve as protection from the elements, rough surfaces, rash-causing plants, insect bites, splinters, thorns and prickles by providing a barrier between the skin and the environment. Clothes can insulate against cold or hot conditions, and they can provide a hygienic barrier, keeping infectious and toxic materials away from the body. Clothing also provides protection from ultraviolet radiation.",
+        "question": "Do mail carriers need multiple uniforms?",
+        "answer": "true",
+        "decompositions": [
+            {
+                "question": "What seasons do mail carriers work through?",
+                "answer": "2",
+                
+            },
+            {
+                "question": "In order to make it through all of #1, does one need different clothing pieces?",
+                "answer": true,
+                
+            }
+        ]
+    },
+    {
+        "context": "The Mozambique Drill, also known as the Failure Drill, or Failure to Stop drill, informally, \"two to the body, one to the head,\" is a close-quarters shooting technique that requires the shooter to fire twice into the torso of a target (known as a double tap or hammered pair to the center of mass), and follow up with a more difficult head shot that, if properly placed, will instantly stop the target if the previous shots failed to do so.\n\nThe 75th Ranger Regiment is the U.S. Army's premier light infantry unit, with specialized skills that enable them to perform a variety of operations. Their primary mission is to conduct direct action raids in hostile or sensitive environments worldwide, often killing or capturing high value targets. Besides direct action raids, their other missions include: Airfield seizure, special reconnaissance, personnel recovery, clandestine insertion, and site exploitation. The Regiment can deploy one Ranger battalion within 18 hours of alert notification.\n\nThe army employs various individual weapons to provide light firepower at short ranges. The most common weapon type used by the army is the M4 carbine, a compact variant of the M16 rifle, along with the 7.62\u00d751mm variant of the FN SCAR for Army Rangers. The primary sidearm in the U.S. Army is the 9\u00a0mm M9 pistol; the M11 pistol is also used. Both handguns are to be replaced by the M17 through the Modular Handgun System program. Soldiers are also equipped with various hand grenades, such as the M67 fragmentation grenade and M18 smoke grenade.",
+        "question": "Is Mozambique Drill an easy shot for United States Army Ranger?",
+        "answer": "true",
+        "decompositions": [
+            {
+                "question": "What is the The Mozambique Drill?",
+                "answer": "a close-quarters shooting technique that requires the shooter to fire twice into the torso of a target (known as a double tap or hammered pair to the center of mass), and follow up with a more difficult head shot that, if properly placed, will instantaneously stop the target if the previous shots failed to do so.",
+                
+            },
+            {
+                "question": "What guns are United States Army Rangers equipped with?",
+                "answer": "M4a1 - 5.56 x 45mm carbine.\nMK 16 SCAR-L - a newly fielded 5.56 x 45mm carbine / rifle.\nMK 17 SCAR-H - a newly fielded 7.62 x 51mm carbine / rifle.",
+                
+            },
+            {
+                "question": "What is the minimum shooting range of #2",
+                "answer": "300 to 800 meters",
+                
+            },
+            {
+                "question": "Would a gun with the range of #3 be helpful in #1?",
+                "answer": true,
+                
+            }
+        ]
+    },
+    {
+        "context": "A melodrama is a dramatic work wherein the plot, which is typically sensational and designed to appeal strongly to the emotions, takes precedence over detailed characterization. Melodramas typically concentrate on dialogue, which is often bombastic or excessively sentimental, rather than action. Characters are often simply drawn and may appear stereotyped. Melodramas are typically set in the private sphere of the home, and focus on morality and family issues, love, and marriage, often with challenges from an outside source, such as a \"temptress\", a scoundrel, or an aristocratic villain. A melodrama on stage, filmed or on television is usually accompanied by dramatic and suggestive music that offers cues to the audience of the drama being presented.\n\ndamage. Four passenger airliners which had departed from airports in the northeastern United States bound for California were hijacked by 19 al-Qaeda terrorists. Two of the planes, American Airlines Flight 11 and United Airlines Flight 175, crashed into the North and South towers, respectively, of the World Trade Center complex in Lower Manhattan. Within an hour and 42 minutes, both 110-story towers collapsed. Debris and the resulting fires caused a partial or complete collapse of all other buildings in the World Trade Center complex, including the 47-story 7 World Trade Center tower, as well as significant damage to ten other large surrounding structures. A third plane, American Airlines Flight 77, was crashed into the Pentagon (the headquarters of the U.S. Department of Defense) in Arlington County, Virginia, which led to a partial collapse of the building's west side. The fourth plane, United Airlines Flight 93, was initially flown toward Washington, D.C., but crashed into a field in Stonycreek Township, Pennsylvania, after passengers thwarted the hijackers. 9/11 is the single deadliest terrorist attack in human history and the single deadliest incident for firefighters and law enforcement officers in the history of the United States, with 343 and 72 killed, respectively.\n\nUnited 93 is a 2006 biographical drama-thriller film written, co-produced and directed by Paul Greengrass, that chronicles events aboard United Airlines Flight 93, which was hijacked during the September 11 attacks of 2001. The film attempts to recount the hijacking and subsequent events in the flight with as much veracity as possible (there is a disclaimer that some imagination had to be used) and in real time (from the flight's takeoff). The passengers' response to the hijacking has come to be invested with great moral significance.",
+        "question": "Are there tearjerkers about United Airlines flights?",
+        "answer": "true",
+        "decompositions": [
+            {
+                "question": "What do tearjerkers refer to?",
+                "answer": "a story, song, play, film, or broadcast that moves or is intended to move its audience to tears.",
+                
+            },
+            {
+                "question": "Which United Airlines flight was involved in a terrorist attack in 2001?",
+                "answer": "United Airlines Flight 93",
+                
+            },
+            {
+                "question": "Are there any #1 in memory of the passengers of #2?",
+                "answer": true,
+                
+            }
+        ]
+    },
+    {
+        "context": "Happy Madison Productions is an American film and television production company founded in 1999 by Adam Sandler which is best known for its comedy films. Happy Madison takes its name from the films Happy Gilmore and Billy Madison, two box office successes starring Sandler himself, both produced by Robert Simonds, written by Sandler and Tim Herlihy, and distributed Universal Pictures. The elderly man depicted in the production logo is Sandler's late father, Stanley (who had died in 2003), who also says the accompanying audio, \"Terrific.\"\n\nOn June 22, 2003, Sandler married model-actress Jacqueline Titone. Titone had converted to Sandler's religion, Judaism. She makes frequent appearances in her husband's films. The couple have two daughters, Sadie born in May 2006, and Sunny born in November 2008, who also make frequent appearances in his films.\n\nTorah (/\u02c8t\u0254\u02d0r\u0259, \u02c8to\u028ar\u0259/; Hebrew: \u05ea\u05bc\u05d5\u05b9\u05e8\u05b8\u05d4, \"Instruction\", \"Teaching\" or \"Law\") has a range of meanings. It can most specifically mean the first five books (Pentateuch or five books of Moses) of the 24 books of the Hebrew Bible. This is commonly known as the Written Torah. It can also mean the continued narrative from all the 24 books, from the Book of Genesis to the end of the Tanakh (Chronicles), and it can even mean the totality of Jewish teaching, culture, and practice, whether derived from biblical texts or later rabbinic writings. This is often known as the Oral Torah. Common to all these meanings, Torah consists of the origin of Jewish peoplehood: their call into being by God, their trials and tribulations, and their covenant with their God, which involves following a way of life embodied in a set of moral and religious obligations and civil",
+        "question": "Does Happy Gilmore Productions CEO own a Torah?",
+        "answer": "true",
+        "decompositions": [
+            {
+                "question": "Who is the CEO of Happy Gilmore Productions?",
+                "answer": "Adam Sandler",
+                
+            },
+            {
+                "question": "What religion does #1 follow?",
+                "answer": "Jewish",
+                
+            },
+            {
+                "question": "What religion uses the Torah?",
+                "answer": "Jewish",
+                
+            },
+            {
+                "question": "Is #2 the same as #3?",
+                "answer": true,
+                
+            }
+        ]
+    },
+    {
+        "context": "The Scientific Revolution was a series of events that marked the emergence of modern science during the early modern period, when developments in mathematics, physics, astronomy, biology (including human anatomy) and chemistry transformed the views of society about nature. The Scientific Revolution took place in Europe towards the end of the Renaissance period and continued through the late 18th century, influencing the intellectual social movement known as the Enlightenment. While its dates are debated, the publication in 1543 of Nicolaus Copernicus's De revolutionibus orbium coelestium (On the Revolutions of the Heavenly Spheres) is often cited as marking the beginning of the Scientific Revolution.\n\nThe iPhone is a line of smartphones designed and marketed by Apple Inc. All generations of the iPhone use Apple's iOS mobile operating system software. The first-generation iPhone was released on June 29, 2007, and multiple new hardware iterations with new iOS releases have been released since.",
+        "question": "Did the iPhone usher in the scientific revolution?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "When did the Scientific Revolution begin?",
+                "answer": "1543",
+                
+            },
+            {
+                "question": "When did the iPhone come out?",
+                "answer": "2007",
+                
+            },
+            {
+                "question": "Did #2 occur before #1?",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "The purpose of the course is learning to soldier as a combat leader while enduring the great mental and psychological stresses and physical fatigue of combat; the Ranger Instructors (RIs) \u2013 also known as Lane Graders \u2013 create and cultivate such a physical and mental environment. The course primarily comprises field craft instruction; students plan and execute daily patrolling, perform reconnaissance, ambushes, and raids against dispersed targets, followed by stealthy movement to a new patrol base to plan the next mission. Ranger students conduct about 20 hours of training per day, while consuming two or fewer meals daily totaling about 2,200 calories (9,200\u00a0kJ), with an average of 3.5 hours of sleep a day. Students sleep more before a parachute jump for safety considerations. Ranger students typically wear and carry some 65\u201390 pounds (29\u201341\u00a0kg) of weapons, equipment, and training ammunition while patrolling more than 200 miles (320\u00a0km) throughout the course.\n\nFox was diagnosed with Parkinson's disease in 1991 at age 29, and disclosed his condition to the public in 1998. He semi-retired from acting in 2000 as the symptoms of the disease worsened. He has since become an advocate for research toward finding a cure, and founded the Michael J. Fox Foundation. Sweden's Karolinska Institute gave him an honoris causa doctorate on March 5, 2010 for his work advocating a cure for Parkinson's disease.\n\nParkinson's disease (PD), or simply Parkinson's, is a long-term degenerative disorder of the central nervous system that mainly affects the motor system. As the disease worsens, non-motor symptoms become more common. The symptoms usually emerge slowly. Early in the disease, the most obvious symptoms are shaking, rigidity, slowness of movement, and difficulty with walking. Thinking and behavioral problems may also occur. Dementia becomes common in the advanced stages of the disease. Depression and anxiety are also common, occurring in more than a third of people with PD. Other symptoms include sensory, sleep, and emotional problems. The main motor symptoms are collectively called \"parkinsonism\", or a \"parkinsonian syndrome\".",
+        "question": "Would Michael J Fox qualify for the Army Rangers?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "What must you do to qualify for the Army Rangers?",
+                "answer": "Volunteer for assignment and be on active duty. Have a General Technical (GT) Score of 105 or higher",
+                
+            },
+            {
+                "question": "What condition does Michael J Fox have?",
+                "answer": "Parkinson's Diagnosis",
+                
+            },
+            {
+                "question": "What are some symptoms of #2?",
+                "answer": "A tremor, or shaking, Slowed movement (bradykinesia), Rigid muscles, Impaired posture and balance, Loss of automatic movements, Speech changes, Writing changes.",
+                
+            },
+            {
+                "question": "Could someone experiencing #3 complete #1?",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "On May 22, 2017, her concert at the Manchester Arena was the target of a suicide bombing - a shrapnel-laden homemade bomb detonated by an Islamic extremist as people were leaving the arena. The Manchester Arena bombing caused 23 deaths and injured hundreds more. Grande suspended the remainder of the tour and held a televised benefit concert One Love Manchester on June 4, helping to raise $23 million to aid the bombing victims and affected families. The concert featured performances from Grande, as well as Liam Gallagher, Justin Bieber, Katy Perry, Miley Cyrus and other artists. To recognize her efforts, the City Council named Grande the first honorary citizen of Manchester. The tour resumed on June 7 in Paris and ended in September 2017. In August 2017, she appeared in an Apple Music Carpool Karaoke episode, singing musical theatre songs with Seth MacFarlane. In December 2017, Billboard magazine named her \"Female Artist of the Year\".\n\nPosttraumatic stress disorder (PTSD) is a mental disorder that can develop after a person is exposed to a traumatic event, such as sexual assault, warfare, traffic collisions, child abuse, or other threats on a person's life. Symptoms may include disturbing thoughts, feelings, or dreams related to the events, mental or physical distress to trauma-related cues, attempts to avoid trauma-related cues, alterations in how a person thinks and feels, and an increase in the fight-or-flight response. These symptoms last for more than a month after the event. Young children are less likely to show distress, but instead may express their memories through play. A person with PTSD is at a higher risk for suicide and intentional self-harm.",
+        "question": "At a presentation about post traumatic stress disorder, would Ariana Grande be a topic of relevance?",
+        "answer": "true",
+        "decompositions": [
+            {
+                "question": "What happened during Ariana Grande's performance in Manchester in 2017?",
+                "answer": "Just moments after Ariana Grande finished the final song of her May 22, 2017 concert at Manchester Arena, a suicide bomber detonated an explosion on the.\n",
+                
+            },
+            {
+                "question": "What types of events cause post traumatic stress disorder?",
+                "answer": "serious accidents, physical or sexual assault, childhood or domestic abuse, exposure to traumatic events at work including remote exposure, serious health problems, childbirth experiences such as losing a baby.",
+                
+            },
+            {
+                "question": "Is there any overlap between #1 and #2?",
+                "answer": true,
+                
+            }
+        ]
+    },
+    {
+        "context": "Monogamy (/m\u0259\u02c8n\u0252\u0261\u0259mi/ m\u0259-NOG-\u0259-mee) is a form of dyadic relationship in which an individual has only one partner during their lifetime\u2014alternately, only one partner at any one time (serial monogamy)\u2014as compared to non-monogamy (e.g., polygamy or polyamory). The term is also applied to the social behavior of some animals, referring to the state of having only one mate at any one time.\n\nPadm\u00e9 Amidala (born Padm\u00e9 Naberrie) is a fictional character in the Star Wars franchise, appearing in the prequel trilogy portrayed by Natalie Portman. First indirectly mentioned in Return of the Jedi, she is introduced in The Phantom Menace as the teenage Queen of Naboo, and after her reign, becomes a senator and an anti-war spokesperson in the Galactic Senate. She secretly marries Jedi Knight Anakin Skywalker then later gives birth to Luke Skywalker and Leia Organa and becomes the grandmother of Ben Solo. Anakin's fear of losing Padm\u00e9 plays a part in driving him to the dark side of the Force and becoming Darth Vader.",
+        "question": "Was Darth Vader monogamous?",
+        "answer": "true",
+        "decompositions": [
+            {
+                "question": "If someone is monogamous, how many people are they committed to?",
+                "answer": "1",
+                
+            },
+            {
+                "question": "How many people was Darth Vader committed to?",
+                "answer": "1",
+                
+            },
+            {
+                "question": "Does #2 equal #1?",
+                "answer": true,
+                
+            }
+        ]
+    },
+    {
+        "context": "As an anti-theist, he regarded all religions as false, harmful, and authoritarian. He argued in favour of free expression and scientific discovery, and that it was superior to religion as an ethical code of conduct for human civilization. He also advocated for the separation of church and state. The dictum \"What can be asserted without evidence can be dismissed without evidence\" has become known as Hitchens's razor.\n\nTonsure (/\u02c8t\u0252n\u0283\u0259r/) is the practice of cutting or shaving some or all of the hair on the scalp as a sign of religious devotion or humility. The term originates from the Latin word t\u014dns\u016bra (meaning \"clipping\" or \"shearing\") and referred to a specific practice in medieval Catholicism, abandoned by papal order in 1972. Tonsure can also refer to the secular practice of shaving all or part of the scalp to show support or sympathy, or to designate mourning. Current usage more generally refers to cutting or shaving for monks, devotees, or mystics of any religion as a symbol of their renunciation of worldly fashion and esteem.",
+        "question": "Would Christopher Hitchens be very unlikely to engage in tonsure?",
+        "answer": "true",
+        "decompositions": [
+            {
+                "question": "What were Christopher Hitchens' views on religion?",
+                "answer": "Hitchens posited that organized religion is \"violent, irrational, intolerant, allied to racism, tribalism, and bigotry, invested in ignorance and hostile to free inquiry, contemptuous of women and coercive toward children\" and sectarian, and that accordingly it \"ought to have a great deal on its conscience\".",
+                
+            },
+            {
+                "question": "What is the purpose of tonsure?",
+                "answer": "tonsure, in various religions, a ceremony of initiation in which hair is clipped from the head as part of the ritual marking one's entrance into a new stage of religious development or activity.",
+                
+            },
+            {
+                "question": "Would a proponent of #1 have a negative opinion of #2?",
+                "answer": true,
+                
+            }
+        ]
+    },
+    {
+        "context": "A rescue lifeboat is a boat rescue craft which is used to attend a vessel in distress, or its survivors, to rescue crew and passengers. It can be hand pulled, sail powered or powered by an engine. Lifeboats may be rigid, inflatable or rigid-inflatable combination hulled vessels.\n\nShip-launched lifeboats are lowered from davits on a ship's deck, and are hard to sink in normal circumstances. The cover serves as protection from sun, wind and rain, can be used to collect rainwater, and is normally made of a reflective or fluorescent material that is highly visible. Lifeboats have oars, flares and mirrors for signaling, first aid supplies, and food and water for several days. Some lifeboats are more capably equipped to permit self-rescue, with supplies such as a radio, an engine and sail, heater, navigational equipment, solar water stills, rainwater catchments and fishing equipment.\n\nHooke Crater is an impact crater in the Argyre quadrangle on Mars at 45.2\u00b0S and 44.4\u00b0W and is 139.0\u00a0km in diameter. It was named after British physicist-astronomer Robert Hooke.\n\nSome of the dunes have gullies on them. While these gullies may be a bit different then ones found on crater walls and other steep slopes, they have been thought by some to be caused by flowing water.",
+        "question": "Can a lifeboat rescue people in the Hooke Sea?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "What environment are lifeboats used in?",
+                "answer": "A lifeboat is carried for emergency evacuation in the event of a disaster aboard a ship.",
+                
+            },
+            {
+                "question": "Where is the Hooke Sea?",
+                "answer": "Argyre quadrangle on Mars at 45.2\u00b0S and 44.4\u00b0W",
+                
+            },
+            {
+                "question": "Is there #1 on #2?",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "Crying is a normal and natural part of grieving. It has also been found, however, that crying and talking about the loss is not the only healthy response and, if forced or excessive, can be harmful. Responses or actions in the affected person, called \"coping ugly\" by researcher George Bonanno, may seem counter-intuitive or even appear dysfunctional, e.g., celebratory responses, laughter, or self-serving bias in interpreting events. Lack of crying is also a natural, healthy reaction, potentially protective of the individual, and may also be seen as a sign of resilience. Science has found that some healthy people who are grieving do not spontaneously talk about the loss. Pressing people to cry or retell the experience of a loss can be damaging. Genuine laughter is healthy. When a loved one dies, it is not unusual for the bereaved to report that they have \"seen\" or \"heard\" the person they have lost. In a 2008 survey, 27% of respondents who had lost a loved one said they had this kind of \"contact\" experience.\n\nGrief is the response to loss, particularly to the loss of someone or something that has died, to which a bond or affection was formed. Although conventionally focused on the emotional response to loss, it also has physical, cognitive, behavioral, social, cultural, spiritual and philosophical dimensions. While the terms are often used interchangeably, bereavement refers to the state of loss, and grief is the reaction to that loss.",
+        "question": "Is grief always obvious when it is being experienced?",
+        "answer": "false",
+        "decompositions": [
+            {
+                "question": "What are the ways a person may express their grief?",
+                "answer": "poor sleep, aches and pains, weakness and fatigue, loss of appetite, more crying, and other stress-related symptoms",
+                
+            },
+            {
+                "question": "Based on #1, can one always tell when someone is grieving?",
+                "answer": false,
+                
+            }
+        ]
+    },
+    {
+        "context": "Caesarion was the eldest son of Cleopatra and possibly the only biological son of Julius Caesar, after whom he was named. He was the last sovereign member of the Ptolemaic dynasty of Egypt. In addition to being co-ruler of Egypt as Pharaoh with his mother, he was expected to be his father's successor as the leader of the Romans.Julia (c. 76 BC \u2013 54 BC) was the daughter of Roman dictator Julius Caesar by his first or second wife Cornelia, and his only child from his marriages. Julia became the fourth wife of Pompey the Great and was renowned for her beauty and virtue.Alakhai Bekhi (Alagai B\u00e4ki; born c. 1191, died after 1230) was a daughter of Genghis Khan and his first wife B\u00f6rte. She played significant role behind the scenes during her father\u2019s lifetime.Tolui (c.1191\u20131232) was the fourth son of Genghis Khan by his chief khatun B\u00f6rte. His ulus, or territorial inheritance, at his father's death in 1227 was the homelands in Mongolia, and it was he who served as civil administrator until 1229, the time it took to confirm \u00d6gedei as second Great Khan of the Mongol Empire (1206\u20131368). Before that he had served with distinction in the campaigns against the Jin dynasty, the Western Xia and the Khwarezmid Empire, where he was instrumental in the capture and massacre at Merv and Nishapur. He is a direct ancestor of most of the Ilkhanids.Parents Father Gaius Julius Caesar the Elder (proconsul of Asia in 90s BC) Mother Aurelia (one of the Aurelii Cottae) Sisters Julia Major Julia Minor Wives First marriage to Cornelia (Cinnilla), from 84\u00a0BC until her death in 69 or 68\u00a0BC Second marriage to Pompeia, from 67\u00a0BC until he divorced her around 61\u00a0BC over the Bona Dea scandal Third marriage to Calpurnia, from 59\u00a0BC until Caesar's death Children Julia, by Cornelia, born in 83 or 82 BC Caesarion, by Cleopatra VII, born 47 BC, and killed at age 17 by Caesar's adopted son Octavianus. Posthumously adopted: Gaius Julius Caesar Octavianus, his great-nephew by blood (grandson of Julia, his sister), who later became Emperor Augustus. Suspected Children Marcus Junius Brutus (born 85 BC): The historian Plutarch notes that Caesar believed Brutus to have been his illegitimate son, as his mother Servilia had been Caesar's lover during their youth. Caesar would have been 15 years old when Brutus was born. Junia Tertia (born ca. 60s BC), the daughter of Caesar's lover Servilia was believed by Cicero among other contemporaries, to be Caesar's natural daughter. Decimus Junius Brutus Albinus (born ca. 85\u201381 BC): On several occasions Caesar expressed how he loved Decimus Brutus like a son. This Brutus was also named an heir of Caesar in case Octavius had died before the latter. Ronald Syme argued that if a Brutus was the natural son of Caesar, Decimus was more likely than Marcus. Grandchildren Grandchild from Julia and Pompey, dead at several days, unnamed. Lovers Cleopatra VII, mother of Caesarion Servilia, mother of Brutus Euno\u00eb, queen of Mauretania and wife of Bogudes Notable relatives Gaius Marius (married to his paternal aunt Julia) Mark Antony (his relative through Antony's mother Julia) Lucius Julius Caesar (his third-cousin) Roman society viewed the passive role during sexual activity, regardless of gender, to be a sign of submission or inferiority. Indeed, Suetonius says that in Caesar's Gallic triumph, his soldiers sang that, \"Caesar may have conquered the Gauls, but Nicomedes conquered Caesar.\" According to Cicero, Bibulus, Gaius Memmius, and others (mainly Caesar's enemies), he had an affair with Nicomedes IV of Bithynia early in his career. The stories were repeated, referring to Caesar as the Queen of Bithynia, by some Roman politicians as a way to humiliate him. Caesar himself denied the accusations repeatedly throughout his lifetime, and according to Cassius Dio, even under oath on one occasion. This form of slander was popular during this time in the Roman Republic to demean and discredit political opponents.Soon after the marriage between them took place, the Three Merkits attacked their family camp at dawn and kidnapped B\u00f6rte. She was given to one of their warriors as a spoil of war. Tem\u00fcjin was deeply distressed by the abduction of his wife and remarked that his \"bed was made empty\" and his \"breast was torn apart\". Tem\u00fcjin rescued her several months later with the aid of his allies Wang Khan and Jamukha. Many scholars describe this event as one of the key crossroads in Tem\u00fcjin\u2019s life, which moved him along the path towards becoming a conqueror. \u201cAs the pillaging and plundering went on, Tem\u00fcjin moved among the people that were hurriedly escaping, calling, \u2018B\u00f6rte, B\u00f6rte!\u2019 And so he came upon her, for Lady B\u00f6rte was among those fleeing people. She heard the voice of Tem\u00fcjin and, recognizing it, she got off the cart and came running towards him. Although it was still night, Lady B\u00f6rte and Qo\u2019aq\u010din both recognized Tem\u00fcjin\u2019s reins and tether and grabbed them. It was moonlight; he looked at them, recognized Lady B\u00f6rte, and they fell into each other\u2019s arms.\u201d -The Secret History of the Mongols B\u00f6rte was held captive for eight months, and gave birth to Jochi soon after she was rescued. This left doubt as to who the father of the child was, because her captor took her as a \"wife\" and could have possibly impregnated her. Despite this, Tem\u00fcjin let Jochi remain in the family and claimed him as his own son. B\u00f6rte had three more sons, Chagatai (1183\u20131242), \u00d6gedei (1186\u20131241), and Tolui (1191\u20131232). Tem\u00fcjin had many other children with other wives, but they were excluded from succession, only B\u00f6rte's sons could be considered to be his heirs.Gaius Julius Caesar, sometimes distinguished as \"the Elder\", was the father of the dictator. In 103 or 100 BC, he served on a commission for the distribution of land, which was then awarded mainly to veterans who had served under Marius. Caesar was praetor around 92 BC, and proconsul of Asia for at least two years, although he had never held the consulship. He seems to have departed his province before the Mithridatic War. Subsequently, he chose to lead a quiet life outside Rome. He died suddenly at Pisae in 85 BC. Caesar's wife was Aurelia Cotta. They had two daughters, known as Julia Major and Julia Minor, followed by a son, Gaius Julius Caesar, the future dictator. He was known to have remained a friend of his brother-in-law, Marius.As was common for powerful Mongol men, Genghis Khan had many wives and concubines. He frequently acquired wives and concubines from empires and societies that he had conquered, these women were often princesses or queens that were taken captive or gifted to him. Genghis Khan gave several of his high-status wives their own ordos or camps to live in and manage. Each camp also contained junior wives, concubines, and even children. It was the job of the Kheshig (Mongol imperial guard) to protect the yurts of Genghis Khan's wives. The guards had to pay particular attention to the individual yurt and camp in which Genghis Khan slept, which could change every night as he visited different wives. When Genghis Khan set out on his military conquests he usually took one wife with him and left the rest of his wives (and concubines) to manage the empire in his absence.\n",
+        "question": "Are more people today related to Genghis Khan than Julius Caesar?\n",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "How many kids did Julius Caesar have?\n",
+                "answer": "two"
+            },
+            {
+                "question": "How many kids did Genghis Khan have?\n",
+                "answer": "fourth"
+            },
+            {
+                "question": "Is #2 greater than #1?\n",
+                "answer": "True"
+            }
+        ]
+    },
+    {
+        "context": "Police and various other officers have powers of arrest. In some places, a citizen's arrest is permitted; for example in England and Wales, any person can arrest \"anyone whom he has reasonable grounds for suspecting to be committing, have committed or be guilty of committing an indictable offence\", although certain conditions must be met before taking such action. Similar powers exist in France, Italy, Germany, Austria and Switzerland if a person is caught in an act of crime and not willing or able to produce valid ID.Despite the practice's name, in most countries, the arresting person is usually designated as a person with arrest powers, who need not be a citizen of the country in which they are acting. For example, in the British jurisdiction of England and Wales, the power comes from section 24A(2) of the Police and Criminal Evidence Act 1984, called \"any person arrest\". This legislation states \"any person\" has these powers, and does not state that they need to be a British citizen.The Police were an English rock band formed in London in 1977. For most of their history the line-up consisted of primary songwriter Sting (lead vocals, bass guitar), Andy Summers (guitar), and Stewart Copeland (drums, percussion). The Police became globally popular in the late 1970s and early 1980s. Emerging in the British new wave scene, they played a style of rock influenced by punk, reggae, and jazz. Considered one of the leaders of the Second British Invasion of the U.S., in 1983 Rolling Stone labelled them \"the first British New Wave act to break through in America on a grand scale, and possibly the biggest band in the world.\" The Police disbanded in 1986, but reunited in early 2007 for a one-off world tour that ended in August 2008.When there exists probable cause to believe that a person has committed a minor crime, such as petty theft, driving on a suspended license, or disturbing the peace, law enforcement agents typically issue the individual a citation but do not otherwise detain them. The person must then appear in court on the date provided on the citation. Prior to the court date, the prosecution will decide whether to file formal criminal charges against the individual. When the accused appears in court, they will be advised if formal criminal charges have been filed. If charges are filed, they will be asked to plead guilty or not guilty at the initial court hearing, which is referred to as the arraignment.Police; sheriffs, undersheriffs, and their deputies. (\u00a7\u00a0830.1[a]) Investigators of the California Department of Consumer Affairs. (\u00a7\u00a0830.3[a]) Inspectors or investigators employed in the office of a district attorney. (\u00a7\u00a0830.1[a]) The California Attorney General and special agents and investigators of the California Department of Justice. (\u00a7\u00a0830.1[b]) Members of the California Highway Patrol. (\u00a7\u00a0830.2[a]) Special agents of the California Department of Corrections and Rehabilitation. (\u00a7\u00a0830.2[d]) California State Park Peace Officers (\u00a7\u00a0830.2[f]) Investigators of the California Department of Alcoholic Beverage Control. (\u00a7\u00a0830.2[h]) Cal Expo Police Officers (\u00a7\u00a0830.2[i])(\u00a7\u00a0830.3[q]) Investigators of the California Department of Motor Vehicles. (\u00a7\u00a0830.3[c]) The State Fire Marshal and assistant or deputy state fire marshals. (\u00a7\u00a0830.3[e]) Fraud investigators of the California Department of Insurance. (\u00a7\u00a0830.3[i]) Investigators of the Employment Development Department. (\u00a7\u00a0830.3[q]) A person designated by a local agency as a Park Ranger (\u00a7\u00a0830.31[b]) Members of the University of California Police Department, California State University Police Department or of a California Community College Police Department. (\u00a7\u00a0830.2 [b]&[c]/ 830.32 [a]) Members of the San Francisco Bay Area Rapid Transit District Police Department. (\u00a7\u00a0830.33 [a]) Any railroad police officer commissioned by the Governor. (\u00a7\u00a0830.33 [e] [1]) Welfare fraud Investigators of the California Department of Social Services. (\u00a7\u00a0830.35[a]) County coroners and deputy coroners. (\u00a7\u00a0830.35[c]) Firefighter/Security Officers of the California Military Department. (\u00a7\u00a0PC 830.37) Hospital Police Officers with the California Department of State Hospitals (used to be California Department of Mental Health) and the California Department of Developmental Services (\u00a7\u00a0830.38) County Probation Officers, County Deputy Probation Officers, Parole officers and correctional officers of the California Department of Corrections and Rehabilitation. (\u00a7\u00a0830.5 [a]&[b]) A security officer for a private university or college deputized or appointed as a reserve deputy sheriff or police officer. (\u00a7\u00a0830.75) Most peace officers have jurisdiction throughout the state, but many have limited powers outside their political subdivisions. Some peace officers require special permission to carry firearms. Powers are often limited to the performance of peace officers' primary duties (usually, enforcement of specific laws within their political subdivision); however, most have power of arrest anywhere in the state for any public offensePolice; sheriffs, undersheriffs, and their deputies. (\u00a7\u00a0830.1[a]) Investigators of the California Department of Consumer Affairs. (\u00a7\u00a0830.3[a]) Inspectors or investigators employed in the office of a district attorney. (\u00a7\u00a0830.1[a]) The California Attorney General and special agents and investigators of the California Department of Justice. (\u00a7\u00a0830.1[b]) Members of the California Highway Patrol. (\u00a7\u00a0830.2[a]) Special agents of the California Department of Corrections and Rehabilitation. (\u00a7\u00a0830.2[d]) California State Park Peace Officers (\u00a7\u00a0830.2[f]) Investigators of the California Department of Alcoholic Beverage Control. (\u00a7\u00a0830.2[h]) Cal Expo Police Officers (\u00a7\u00a0830.2[i])(\u00a7\u00a0830.3[q]) Investigators of the California Department of Motor Vehicles. (\u00a7\u00a0830.3[c]) The State Fire Marshal and assistant or deputy state fire marshals. (\u00a7\u00a0830.3[e]) Fraud investigators of the California Department of Insurance. (\u00a7\u00a0830.3[i]) Investigators of the Employment Development Department. (\u00a7\u00a0830.3[q]) A person designated by a local agency as a Park Ranger (\u00a7\u00a0830.31[b]) Members of the University of California Police Department, California State University Police Department or of a California Community College Police Department. (\u00a7\u00a0830.2 [b]&[c]/ 830.32 [a]) Members of the San Francisco Bay Area Rapid Transit District Police Department. (\u00a7\u00a0830.33 [a]) Any railroad police officer commissioned by the Governor. (\u00a7\u00a0830.33 [e] [1]) Welfare fraud Investigators of the California Department of Social Services. (\u00a7\u00a0830.35[a]) County coroners and deputy coroners. (\u00a7\u00a0830.35[c]) Firefighter/Security Officers of the California Military Department. (\u00a7\u00a0PC 830.37) Hospital Police Officers with the California Department of State Hospitals (used to be California Department of Mental Health) and the California Department of Developmental Services (\u00a7\u00a0830.38) County Probation Officers, County Deputy Probation Officers, Parole officers and correctional officers of the California Department of Corrections and Rehabilitation. (\u00a7\u00a0830.5 [a]&[b]) A security officer for a private university or college deputized or appointed as a reserve deputy sheriff or police officer. (\u00a7\u00a0830.75) Most peace officers have jurisdiction throughout the state, but many have limited powers outside their political subdivisions. Some peace officers require special permission to carry firearms. Powers are often limited to the performance of peace officers' primary duties (usually, enforcement of specific laws within their political subdivision); however, most have power of arrest anywhere in the state for any public offenseThe Police's power trio line-up of Copeland, Sting, and Summers performed for the first time on 18 August 1977 at Rebecca's club in the English city of Birmingham in the West Midlands. A trio was unusual for the time, and this line-up endured for the rest of the band's history. Few punk bands were three-pieces, while contemporary bands pursuing progressive rock, symphonic rock and other sound trends usually expanded their line-ups with support players. The musical background of all three players may have made them suspect to punk purists, with music critic Christopher Gable stating,\u201cThe arrest must be lawful \u2013 This is the case for any situation; it just means if the arrest isn\u2019t lawful, then neither is the search.\u201d \u201cThe search must be incidental to the arrest and police need an \u201cobjectively reasonable\u201d reason to conduct the search. These include: protecting police/the accused/the public; preserving evidence; discovering evidence such as finding more suspects.\u201d \u201cThe nature and extent of the search are tailored to the purpose of the search. This means police activity on the phone must be directly linked to the purpose they give.\u201d \u201cPolice must take detailed notes of what they looked at on the device as well as how it was searched (e.g. which applications or programs they looked at, the extent of search, the time of search, its purpose and duration)\u201d To continue a search without a warrant, the situation at-hand would need to meet three of the four guidelines stated above. Nonetheless, the court highly encourages law enforcement to request a warrant before searching a cellphone to promote and protect privacy in Canada.\n",
+        "question": "Could the members of The Police perform lawful arrests?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "Who can perform lawful arrests?\n",
+                "answer": "Police and various other officers"
+            },
+            {
+                "question": "Are members of The Police also #1?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "Adrenaline or noradrenaline to 3,4-Dihydroxymandelic acid Metanephrine or normetanephrine to vanillylmandelic acid (VMA) Dopamine to dihydroxyphenylacetic acid 3-Methoxytyramine to homovanillic acid Because of the vital role that MAOs play in the inactivation of neurotransmitters, MAO dysfunction (too much or too little MAO activity) is thought to be responsible for a number of psychiatric and neurological disorders. For example, unusually high or low levels of MAOs in the body have been associated with schizophrenia, depression, attention deficit disorder, substance abuse, migraines, and irregular sexual maturation.[citation needed] Monoamine oxidase inhibitors are one of the major classes of drug prescribed for the treatment of depression, although they are often last-line treatment due to risk of the drug's interaction with diet or other drugs. Excessive levels of catecholamines (epinephrine, norepinephrine, and dopamine) may lead to a hypertensive crisis, and excessive levels of serotonin may lead to serotonin syndrome.Monoamine oxidases (MAO) (EC 1.4.3.4) are a family of enzymes that catalyze the oxidation of monoamines, employing oxygen to clip off their amine group. They are found bound to the outer membrane of mitochondria in most cell types of the body. The first such enzyme was discovered in 1928 by Mary Bernheim in the liver and was named tyramine oxidase. The MAOs belong to the protein family of flavin-containing amine oxidoreductases.Alcohol can be a depressant which slows down some regions of the brain, like the prefrontal and temporal cortex, negatively affecting our rationality and memory. It also lowers the level of serotonin in our brain, which could potentially lead to higher chances of a depressive mood.Adrenaline or noradrenaline to 3,4-Dihydroxymandelic acid Metanephrine or normetanephrine to vanillylmandelic acid (VMA) Dopamine to dihydroxyphenylacetic acid 3-Methoxytyramine to homovanillic acid Because of the vital role that MAOs play in the inactivation of neurotransmitters, MAO dysfunction (too much or too little MAO activity) is thought to be responsible for a number of psychiatric and neurological disorders. For example, unusually high or low levels of MAOs in the body have been associated with schizophrenia, depression, attention deficit disorder, substance abuse, migraines, and irregular sexual maturation.[citation needed] Monoamine oxidase inhibitors are one of the major classes of drug prescribed for the treatment of depression, although they are often last-line treatment due to risk of the drug's interaction with diet or other drugs. Excessive levels of catecholamines (epinephrine, norepinephrine, and dopamine) may lead to a hypertensive crisis, and excessive levels of serotonin may lead to serotonin syndrome.Drugs that alter serotonin levels are used in treating depression, generalized anxiety disorder, and social phobia. Monoamine oxidase inhibitors (MAOIs) prevent the breakdown of monoamine neurotransmitters (including serotonin), and therefore increase concentrations of the neurotransmitter in the brain. MAOI therapy is associated with many adverse drug reactions, and patients are at risk of hypertensive emergency triggered by foods with high tyramine content, and certain drugs. Some drugs inhibit the re-uptake of serotonin, making it stay in the synaptic cleft longer. The tricyclic antidepressants (TCAs) inhibit the reuptake of both serotonin and norepinephrine. The newer selective serotonin reuptake inhibitors (SSRIs) have fewer side-effects and fewer interactions with other drugs.Scientific studies have found that different brain areas show altered activity in people with major depressive disorder, and this has encouraged advocates of various theories that seek to identify a biochemical origin of the disease, as opposed to theories that emphasize psychological or situational causes. Factors spanning these causative groups include nutritional deficiencies in magnesium, vitamin D, and tryptophan with situational origin but biological impact. Several theories concerning the biologically based cause of depression have been suggested over the years, including theories revolving around monoamine neurotransmitters, neuroplasticity, neurogenesis, inflammation and the circadian rhythm. Physical illnesses, including hypothyroidism and mitochondrial disease, can also trigger depressive symptoms.Serotonin, melatonin, norepinephrine, and epinephrine are mainly broken down by MAO-A. Phenethylamine and benzylamine are mainly broken down by MAO-B. Both forms break down dopamine, tyramine, and tryptamine equally. Specific reactions catalyzed by MAO include:\n",
+        "question": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "Depression is caused by low levels of what chemicals?\n",
+                "answer": "serotonin"
+            },
+            {
+                "question": "Monoamine Oxidase has an effect on what chemicals?\n",
+                "answer": "amine group."
+            },
+            {
+                "question": "Of the chemicals listed in both #1 and #2, does Monoamine Oxidase raise their levels?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "The pinniped ear is adapted for hearing underwater, where it can hear sound frequencies at up to 70,000\u00a0Hz. In air, hearing is somewhat reduced in pinnipeds compared to many terrestrial mammals. While they are capable of hearing a wide range of frequencies (e.g. 500 to 32,000\u00a0Hz in the northern fur seal, compared to 20 to 20,000\u00a0Hz in humans), their airborne hearing sensitivity is weaker overall. One study of three species\u2014the harbor seal, California sea lion and northern elephant seal\u2014found that the sea lion was best adapted for airborne hearing, the harbor seal was equally capable of hearing in air and water, and the elephant seal was better adapted for underwater hearing. Although pinnipeds have a fairly good sense of smell on land, it is useless underwater as their nostrils are closed.The hearing ability of a dog is dependent on breed and age, though the range of hearing is usually around 67\u00a0Hz to 45\u00a0kHz. As with humans, some dog breeds' hearing ranges narrow with age, such as the German shepherd and miniature poodle. When dogs hear a sound, they will move their ears towards it in order to maximize reception. In order to achieve this, the ears of a dog are controlled by at least 18 muscles, which allow the ears to tilt and rotate. The ear's shape also allows the sound to be heard more accurately. Many breeds often have upright and curved ears, which direct and amplify sounds.In English, \"hertz\" is also used as the plural form. As an SI unit, Hz can be prefixed; commonly used multiples are kHz (kilohertz, 103\u00a0Hz), MHz (megahertz, 106\u00a0Hz), GHz (gigahertz, 109\u00a0Hz) and THz (terahertz, 1012\u00a0Hz). One hertz simply means \"one cycle per second\" (typically that which is being counted is a complete cycle); 100\u00a0Hz means \"one hundred cycles per second\", and so on. The unit may be applied to any periodic event\u2014for example, a clock might be said to tick at 1\u00a0Hz, or a human heart might be said to beat at 1.2\u00a0Hz.The grey seal (Halichoerus grypus) is found on both shores of the North Atlantic Ocean. It is a large seal of the family Phocidae, which are commonly referred to as \"true seals\" or \"earless seals\". It is the only species classified in the genus Halichoerus. Its name is spelled gray seal in the US; it is also known as Atlantic seal and the horsehead seal.Humans would also have derived enormous benefit from the dogs associated with their camps. For instance, dogs would have improved sanitation by cleaning up food scraps. Dogs may have provided warmth, as referred to in the Australian Aboriginal expression \"three dog night\" (an exceptionally cold night), and they would have alerted the camp to the presence of predators or strangers, using their acute hearing to provide an early warning.The grey seal (Halichoerus grypus) is found on both shores of the North Atlantic Ocean. It is a large seal of the family Phocidae, which are commonly referred to as \"true seals\" or \"earless seals\". It is the only species classified in the genus Halichoerus. Its name is spelled gray seal in the US; it is also known as Atlantic seal and the horsehead seal.The frequency range of dog hearing is between 16-40\u00a0Hz (compared to 20\u201370\u00a0Hz for humans) and up to 45\u201360\u00a0kHz (compared to 13\u201320\u00a0kHz for humans), which means that dogs can detect sounds far beyond the upper limit of the human auditory spectrum.\n",
+        "question": "Would a dog respond to bell before Grey seal?\n",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "How sensitive is a grey seal's hearing on land?\n",
+                "answer": "between 16-40\u00a0Hz"
+            },
+            {
+                "question": "How sensitive is a dog's hearing on land?\n",
+                "answer": "between 16-40\u00a0Hz"
+            },
+            {
+                "question": "Is #2 better than #1?\n",
+                "answer": "True"
+            }
+        ]
+    },
+    {
+        "context": "At various times, the pound sterling was commodity money or bank notes backed by silver or gold, but it is currently fiat money, with its value determined only by its continued acceptance in the national and international economy. The pound sterling is the world's oldest currency still in use and which has been in continuous use since its inception.At various times, the pound sterling was commodity money or bank notes backed by silver or gold, but it is currently fiat money, with its value determined only by its continued acceptance in the national and international economy. The pound sterling is the world's oldest currency still in use and which has been in continuous use since its inception.Pound sterling (symbol: \u00a3; ISO code: GBP), known in some contexts simply as the pound or sterling, is the official currency of the United Kingdom, Jersey, Guernsey, the Isle of Man, Gibraltar, South Georgia and the South Sandwich Islands, the British Antarctic Territory, and Tristan da Cunha. It is subdivided into 100 pence (singular: penny, abbreviated: p). The Pound sterling is the oldest currency in continuous use. A number of nations that do not use sterling also have currencies called the pound.Since decimalisation on Decimal Day in 1971, the pound has been divided into 100 pence (denoted on coinage, until 1981, as \"new pence\"). The symbol for the penny is \"p\"; hence an amount such as 50p (\u00a30.50) properly pronounced \"fifty pence\" is more colloquially, quite often, pronounced \"fifty pee\" /f\u026afti pi/. This also helped to distinguish between new and old pence amounts during the changeover to the decimal system. A decimal halfpenny was issued until 1984 but was removed due to having a higher cost to manufacture than its face value.During the First World War, production of the sovereign and half-sovereign was suspended, and although the gold standard was later restored, the coins saw little circulation thereafter. In 1920, the silver standard, maintained at .925 since 1552, was reduced to .500. In 1937, a nickel-brass 3d coin was introduced; the last silver 3d coins were issued seven years later. In 1947, the remaining silver coins were replaced with cupro-nickel, with the exception of Maundy coinage which was then restored to .925. Inflation caused the farthing to cease production in 1956 and be demonetised in 1960. In the run-up to decimalisation, the halfpenny and half-crown were demonetised in 1969.At various times, the pound sterling was commodity money or bank notes backed by silver or gold, but it is currently fiat money, with its value determined only by its continued acceptance in the national and international economy. The pound sterling is the world's oldest currency still in use and which has been in continuous use since its inception.The main purpose of redesigning the coin was to combat counterfeiting. As of March 2014 there were an estimated 1,553 million of the original nickel-brass coins in circulation, of which the Royal Mint estimated in 2014 that just over 3% were counterfeit. The new coin, in contrast, is bimetallic like the current \u00a32 coin, and features an undisclosed hidden security feature called \"iSIS\" (Integrated Secure Identification Systems).\n",
+        "question": "Is a pound sterling valuable?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "What is the value of the Pound Sterling based on?\n",
+                "answer": "fiat money,"
+            },
+            {
+                "question": "Is #1 the material used in making it?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "Scampi, also called Dublin Bay Prawn or Norway Lobster (Nephrops norvegicus), is an edible lobster of the order Decapoda (class Crustacea). It is widespread in the Mediterranean and northeastern Atlantic, from North Africa to Norway and Iceland, and is a gastronomic delicacy. Scampi is now the only extant species in the genus Nephrops, after several other species were moved to the closely related genus Metanephrops.Plankton, fish, and ultimately the human race, through the food chain, ingest these highly toxic carcinogens and chemicals. Consuming the fish that contain these toxins can cause an increase in cancer, immune disorders, and birth defects.A study conducted by Scripps Institution of Oceanography showed that the average plastic content in the stomachs of 141 mesopelagic fish over 27 different species was 9.2%. Their estimate for the ingestion rate of plastic debris by these fish in the North Pacific was between 12,000 and 24,000 tonnes per year. The most popular mesopelagic fish is the lantern fish. It resides in the central ocean gyres, a large system of rotating ocean currents. Since lantern fish serve as a primary food source for the fish that consumers purchase, including tuna and swordfish, the plastics they ingest become part of the food chain. The lantern fish is one of the main bait fish in the ocean, and it eats large amounts of plastic fragments, which in turn will not make them nutritious enough for other fish to consume.Catching fish for the purpose of food or sport is known as fishing, while the organized effort by humans to catch fish is called a fishery. Fisheries are a huge global business and provide income for millions of people. The annual yield from all fisheries worldwide is about 154 million tons, with popular species including herring, cod, anchovy, tuna, flounder, and salmon. However, the term fishery is broadly applied, and includes more organisms than just fish, such as mollusks and crustaceans, which are often called \"fish\" when used as food.Shrimp Scampi is a food that includes various culinary preparations of certain crustaceans, such as Metanephrops, as well as shrimp or prawns. Shrimp Scampi preparation styles vary regionally. The United Kingdom legally defines scampi specifically as Nephrops norvegicus. Monkfish tail was formerly sometimes used and sold as scampi in the United Kingdom, contravening the Fish Labelling (Amendment) England Regulation 2005 and Schedule 1 of the Food Labelling Regulations 1996.Nanoplastics are thought to be a risk to environmental and human health. Due to their small size, nanoplastics can cross cellular membranes and affect the functioning of cells. Nanoplastics are lipophilic and models show that polyethylene nanoplastics can be incorporated into the hydrophobic core of lipid bilayers. Nanoplastics are also shown to cross the epithelial membrane of fish accumulating in various organs including the gall bladder, pancreas, and the brain. Little is known on adverse health effects of nanoplastics in organisms including humans. In zebrafish, polystyrene nanoplastics can induce a stress response pathway altering glucose and cortisol levels, which is potentially tied to behavioral changes in stress phases.Microplastics are very small pieces of plastic that pollute the environment. Microplastics are not a specific kind of plastic, but rather any type of plastic fragment that is less than 5\u00a0mm in length according to the U.S. National Oceanic and Atmospheric Administration (NOAA). They enter natural ecosystems from a variety of sources, including cosmetics, clothing, and industrial processes.In the United States, \"shrimp scampi\" is the menu name for shrimp in Italian-American cuisine (the actual word for \"shrimp\" in Italian is gambero or gamberetto, plural gamberi or gamberetti). \"Scampi\" by itself is a dish of Nephrops norvegicus served in garlic butter, dry white wine and Parmesan cheese, either with bread or over pasta or rice, or sometimes just the shrimp alone. The term \"shrimp scampi\" is construed as a style of preparation, and with variants such as \"chicken scampi\", \"lobster scampi\" and \"scallop scampi\". Lidia Bastianich: \"In the United States, shrimps are available, not scampi, so the early immigrants prepared the shrimp they found in the scampi style they remembered.\"\n",
+        "question": "Is shrimp scampi definitely free of plastic?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "What protein is Shrimp scampi made out of?\n",
+                "answer": "garlic butter,"
+            },
+            {
+                "question": "What have #1 been found to contain?\n",
+                "answer": "toxins"
+            },
+            {
+                "question": "Are #2 free from plastic?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "Rede Globo (Portuguese:\u00a0[\u02c8\u0281ed\u0292i \u02c8\u0261lobu], Globe Network), or simply Globo, is a Brazilian free-to-air television network, launched by media proprietor Roberto Marinho on 26 April 1965. It is owned by media conglomerate Grupo Globo, being by far the largest of its holdings. Globo is the largest commercial TV network in Latin America and the second-largest commercial TV network in the world just behind the American ABC Television Network and the largest producer of telenovelas. All of this makes Globo renowned as one of the most important television networks in the world and Grupo Globo one of the largest media groups.Brazil (Portuguese: Brasil; Portuguese pronunciation:\u00a0[b\u027ea\u02c8ziw]), officially the Federative Republic of Brazil (Portuguese: Rep\u00fablica Federativa do Brasil, listen\u00a0(help\u00b7info)), is the largest country in both South America and Latin America. At 8.5\u00a0million square kilometers (3.2\u00a0million square miles) and with over 211 million people, Brazil is the world's fifth-largest country by area and the sixth most populous. Its capital is Bras\u00edlia, and its most populous city is S\u00e3o Paulo. The federation is composed of the union of the 26 states and the Federal District. It is the largest country to have Portuguese as an official language and the only one in the Americas; it is also one of the most multicultural and ethnically diverse nations, due to over a century of mass immigration from around the world.Rede Globo (Portuguese:\u00a0[\u02c8\u0281ed\u0292i \u02c8\u0261lobu], Globe Network), or simply Globo, is a Brazilian free-to-air television network, launched by media proprietor Roberto Marinho on 26 April 1965. It is owned by media conglomerate Grupo Globo, being by far the largest of its holdings. Globo is the largest commercial TV network in Latin America and the second-largest commercial TV network in the world just behind the American ABC Television Network and the largest producer of telenovelas. All of this makes Globo renowned as one of the most important television networks in the world and Grupo Globo one of the largest media groups.Brazil (Portuguese: Brasil; Portuguese pronunciation:\u00a0[b\u027ea\u02c8ziw]), officially the Federative Republic of Brazil (Portuguese: Rep\u00fablica Federativa do Brasil, listen\u00a0(help\u00b7info)), is the largest country in both South America and Latin America. At 8.5\u00a0million square kilometers (3.2\u00a0million square miles) and with over 211 million people, Brazil is the world's fifth-largest country by area and the sixth most populous. Its capital is Bras\u00edlia, and its most populous city is S\u00e3o Paulo. The federation is composed of the union of the 26 states and the Federal District. It is the largest country to have Portuguese as an official language and the only one in the Americas; it is also one of the most multicultural and ethnically diverse nations, due to over a century of mass immigration from around the world.Rede Globo (Portuguese:\u00a0[\u02c8\u0281ed\u0292i \u02c8\u0261lobu], Globe Network), or simply Globo, is a Brazilian free-to-air television network, launched by media proprietor Roberto Marinho on 26 April 1965. It is owned by media conglomerate Grupo Globo, being by far the largest of its holdings. Globo is the largest commercial TV network in Latin America and the second-largest commercial TV network in the world just behind the American ABC Television Network and the largest producer of telenovelas. All of this makes Globo renowned as one of the most important television networks in the world and Grupo Globo one of the largest media groups.Portuguese (portugu\u00eas or, in full, l\u00edngua portuguesa) is a Western Romance language originating in the Iberian Peninsula. It is the sole official language of Portugal, Brazil, Cape Verde, Guinea-Bissau, Mozambique, Angola and S\u00e3o Tom\u00e9 and Pr\u00edncipe. It also has co-official language status in East Timor, Equatorial Guinea and Macau. A Portuguese-speaking person or nation is referred to as \"Lusophone\" (Lus\u00f3fono). As the result of expansion during colonial times, a cultural presence of Portuguese and Portuguese creole speakers are also found around the world (e.g., Cape Verdean Creole, the most widely spoken of these).\n",
+        "question": "Do the anchors on Rede Globo speak Chinese?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "What country broadcasts Rede Globo?\n",
+                "answer": "Brazilian"
+            },
+            {
+                "question": "What is the official language of #1?\n",
+                "answer": "Portuguese"
+            },
+            {
+                "question": "Is #2 Chinese?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "Albany (/\u0254\u02d0b\u0259ni/ AW-b\u0259-nee) is a city in the U.S. state of Georgia. Located on the Flint River, it is the seat of Dougherty County, and is the sole incorporated city in that county. Located in southwest Georgia, it is the principal city of the Albany, Georgia metropolitan area. The population was 77,434 at the 2010 U.S. Census, making it the eighth-largest city in the state. It became prominent in the nineteenth century as a shipping and market center, first served by riverboats. Scheduled steamboats connected Albany with the busy port of Apalachicola, Florida. They were replaced by railroads. Seven lines met in Albany, and it was a center of trade in the Southeast. It is part of the Black Belt, the extensive area in the Deep South of cotton plantations. From the mid-20th century, it received military investment during World War II and after, that helped develop the region. Albany and this area were prominent during the civil rights era, particularly during the early 1960s as activists worked to regain voting and other civil rights. Railroad restructuring and reduction in the military here caused job losses, but the city has developed new businesses.Albany is known for its rich history, commerce, culture, architecture, and institutions of higher education. Albany constitutes the economic and cultural core of the Capital District of New York State, which comprises the Albany\u2013Schenectady\u2013Troy, NY Metropolitan Statistical Area, including the nearby cities and suburbs of Troy, Schenectady, and Saratoga Springs. With a 2013 Census-estimated population of 1.1\u00a0million the Capital District is the third-most populous metropolitan region in the state. As of the 2010 census, the population of Albany was 97,856.As of the census of 2010, there were 77,434 people, 29,781 households, and 18,515 families residing in the city. The population density was 1,385.5 people per square mile (535.0/km\u00b2). There were 33,436 housing units at an average density of 577.3 per square mile (222.9/km\u00b2).Albany is known for its rich history, commerce, culture, architecture, and institutions of higher education. Albany constitutes the economic and cultural core of the Capital District of New York State, which comprises the Albany\u2013Schenectady\u2013Troy, NY Metropolitan Statistical Area, including the nearby cities and suburbs of Troy, Schenectady, and Saratoga Springs. With a 2013 Census-estimated population of 1.1\u00a0million the Capital District is the third-most populous metropolitan region in the state. As of the 2010 census, the population of Albany was 97,856.Albany (/\u0254\u02d0b\u0259ni/ AW-b\u0259-nee) is a city in the U.S. state of Georgia. Located on the Flint River, it is the seat of Dougherty County, and is the sole incorporated city in that county. Located in southwest Georgia, it is the principal city of the Albany, Georgia metropolitan area. The population was 77,434 at the 2010 U.S. Census, making it the eighth-largest city in the state. It became prominent in the nineteenth century as a shipping and market center, first served by riverboats. Scheduled steamboats connected Albany with the busy port of Apalachicola, Florida. They were replaced by railroads. Seven lines met in Albany, and it was a center of trade in the Southeast. It is part of the Black Belt, the extensive area in the Deep South of cotton plantations. From the mid-20th century, it received military investment during World War II and after, that helped develop the region. Albany and this area were prominent during the civil rights era, particularly during the early 1960s as activists worked to regain voting and other civil rights. Railroad restructuring and reduction in the military here caused job losses, but the city has developed new businesses.Albany is known for its rich history, commerce, culture, architecture, and institutions of higher education. Albany constitutes the economic and cultural core of the Capital District of New York State, which comprises the Albany\u2013Schenectady\u2013Troy, NY Metropolitan Statistical Area, including the nearby cities and suburbs of Troy, Schenectady, and Saratoga Springs. With a 2013 Census-estimated population of 1.1\u00a0million the Capital District is the third-most populous metropolitan region in the state. As of the 2010 census, the population of Albany was 97,856.\n",
+        "question": "Will the Albany in Georgia reach a hundred thousand occupants before the one in New York?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "What is the population of Albany, Georgia?\n",
+                "answer": "77,434"
+            },
+            {
+                "question": "What is the population of Albany, New York?\n",
+                "answer": "97,856.Albany"
+            },
+            {
+                "question": "What is the difference between 100,000 and #1?\n",
+                "answer": "the Capital District is the third-most populous metropolitan region in the state."
+            },
+            {
+                "question": "What is the difference between 100,000 and #2?\n",
+                "answer": "third-most populous metropolitan region in the state."
+            },
+            {
+                "question": "Is #3 smaller than #4?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "Wonder Woman had its world premiere in Shanghai on May 15, 2017, and was released in the United States on June 2, 2017, in 4DX, RealD 3D, and IMAX 3D by Warner Bros. Pictures. The film received largely positive reviews, with praise for its direction, acting, visuals, action sequences, and musical score. However, it also received criticism for the main villain and the climax. It grossed over $821\u00a0million worldwide, making it the tenth highest-grossing film of 2017 as well as the highest-grossing film by a solo female director. As of August 2019, Rotten Tomatoes has listed the film fourth on its list of the \"Best Superhero Movies of All Time\", and the American Film Institute selected it as one of the top 10 films of 2017. A sequel, Wonder Woman 1984, is scheduled to be released on August 14, 2020, with Jenkins returning as director, and Gadot and Pine reprising their roles.Wonder Woman had its world premiere in Shanghai on May 15, 2017, and was released in the United States on June 2, 2017, in 4DX, RealD 3D, and IMAX 3D by Warner Bros. Pictures. The film received largely positive reviews, with praise for its direction, acting, visuals, action sequences, and musical score. However, it also received criticism for the main villain and the climax. It grossed over $821\u00a0million worldwide, making it the tenth highest-grossing film of 2017 as well as the highest-grossing film by a solo female director. As of August 2019, Rotten Tomatoes has listed the film fourth on its list of the \"Best Superhero Movies of All Time\", and the American Film Institute selected it as one of the top 10 films of 2017. A sequel, Wonder Woman 1984, is scheduled to be released on August 14, 2020, with Jenkins returning as director, and Gadot and Pine reprising their roles.The launch decision for the $150 million development was made by the board on February 1, 1965. Lufthansa became the launch customer on February 19, 1965, with an order for 21 aircraft, worth $67\u00a0million in 1965, after the airline received assurances from Boeing that the 737 project would not be canceled. Consultation with Lufthansa over the previous winter resulted in an increase in capacity to 100 seats. This was later renamed the 737-100. It competed primarily with the McDonnell Douglas DC-9, then its MD-80/MD-90 derivatives.Wonder Woman grossed $412.6\u00a0million in the United States and Canada and $409.3\u00a0million in other territories for a worldwide total of $821.8\u00a0million, against an estimated production budget of $120\u2013150\u00a0million. Estimates for the number the film needed to surpass internationally in order to cover its production and promotional costs and break even ranged from $300\u00a0million to $460\u00a0million. Deadline Hollywood calculated the net profit of the film to be $252.9\u00a0million, when factoring together all expenses and revenues, making it the 6th most profitable release of 2017.\n",
+        "question": "Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?\n",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "How much does a Boeing 737 cost?\n",
+                "answer": "$67\u00a0million"
+            },
+            {
+                "question": "How much did the 2017 movie Wonder Woman gross?\n",
+                "answer": "$412.6\u00a0million"
+            },
+            {
+                "question": "Is #2 greater than #1?\n",
+                "answer": "True"
+            }
+        ]
+    },
+    {
+        "context": "While the official language is English most Vincentians speak Vincentian Creole, an English-based creole, as their mother tongue. English is used in education, government, religion, and other formal domains, while Creole (or \"dialect\" as it is referred to locally) is used in informal situations such as in the home and among friends.citation needed] English is the official language. Most Vincentians speak Vincentian Creole. English is used in education, government, religion, and other formal domains, while Creole (or 'dialect' as it is referred to locally) is used in informal situations such as in the home and among friends.Vincentian Creole is an English-based creole language spoken in Saint Vincent and the Grenadines. It contains elements of French and Antillean Creole, and various Iberian Romance languages. It has also been influenced by the indigenous Kalinago/Garifuna elements and by African language brought over the Atlantic Ocean by way of the slave trade. Over the years the creole has changed to be more English-based. It does not have the status of an official languageVincentian Creole is an English-based creole language spoken in Saint Vincent and the Grenadines. It contains elements of French and Antillean Creole, and various Iberian Romance languages. It has also been influenced by the indigenous Kalinago/Garifuna elements and by African language brought over the Atlantic Ocean by way of the slave trade. Over the years the creole has changed to be more English-based. It does not have the status of an official languagecitation needed] English is the official language. Most Vincentians speak Vincentian Creole. English is used in education, government, religion, and other formal domains, while Creole (or 'dialect' as it is referred to locally) is used in informal situations such as in the home and among friends.citation needed] English is the official language. Most Vincentians speak Vincentian Creole. English is used in education, government, religion, and other formal domains, while Creole (or 'dialect' as it is referred to locally) is used in informal situations such as in the home and among friends.\n",
+        "question": "Is the language used in Saint Vincent and the Grenadines rooted in English?\n",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "What language is used in Saint Vincent and the Grenadines?\n",
+                "answer": "friends.Vincentian Creole"
+            },
+            {
+                "question": "Is #1 based in English?\n",
+                "answer": "True"
+            }
+        ]
+    },
+    {
+        "context": "Casio Computer Co., Ltd. (\u30ab\u30b7\u30aa\u8a08\u7b97\u6a5f\u682a\u5f0f\u4f1a\u793e, Kashio Keisanki Kabushiki-gaisha) is a Japanese multinational consumer electronics and commercial electronics manufacturing company headquartered in Shibuya, Tokyo, Japan. Its products include calculators, mobile phones, digital cameras, electronic musical instruments, and analogue and digital watches. It was founded in 1946, and in 1957 introduced the world's first entirely electric compact calculator. It was an early digital camera innovator, and during the 1980s and 1990s, the company developed numerous affordable home electronic keyboards for musicians along with introducing the world's first mass-produced digital watches.Petco Animal Supplies, Inc., or simply Petco, is an American pet retailer in the United States, with corporate offices in San Diego and San Antonio. Petco sells pet products and services, as well as certain types of live animals. Petco sells and holds fish, reptiles, small birds, hamsters, guinea pigs, and mice for adoption. Pet services include grooming and dog training. The company also owns the naming rights to the Petco Park baseball stadium, which is home of the San Diego Padres.Casio Computer Co., Ltd. (\u30ab\u30b7\u30aa\u8a08\u7b97\u6a5f\u682a\u5f0f\u4f1a\u793e, Kashio Keisanki Kabushiki-gaisha) is a Japanese multinational consumer electronics and commercial electronics manufacturing company headquartered in Shibuya, Tokyo, Japan. Its products include calculators, mobile phones, digital cameras, electronic musical instruments, and analogue and digital watches. It was founded in 1946, and in 1957 introduced the world's first entirely electric compact calculator. It was an early digital camera innovator, and during the 1980s and 1990s, the company developed numerous affordable home electronic keyboards for musicians along with introducing the world's first mass-produced digital watches.Petco Animal Supplies, Inc., or simply Petco, is an American pet retailer in the United States, with corporate offices in San Diego and San Antonio. Petco sells pet products and services, as well as certain types of live animals. Petco sells and holds fish, reptiles, small birds, hamsters, guinea pigs, and mice for adoption. Pet services include grooming and dog training. The company also owns the naming rights to the Petco Park baseball stadium, which is home of the San Diego Padres.Casio Computer Co., Ltd. (\u30ab\u30b7\u30aa\u8a08\u7b97\u6a5f\u682a\u5f0f\u4f1a\u793e, Kashio Keisanki Kabushiki-gaisha) is a Japanese multinational consumer electronics and commercial electronics manufacturing company headquartered in Shibuya, Tokyo, Japan. Its products include calculators, mobile phones, digital cameras, electronic musical instruments, and analogue and digital watches. It was founded in 1946, and in 1957 introduced the world's first entirely electric compact calculator. It was an early digital camera innovator, and during the 1980s and 1990s, the company developed numerous affordable home electronic keyboards for musicians along with introducing the world's first mass-produced digital watches.Petco Animal Supplies, Inc., or simply Petco, is an American pet retailer in the United States, with corporate offices in San Diego and San Antonio. Petco sells pet products and services, as well as certain types of live animals. Petco sells and holds fish, reptiles, small birds, hamsters, guinea pigs, and mice for adoption. Pet services include grooming and dog training. The company also owns the naming rights to the Petco Park baseball stadium, which is home of the San Diego Padres.\n",
+        "question": "Can you buy Casio products at Petco?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "What kind of products does Casio manufacture?\n",
+                "answer": "calculators, mobile phones, digital cameras, electronic musical instruments,"
+            },
+            {
+                "question": "What kind of products does Petco sell?\n",
+                "answer": "pet products and services,"
+            },
+            {
+                "question": "Does #1 overlap with #2?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "The Space Race was a 20th-century competition between two Cold War rivals, the Soviet Union (USSR) and the United States (US), to achieve firsts in spaceflight capability. It had its origins in the ballistic missile-based nuclear arms race between the two nations following World War\u00a0II. The technological advantage required to rapidly achieve spaceflight milestones was seen as necessary for national security, and mixed with the symbolism and ideology of the time. The Space Race led to pioneering efforts to launch artificial satellites, uncrewed space probes of the Moon, Venus, and Mars, and human spaceflight in low Earth orbit and to the Moon.Each runner must hand off the baton to the next runner within a certain zone, usually marked by triangles on the track. In sprint relays, runners typically use a \"blind handoff\", where the second runner stands on a spot predetermined in practice and starts running when the first runner hits a visual mark on the track (usually a smaller triangle). The second runner opens their hand behind them after a few strides, by which time the first runner should be caught up and able to hand off the baton. Usually a runner will give an auditory signal, such as \"Stick!\" repeated several times, for the recipient of the baton to put out his hand. In middle-distance relays or longer, runners begin by jogging while looking back at the incoming runner and holding out a hand for the baton.Each runner must hand off the baton to the next runner within a certain zone, usually marked by triangles on the track. In sprint relays, runners typically use a \"blind handoff\", where the second runner stands on a spot predetermined in practice and starts running when the first runner hits a visual mark on the track (usually a smaller triangle). The second runner opens their hand behind them after a few strides, by which time the first runner should be caught up and able to hand off the baton. Usually a runner will give an auditory signal, such as \"Stick!\" repeated several times, for the recipient of the baton to put out his hand. In middle-distance relays or longer, runners begin by jogging while looking back at the incoming runner and holding out a hand for the baton.The Space Race was a 20th-century competition between two Cold War rivals, the Soviet Union (USSR) and the United States (US), to achieve firsts in spaceflight capability. It had its origins in the ballistic missile-based nuclear arms race between the two nations following World War\u00a0II. The technological advantage required to rapidly achieve spaceflight milestones was seen as necessary for national security, and mixed with the symbolism and ideology of the time. The Space Race led to pioneering efforts to launch artificial satellites, uncrewed space probes of the Moon, Venus, and Mars, and human spaceflight in low Earth orbit and to the Moon.The Space Race was a 20th-century competition between two Cold War rivals, the Soviet Union (USSR) and the United States (US), to achieve firsts in spaceflight capability. It had its origins in the ballistic missile-based nuclear arms race between the two nations following World War\u00a0II. The technological advantage required to rapidly achieve spaceflight milestones was seen as necessary for national security, and mixed with the symbolism and ideology of the time. The Space Race led to pioneering efforts to launch artificial satellites, uncrewed space probes of the Moon, Venus, and Mars, and human spaceflight in low Earth orbit and to the Moon.A relay race is a racing competition where members of a team take turns completing parts of racecourse or performing a certain action. Relay races take the form of professional races and amateur games. Relay races are common in running, orienteering, swimming, cross-country skiing, biathlon, or ice skating (usually with a baton in the fist). In the Olympic Games, there are several types of relay races that are part of track and field. Relay race, also called Relay, a track-and-field sport consisting of a set number of stages (legs), usually four, each leg run by a different member of a team. The runner finishing one leg is usually required to pass on a baton to the next runner while both are running in a marked exchange zone. In most relays, team members cover equal distances: Olympic events for both men and women are the 400-metre (4 \u00d7 100-metre) and 1,600-metre (4 \u00d7 400-metre) relays. Some non-Olympic relays are held at distances of 800 m, 3,200 m, and 6,000 m. In the less frequently run medley relays, however, the athletes cover different distances in a prescribed order\u2014as in a sprint medley of 200, 200, 400, 800 metres or a distance medley of 1,200, 400, 800, 1,600 metresThe Space Race was a 20th-century competition between two Cold War rivals, the Soviet Union (USSR) and the United States (US), to achieve firsts in spaceflight capability. It had its origins in the ballistic missile-based nuclear arms race between the two nations following World War\u00a0II. The technological advantage required to rapidly achieve spaceflight milestones was seen as necessary for national security, and mixed with the symbolism and ideology of the time. The Space Race led to pioneering efforts to launch artificial satellites, uncrewed space probes of the Moon, Venus, and Mars, and human spaceflight in low Earth orbit and to the Moon.A relay race is a racing competition where members of a team take turns completing parts of racecourse or performing a certain action. Relay races take the form of professional races and amateur games. Relay races are common in running, orienteering, swimming, cross-country skiing, biathlon, or ice skating (usually with a baton in the fist). In the Olympic Games, there are several types of relay races that are part of track and field. Relay race, also called Relay, a track-and-field sport consisting of a set number of stages (legs), usually four, each leg run by a different member of a team. The runner finishing one leg is usually required to pass on a baton to the next runner while both are running in a marked exchange zone. In most relays, team members cover equal distances: Olympic events for both men and women are the 400-metre (4 \u00d7 100-metre) and 1,600-metre (4 \u00d7 400-metre) relays. Some non-Olympic relays are held at distances of 800 m, 3,200 m, and 6,000 m. In the less frequently run medley relays, however, the athletes cover different distances in a prescribed order\u2014as in a sprint medley of 200, 200, 400, 800 metres or a distance medley of 1,200, 400, 800, 1,600 metres\n",
+        "question": "Did the Space Race use relay batons?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "What was the Space Race?\n",
+                "answer": "a 20th-century competition between two Cold War rivals,"
+            },
+            {
+                "question": "What are relay batons used for?\n",
+                "answer": "spaceflight capability."
+            },
+            {
+                "question": "Is #1 the same as #2?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "A Christmas tree is a decorated tree, usually an evergreen conifer, such as a spruce, pine or fir, or an artificial tree of similar appearance, associated with the celebration of Christmas, hence its name, originating in Northern Europe. The custom was developed in medieval Livonia (present-day Estonia and Latvia), and in early modern Germany where Protestant Germans brought decorated trees into their homes. It acquired popularity beyond the Lutheran areas of Germany and the Baltic countries during the second half of the 19th century, at first among the upper classes. The Catholic Church had long resisted this Protestant custom and the Christmas Tree stood for the first time in Vatican in 1982.Deciduous forest In the fields of horticulture and botany, the term deciduous (/d\u026a\u02c8s\u026adju\u02d0\u0259s/; US: /d\u026a\u02c8s\u026ad\u0292u\u0259s/) means \"falling off at maturity\" and \"tending to fall off\", in reference to trees and shrubs that seasonally shed leaves, usually in the autumn; to the shedding of petals, after flowering; and to the shedding of ripe fruit. The antonym of deciduous in the botanical sense is evergreen.The most commonly used species are fir (Abies), which have the benefit of not shedding their needles when they dry out, as well as retaining good foliage color and scent; but species in other genera are also used.Firs (Abies) are a genus of 48\u201356 species of evergreen coniferous trees in the family Pinaceae. They are found through much of North and Central America, Europe, Asia, and North Africa, occurring in mountains over most of the range. Firs are most closely related to the genus Cedrus (cedar). Douglas firs are not true firs, being of the genus Pseudotsuga.A Christmas tree is a decorated tree, usually an evergreen conifer, such as a spruce, pine or fir, or an artificial tree of similar appearance, associated with the celebration of Christmas, hence its name, originating in Northern Europe. The custom was developed in medieval Livonia (present-day Estonia and Latvia), and in early modern Germany where Protestant Germans brought decorated trees into their homes. It acquired popularity beyond the Lutheran areas of Germany and the Baltic countries during the second half of the 19th century, at first among the upper classes. The Catholic Church had long resisted this Protestant custom and the Christmas Tree stood for the first time in Vatican in 1982.Deciduous forest In the fields of horticulture and botany, the term deciduous (/d\u026a\u02c8s\u026adju\u02d0\u0259s/; US: /d\u026a\u02c8s\u026ad\u0292u\u0259s/) means \"falling off at maturity\" and \"tending to fall off\", in reference to trees and shrubs that seasonally shed leaves, usually in the autumn; to the shedding of petals, after flowering; and to the shedding of ripe fruit. The antonym of deciduous in the botanical sense is evergreen.\n",
+        "question": "Are Christmas trees dissimilar to deciduous trees?\n",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "Which kind of trees are commonly used as Christmas trees?\n",
+                "answer": "evergreen conifer,"
+            },
+            {
+                "question": "Are #1 dissimilar to deciduous trees?\n",
+                "answer": "True"
+            }
+        ]
+    },
+    {
+        "context": "A gluon (/\u02c8\u0261lu\u02d0\u0252n/) is an elementary particle that acts as the exchange particle (or gauge boson) for the strong force between quarks. It is analogous to the exchange of photons in the electromagnetic force between two charged particles. In layman's terms, they \"glue\" quarks together, forming hadrons such as protons and neutrons.Biochemistry, sometimes called biological chemistry, is the study of chemical processes within and relating to living organisms. Biochemical processes give rise to the complexity of life.A gluon (/\u02c8\u0261lu\u02d0\u0252n/) is an elementary particle that acts as the exchange particle (or gauge boson) for the strong force between quarks. It is analogous to the exchange of photons in the electromagnetic force between two charged particles. In layman's terms, they \"glue\" quarks together, forming hadrons such as protons and neutrons.A sub-discipline of both biology and chemistry, biochemistry can be divided into three fields; structural biology, enzymology, and metabolism. Over the last decades of the 20th century, biochemistry has become successful at explaining living processes through these three disciplines. Almost all areas of the life sciences are being uncovered and developed by biochemical methodology and research. Biochemistry focuses on understanding the chemical basis which allows biological molecules to give rise to the processes that occur within living cells and between cells, which in turn relates greatly to the study and understanding of tissues and organs, as well as organism structure and function.A gluon (/\u02c8\u0261lu\u02d0\u0252n/) is an elementary particle that acts as the exchange particle (or gauge boson) for the strong force between quarks. It is analogous to the exchange of photons in the electromagnetic force between two charged particles. In layman's terms, they \"glue\" quarks together, forming hadrons such as protons and neutrons.Biochemistry, sometimes called biological chemistry, is the study of chemical processes within and relating to living organisms. Biochemical processes give rise to the complexity of life.Much of biochemistry deals with the structures, functions, and interactions of biological macromolecules, such as proteins, nucleic acids, carbohydrates, and lipids, which provide the structure of cells and perform many of the functions associated with life. The chemistry of the cell also depends on the reactions of smaller molecules and ions. These can be inorganic (for example, water and metal ions) or organic (for example, the amino acids, which are used to synthesize proteins). The mechanisms by which cells harness energy from their environment via chemical reactions are known as metabolism. The findings of biochemistry are applied primarily in medicine, nutrition, and agriculture. In medicine, biochemists investigate the causes and cures of diseases. In nutrition, they study how to maintain health and wellness and study the effects of nutritional deficiencies. In agriculture, biochemists investigate soil and fertilizers. They also try to discover ways to improve crop cultivation, crop storage, and pest control.\n",
+        "question": "Does Biochemistry study gluons?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "What are gluons?\n",
+                "answer": "an elementary particle"
+            },
+            {
+                "question": "What things are studied in biochemistry?\n",
+                "answer": "chemical processes within and relating to living organisms."
+            },
+            {
+                "question": "Is #1 included in #2?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "The Kingdom of Hungary was a monarchy in Central Europe that existed from the Middle Ages into the 20th century (1000\u20131946 with the exception of 1918\u20131920). The Principality of Hungary emerged as a Christian kingdom upon the coronation of the first king Stephen I at Esztergom around the year 1000; his family (the \u00c1rp\u00e1d dynasty) led the monarchy for 300\u00a0years. By the 12th century, the kingdom became a European middle power within the Western world.A monarchy is a form of government in which a person, the monarch, is head of state for life or until abdication. The legitimation and governing power of the monarch may vary from purely symbolic (crowned republic), to restricted (constitutional monarchy), to fully autocratic (absolute monarchy), combining executive, legislative and judicial power.The Kingdom of Hungary was a monarchy in Central Europe that existed from the Middle Ages into the 20th century (1000\u20131946 with the exception of 1918\u20131920). The Principality of Hungary emerged as a Christian kingdom upon the coronation of the first king Stephen I at Esztergom around the year 1000; his family (the \u00c1rp\u00e1d dynasty) led the monarchy for 300\u00a0years. By the 12th century, the kingdom became a European middle power within the Western world.The Kingdom of Hungary was a monarchy in Central Europe that existed from the Middle Ages into the 20th century (1000\u20131946 with the exception of 1918\u20131920). The Principality of Hungary emerged as a Christian kingdom upon the coronation of the first king Stephen I at Esztergom around the year 1000; his family (the \u00c1rp\u00e1d dynasty) led the monarchy for 300\u00a0years. By the 12th century, the kingdom became a European middle power within the Western world.The Kingdom of Hungary was a monarchy in Central Europe that existed from the Middle Ages into the 20th century (1000\u20131946 with the exception of 1918\u20131920). The Principality of Hungary emerged as a Christian kingdom upon the coronation of the first king Stephen I at Esztergom around the year 1000; his family (the \u00c1rp\u00e1d dynasty) led the monarchy for 300\u00a0years. By the 12th century, the kingdom became a European middle power within the Western world.A self-proclaimed monarchy is established when a person claims the monarchy without any historical ties to a previous dynasty. There are examples of republican leaders who have proclaimed themselves monarchs: Napoleon I of France declared himself Emperor of the French and ruled the First French Empire after having held the title of First Consul of the French Republic for five years from his seizing power in the coup of 18 Brumaire. President Jean-B\u00e9del Bokassa of the Central African Republic declared himself Emperor of the Central African Empire in 1976. Yuan Shikai, the first formal President of the Republic of China, crowned himself Emperor of the short-lived \"Empire of China\" a few years after the Republic of China was founded.\n",
+        "question": "Did land owners elect their rulers in the Kingdom of Hungary?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "Which kind of government ruled over the Kingdom of Hungary?\n",
+                "answer": "monarchy"
+            },
+            {
+                "question": "Does #1 allow citizens to elect their own rulers?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "Nancy Patricia Pelosi (/p\u0259\u02c8lo\u028asi/; n\u00e9e\u00a0D'Alesandro; born March 26, 1940) is an American politician serving as Speaker of the United States House of Representatives since 2019, and previously from 2007 to 2011. She is the only woman in U.S. history to hold this position and is the highest-ranking female elected official in United States history. As House Speaker, Pelosi is second in the presidential line of succession, immediately after the vice president.The Democratic Party's philosophy of modern liberalism advocates social and economic equality, along with the welfare state. It seeks to provide government regulation in the economy to promote the public interest. Environmental protection, support for organized labor, maintenance and expansion of social programs, affordable college tuition, universal health care, equal opportunity, and consumer protection form the core of the party's economic policy. On social issues, it advocates campaign finance reform, LGBT rights, criminal justice and immigration reform, stricter gun laws, and the legalization of marijuana.Nancy Patricia Pelosi (/p\u0259\u02c8lo\u028asi/; n\u00e9e\u00a0D'Alesandro; born March 26, 1940) is an American politician serving as Speaker of the United States House of Representatives since 2019, and previously from 2007 to 2011. She is the only woman in U.S. history to hold this position and is the highest-ranking female elected official in United States history. As House Speaker, Pelosi is second in the presidential line of succession, immediately after the vice president.The Democratic Party's philosophy of modern liberalism advocates social and economic equality, along with the welfare state. It seeks to provide government regulation in the economy to promote the public interest. Environmental protection, support for organized labor, maintenance and expansion of social programs, affordable college tuition, universal health care, equal opportunity, and consumer protection form the core of the party's economic policy. On social issues, it advocates campaign finance reform, LGBT rights, criminal justice and immigration reform, stricter gun laws, and the legalization of marijuana.The current House speaker, Democrat Nancy Pelosi of California, was elected to the office on January 3, 2019. Pelosi previously served as speaker from January 4, 2007, to January 3, 2011. She has the distinction of being the first woman to serve as speaker, and is also the first former speaker to be returned to office since Sam Rayburn in 1955.The Democratic Party believe that all women should have access to birth control and support public funding of contraception for poor women. In its national platforms from 1992 to 2004, the Democratic Party has called for abortion to be \"safe, legal and rare\"\u2014namely, keeping it legal by rejecting laws that allow governmental interference in abortion decisions and reducing the number of abortions by promoting both knowledge of reproduction and contraception and incentives for adoption. The wording changed in the 2008 platform. When Congress voted on the Partial-Birth Abortion Ban Act in 2003, Congressional Democrats were split, with a minority (including former Senate Majority Leader Harry Reid) supporting the ban and the majority of Democrats opposing the legislation.\n",
+        "question": "Would Nancy Pelosi publicly denounce abortion?\n",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "Which US political party does Nancy Pelosi identify with?\n",
+                "answer": "Democrat"
+            },
+            {
+                "question": "Do most people who identify with #1 oppose abortion?\n",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "context": "Balls. Toriyama's manga was adapted and divided into two anime series produced by Toei Animation: Dragon Ball and Dragon Ball Z, which together were broadcast in Japan from 1986 to 1996. Additionally, the studio has developed 20 animated feature films and three television specials, as well as two anime sequel series titled Dragon Ball GT (1996\u20131997) and Dragon Ball Super (2015\u20132018). From 2009 to 2015, a revised version of Dragon Ball Z aired in Japan under the title Dragon Ball Kai, as a recut that follows the manga's story more faithfully by removing most of the material featured exclusively in the anime. Several companies have developed various types of merchandising based on the series leading to a large media franchise that includes films, both animated and live-action, collectible trading card games, numerous action figures, along with several collections of soundtracks and numerous video games. Dragon Ball is one of the top twenty highest-grossing media franchises of all time, having generated more than $20 billion in total franchise revenue asFriday the 13th is an American horror franchise that comprises twelve slasher films, a television series, novels, comic books, video games, and tie\u2011in merchandise. The franchise mainly focuses on the fictional character Jason Voorhees, who drowned as a boy at Camp Crystal Lake due to the negligence of the camp staff. Decades later, the lake is rumored to be \"cursed\" and is the setting for a series of mass murders. Jason is featured in all of the films, as either the killer or the motivation for the killings. The original film, created to cash in on the success of Halloween (1978), was written by Victor Miller and was produced and directed by Sean S. Cunningham. The films have grossed over $529 million at the box-office worldwide. It was the highest-grossing horror franchise in the world until the release of Halloween (2018), putting that franchise in the top spot.Balls. Toriyama's manga was adapted and divided into two anime series produced by Toei Animation: Dragon Ball and Dragon Ball Z, which together were broadcast in Japan from 1986 to 1996. Additionally, the studio has developed 20 animated feature films and three television specials, as well as two anime sequel series titled Dragon Ball GT (1996\u20131997) and Dragon Ball Super (2015\u20132018). From 2009 to 2015, a revised version of Dragon Ball Z aired in Japan under the title Dragon Ball Kai, as a recut that follows the manga's story more faithfully by removing most of the material featured exclusively in the anime. Several companies have developed various types of merchandising based on the series leading to a large media franchise that includes films, both animated and live-action, collectible trading card games, numerous action figures, along with several collections of soundtracks and numerous video games. Dragon Ball is one of the top twenty highest-grossing media franchises of all time, having generated more than $20 billion in total franchise revenue asFriday the 13th is an American horror franchise that comprises twelve slasher films, a television series, novels, comic books, video games, and tie\u2011in merchandise. The franchise mainly focuses on the fictional character Jason Voorhees, who drowned as a boy at Camp Crystal Lake due to the negligence of the camp staff. Decades later, the lake is rumored to be \"cursed\" and is the setting for a series of mass murders. Jason is featured in all of the films, as either the killer or the motivation for the killings. The original film, created to cash in on the success of Halloween (1978), was written by Victor Miller and was produced and directed by Sean S. Cunningham. The films have grossed over $529 million at the box-office worldwide. It was the highest-grossing horror franchise in the world until the release of Halloween (2018), putting that franchise in the top spot.Frank Mancuso, Jr., a producer of the films, also developed the television show Friday the 13th: The Series after Paramount released Jason Lives. The television series was not connected to the franchise by any character or setting, but was created based on the idea of \"bad luck and curses\", which the film series symbolized. While the franchise was owned by Paramount, four films were adapted into novels, with Friday the 13th Part III adapted by two separate authors. When the franchise was sold to New Line Cinema, Cunningham returned as a producer to oversee two additional films, in addition to a crossover film with character Freddy Krueger from A Nightmare on Elm Street film series. Under New Line Cinema, thirteen novellas and various comic book series featuring Jason were published.Instead of continuing the anime as Dragon Ball, Toei Animation decided to carry on with their adaptation under a new name and asked Akira Toriyama to come up with the title. Dragon Ball Z (\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebZ(\u30bc\u30c3\u30c8), Doragon B\u014dru Zetto, commonly abbreviated as DBZ) picks up five years after the first series left off and adapts the final 325 chapters of the manga. It premiered in Japan on Fuji Television on April 26, 1989, taking over its predecessor's time slot, and ran for 291 episodes until its conclusion on January 31, 1996. Two television specials based on the Z series were aired on Fuji TV in Japan. The first, The One True Final Battle ~The Z Warrior Who Challenged Frieza \u2013 Son Goku's Father~, renamed Bardock \u2013 The Father of Goku by Funimation, was shown on October 17, 1990. The second special, Defiance in the Face of Despair!! The Remaining Super-Warriors: Gohan and Trunks, renamed The History of Trunks by Funimation, is based on a special chapter of the original manga and aired on February 24, 1993.Dragon Ball GT (\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30ebGT(\u30b8\u30fc\u30c6\u30a3\u30fc), Doragon B\u014dru J\u012b T\u012b, G(rand) T(ouring)) premiered on Fuji TV on February 7, 1996 and ran until November 19, 1997 for 64 episodes. Unlike the first two anime series, it is not based on Akira Toriyama's original Dragon Ball manga, being created by Toei Animation as a sequel to the series or as Toriyama called it, a \"grand side story of the original Dragon Ball.\" Toriyama designed the main cast, the spaceship used in the show, the design of three planets, and came up with the title and logo. In addition to this, Toriyama also oversaw production of the series, just as he had for the Dragon Ball and Dragon Ball Z anime. The television special episode, Goku's Side Story! The Proof of his Courage is the Four-Star Ball, or A Hero's Legacy as Funimation titled it for their dub, aired on March 26, 1997, between episodes 41 and 42, serving as a kind of precursor to the epilogue to the series shown at the end of episode 64.Although the films were not popular with critics, Friday the 13th is considered one of the most successful media franchises in America\u2014not only for the success of the films, but also because of the extensive merchandising and repeated references to the series in popular culture. The franchise's popularity has generated a fanbase who have created their own Friday the 13th films, fashioned replica Jason Voorhees costumes, and tattooed their bodies with Friday the 13th artwork. Jason's hockey mask has become one of the most recognizable images in horror and popular culture.\n",
+        "question": "Does Dragon Ball shows and movies fall short of Friday 13th number of projects?\n",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "How many Dragon Ball series, TV specials and other features have been released?\n",
+                "answer": "three"
+            },
+            {
+                "question": "How many Friday the 13th franchise films and television series have been released?\n",
+                "answer": "twelve"
+            },
+            {
+                "question": "Is #2 greater than #1?\n",
+                "answer": "True"
+            }
+        ]
+    },
+    {
+        "context": "The September 11 attacks (also referred to as 9/11) were a series of four coordinated terrorist attacks by the Islamic terrorist group al-Qaeda against the United States on the morning of Tuesday, September 11, 2001. The attacks resulted in 2,977 fatalities, over 25,000 injuries, and substantial long-term health consequences, in addition to at least $10\u00a0billion in infrastructure and propertyYara Sayeh Shahidi (born February 10, 2000) is an American actress, model, and activist. She gained recognition for her starring role as the oldest daughter Zoey Johnson on the sitcom Black-ish (2014\u2013present) and its spin-off series Grown-ish (2018\u2013present). Her film credits include Imagine That (2009), Smallfoot (2018), and the lead role in The Sun Is Also a Star (2019). Time included her on \"The 30 Most Influential Teens of 2016\" list.Childhood amnesia, also called infantile amnesia, is the inability of adults to retrieve episodic memories (memories of situations or events) before the age of two to four years, as well as the period before the age of ten of which adults retain fewer memories than might otherwise be expected given the passage of time. The development of a cognitive self is also thought by some to have an effect on encoding and storing early memories.The September 11 attacks (also referred to as 9/11) were a series of four coordinated terrorist attacks by the Islamic terrorist group al-Qaeda against the United States on the morning of Tuesday, September 11, 2001. The attacks resulted in 2,977 fatalities, over 25,000 injuries, and substantial long-term health consequences, in addition to at least $10\u00a0billion in infrastructure and propertyA secondary school is an organization that provides secondary education and the building where this takes place. Some secondary schools provide both lower secondary education and upper secondary education (levels 2 and 3 of the ISCED scale), but these can also be provided in separate schools, as in the American middle and high school system.Childhood amnesia, also called infantile amnesia, is the inability of adults to retrieve episodic memories (memories of situations or events) before the age of two to four years, as well as the period before the age of ten of which adults retain fewer memories than might otherwise be expected given the passage of time. The development of a cognitive self is also thought by some to have an effect on encoding and storing early memories.Inside 9/11 is a three-part television documentary film produced by Towers Productions that premiered on August 21 and August 22, 2005, on the National Geographic Channel. The program covers the September 11, 2001 attack, the events that led to it, and its aftermath. The first part consisted of examining, event by event, the build-up towards September 11. The second part consisted of the events of 9/11 itself and the aftermath. Experts and eyewitnesses provide their accounts of the attacks, and the events are covered in chronological order.The twelfth grade is the twelfth school year after kindergarten. It is also the last year of compulsory secondary education, or \"high school\". Students often enter the grade as 16 and 17-year-olds and graduate as mostly 17 or 18-year-olds depending on their birthday. Twelfth graders are referred to as Seniors.Most psychologists differ in defining the offset of childhood amnesia. Some define it as the age from which a first memory can be retrieved. This is usually at the age of three or four, but it can range from two to eight years.A newborn is, in colloquial use, an infant who is only hours, days, or up to one month old. In medical contexts, newborn or neonate (from Latin, neonatus, newborn) refers to an infant in the first 28 days after birth; the term applies to premature, full term, and postmature infants; before birth, the term \"fetus\" is used. The term \"infant\" is typically applied to young children under one year of age; however, definitions may vary and may include children up to two years of age. When a human child learns to walk, the term \"toddler\" may be used instead.Most psychologists differ in defining the offset of childhood amnesia. Some define it as the age from which a first memory can be retrieved. This is usually at the age of three or four, but it can range from two to eight years.A newborn is, in colloquial use, an infant who is only hours, days, or up to one month old. In medical contexts, newborn or neonate (from Latin, neonatus, newborn) refers to an infant in the first 28 days after birth; the term applies to premature, full term, and postmature infants; before birth, the term \"fetus\" is used. The term \"infant\" is typically applied to young children under one year of age; however, definitions may vary and may include children up to two years of age. When a human child learns to walk, the term \"toddler\" may be used instead.\n",
+        "question": "Would a student of the class of 2017 have amnesia about 9/11?\n",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "What year did 9/11 occur?\n",
+                "answer": "2001."
+            },
+            {
+                "question": "In what year would students graduating high-school in 2017 have been born in?\n",
+                "answer": "2000)"
+            },
+            {
+                "question": "What age is childhood amnesia most common in?\n",
+                "answer": "two to four years,"
+            },
+            {
+                "question": "If someone was born in #2, how old would they have been in #1?\n",
+                "answer": "ten"
+            },
+            {
+                "question": "Does #3 overlap with #4?\n",
+                "answer": "True"
+            }
+        ]
+    },
+    {
+        "context": "Some people regard the durian as having a pleasantly sweet fragrance, whereas others find the aroma overpowering with an unpleasant odour. The smell evokes reactions from deep appreciation to intense disgust, and has been described variously as rotten onions, turpentine, and raw sewage. The persistence of its odour, which may linger for several days, has led to the fruit's banishment from certain hotels and public transportation in Southeast Asia. By contrast, the nineteenth-century British naturalist Alfred Russel Wallace described its flesh as \"a rich custard highly flavoured with almonds\". The flesh can be consumed at various stages of ripeness, and it is used to flavour a wide variety of savoury and sweet desserts in Southeast Asian cuisines. The seeds can also be eaten when cooked.",
+        "question": "Are Durian fruits an olfactory delight?",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "What kind of smell is the durian known for?",
+                "answer": ""
+            },
+            {
+                "question": "Is #1 pleasant?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "On February 12, 1952, Bennett married Ohio art student and jazz fan Patricia Beech, whom he had met the previous year after a nightclub performance in Cleveland. Two thousand female fans dressed in black gathered outside the ceremony at St. Patrick's Cathedral in Manhattan, New York, in mock mourning. The couple had two sons, D'Andrea (Danny, born 1954) and Daegal (Dae, born 1955).\nDominick Rojelio Cruz (born March 9, 1985) is an American professional mixed martial artist, who is currently signed to the Ultimate Fighting Championship (UFC). He is a two-time UFC Bantamweight Champion and was also the final bantamweight titleholder of World Extreme Cagefighting (WEC).",
+        "question": "Is Tony Bennett's middle name shared by a former UFC champion?",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "What is Tony Bennett's middle name?",
+                "answer": ""
+            },
+            {
+                "question": "What are the names of the former UFC champions?",
+                "answer": ""
+            },
+            {
+                "question": "Is #1 found in #2?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "Friday the 13th is considered an unlucky day in Western superstition. It occurs when the 13th day of the month in the Gregorian calendar falls on a Friday, which happens at least once every year but can occur up to three times in the same yearâ€”for example, in 2015, Friday the 13th occurred in February, March, and November. 2017 through 2020 will all have two Friday the 13ths each, and the years 2021 and 2022 will both have just one occurrence each.\nIn the 2010s, there were three Friday the 13ths in 2012 and 2015, and two in 2013, 2017, 2018 and 2019. In the 2020s, there will be three F13s in 2026, and two in 2020, 2023, 2024, and 2029. The rest of years have at least one F13 if there are fewer than two or three in the 2010s and 2020s. Assuming nothing is changed with the calendar, there are never more than three F13s in a year. There is a 28-year cycle that repeats when there is a F13 in February, March and November, and the current start of that pattern was in 2009. Although there is at least one F13 per calendar year, it can be as long as 14 months between two F13s. For the details see the table below.",
+        "question": "Does 2015 have more unlucky Friday's than usual?",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "How many Friday the 13ths were in 2015?",
+                "answer": ""
+            },
+            {
+                "question": "What is the usual number of Friday the 13ths per year?",
+                "answer": ""
+            },
+            {
+                "question": "Is #1 more than #2?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "Pre-Primary from 6 weeks old to 6 years old- is an educational childcare service a parent can enroll their child(ren) in before primary school. This can also be used to define services for children younger than kindergarten age, especially in countries where kindergarten is compulsory. The pre-primary program takes place in a nursery school. Nursery school (UK and US) from 0 months to 5 years old- is a pre-primary educational child care institution which includes Preschool. Daycare (US) from 0 months to 2Â½ years old â€“ held in a Nursery School, but can also be called \"a child care service\" or a \"crÃ¨che\". Preschool (US and UK) from 2 to 5 years old- held in a Nursery School; readiness has to do with whether the child is developmentally appropriate, potty training is a big factor, so a child can start as early as 2 years old. Preschool education is important and beneficial for any child attending nursery school because it gives the child a head start through social interactions. Through cognitive, psychosocial and physical development-based learning a child in preschool will learn about their environment and how to verbally communicate with others. Children who attend Preschool learn how the world around them works through play and communication. Pre-K (or Pre-Kindergarten) from 4 to 5 years old- held in Nursery School and is an initiative to improve access to pre-primary schools for children in the USA. There is much more than teaching a child colors, numbers, shapes and so on. Kindergarten (US) from 5 to 6 years old- held in a Nursery School and/or some primary elementary schools; in many parts of world (less so in English speaking countries) it refers to the first stages of formal education. In an age when school was restricted to children who had already learned to read and write at home, there were many attempts to make school accessible to orphans or to the children of women who worked in factories.\nPG-13 is a common type of content rating that applies to media entertainment, such as films and television shows, generally denoting, \"Parental Guidance: some material may be inappropriate for children 13 and under\". Countries and organizations that use the rating include:",
+        "question": "Would The Dark Knight be appropriate for a preschool class?",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "What is the average age of preschoolers?",
+                "answer": ""
+            },
+            {
+                "question": "What is the Dark Knight rated?",
+                "answer": ""
+            },
+            {
+                "question": "What is the minimum age to watch something rated #2?",
+                "answer": ""
+            },
+            {
+                "question": "Is age #1 above #3?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "Jujutsu (English: /dÊ’uËËˆdÊ’ÊŠtsuË/ joo-JOOT-soo; Japanese: æŸ”è¡“ jÅ«jutsu listenÂ (helpÂ·info)), also known as Japanese Jujutsu, JJJ, Jujitsu or Japanese Ju-Jitsu, is a family of Japanese martial arts and a method of close combat for defeating an opponent in which one uses either a short weapon or bare hands, and selected subset of techniques from certain styles of Japanese Jujutsu were used to develop modern martial arts and combat sports, such as Judo, Sambo, ARB, Brazilian jiu-jitsu and mixed martial arts.\nNick Newell (born March 17, 1986 in Milford, Connecticut) is an American mixed martial artist, currently signed to Bellator MMA, competing in the lightweight division.\nNewell was born with congenital amputation of his left arm, which ends just below his elbow. Newell has a very short yet muscular stump of his forearm which he learned from a young age to grasp objects with. Newell was born with his stump and therefore learnt to use it like a hand from birth. On joining his high school wrestling team, he thought about quitting after his very first session because it was 'the hardest thing I had done in my life, but his mother did not allow him to, and instead he worked hard from then on.",
+        "question": "Are all limbs required for jujutsu?",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "What kind of sport is jujutsu?",
+                "answer": ""
+            },
+            {
+                "question": "Which sport did Nick Newell get a black belt in?",
+                "answer": ""
+            },
+            {
+                "question": "Did Nick Newell have all limbs intact or is #2 not a form of #1?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "The National Railroad Passenger Corporation, doing business as Amtrak (reporting marks AMTK, AMTZ), is a passenger railroad service that provides medium and long-distance intercity service in the contiguous United States and to nine Canadian cities.\nThe underworld is the supernatural world of the dead in various religious traditions, located below the world of the living. Chthonic is the technical adjective for things of the underworld.",
+        "question": "Can you get a ride on Amtrak to the Underworld?",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "Which major regions are covered by the passenger railroad service 'Amtrak'?",
+                "answer": ""
+            },
+            {
+                "question": "Is the Underworld part of #1?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "The Jackson 5 (stylized as the Jackson 5ive), later known as the Jacksons, is an American pop band composed of members of the Jackson family. The group was founded in 1965 in Gary, Indiana, by brothers Jackie, Tito, and Jermaine, with younger brothers Marlon and Michael joining soon after.\nThe Osmonds are an American family music group who reached the height of their fame in the early-to-mid 1970s. Currently consisting of a duo of original members Merrill Osmond and Jay Osmond, the group's best known configurations have been as a quartet (billed as the Osmond Brothers) and as a quintet (as the Osmonds). The group has consisted of siblings who are all members of a family of musicians from Ogden, Utah, who have been in the public eye since the 1960s.\nA quintet is a group containing five members. It is commonly associated with musical groups, such as a string quintet, or a group of five singers, but can be applied to any situation where five similar or related objects are considered a single unit.",
+        "question": "Did Jackson 5 members exceed number in The Osmonds?",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "How many members did The Jackson 5 have?",
+                "answer": ""
+            },
+            {
+                "question": "How many members did The Osmonds have?",
+                "answer": ""
+            },
+            {
+                "question": "Is #1 greater than #2?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "Bugs Bunny is an animated cartoon character, created in the late 1930s by Leon Schlesinger Productions (later Warner Bros. Cartoons) and voiced originally by Mel Blanc. Bugs is best known for his starring roles in the Looney Tunes and Merrie Melodies series of animated short films, produced by Warner Bros. Though a similar character called Happy Rabbit debuted in the WB cartoon Porky's Hare Hunt (1938) and appeared in a few subsequent shorts, the definitive character of Bugs is widely credited to have made his debut in director Tex Avery's Oscar-nominated film A Wild Hare (1940).",
+        "question": "Did Mickey Mouse appear in a cartoon with Bugs Bunny in 1930?",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "When was Bugs Bunny created?",
+                "answer": ""
+            },
+            {
+                "question": "Is #1 before 1930?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "Bloomberg grew up in Medford, Massachusetts and graduated from Johns Hopkins University and Harvard Business School. He began his career at the securities brokerage Salomon Brothers before forming his own company in 1981. That company, Bloomberg L.P., is a financial information, software and media firm that is known for its Bloomberg Terminal. Bloomberg spent the next twenty years as its chairman and CEO. In 2019, Forbes ranked him as the ninth-richest person in the world, with an estimated net worth of $55.5 billion. Since signing The Giving Pledge, Bloomberg has given away $8.2 billion.\nNationally, the primary income is the sale of fishing rights to foreign nations that harvest tuna using huge purse seiners. A few Japanese long liners still ply the waters. The crews aboard fishing fleets contribute little to the local economy since their ships typically set sail loaded with stores and provisions that are cheaper than local goods. Additional money comes in from government grants, mostly from the United States and the $150 million the US paid into a trust fund for reparations of residents of Bikini Atoll that had to move after nuclear testing. Few mineral deposits worth exploiting exist, except for some high-grade phosphate, especially on Nauru.\nThe large inflow of official assistance to FSM allows it to run a substantial trade deficit and to have a much lighter tax burden than other states in the region (11% of GDP in FSM compared to 18â€“25% elsewhere). The government also borrowed against future Compact disbursements in the early 1990s, yielding an external debt of $111 million in 1997 (over 50% of GDP).",
+        "question": "Can Michael Bloomberg fund the debt of Micronesia for a decade?",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "What is Micheal Bloomberg's worth?",
+                "answer": ""
+            },
+            {
+                "question": "What is the annual expense for Micronesia?",
+                "answer": ""
+            },
+            {
+                "question": "Is #1 greater than #2?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "Tsar (/zÉ‘Ër, sÉ‘Ër/ or /tsÉ‘Ër/), also spelled czar, or tzar or csar, is a title used to designate East and South Slavic monarchs or supreme rulers of Eastern Europe, originally the Bulgarian monarchs from 10th century onwards, much later a title for two rulers of the Serbian State, and from 1547 the supreme ruler of the Tsardom of Russia and the Russian Empire. In this last capacity it lends its name to a system of government, tsarist autocracy or tsarism. The term is derived from the Latin word caesar, which was intended to mean \"emperor\" in the European medieval sense of the termâ€”a ruler with the same rank as a Roman emperor, holding it by the approval of another emperor or a supreme ecclesiastical official (the Pope or the Ecumenical Patriarch)â€”but was usually considered by western Europeans to be equivalent to king, or to be somewhat in between a royal and imperial rank.\nFrom this ambiguity, the development has moved in different directions in the different Slavic languages. Thus, the Bulgarian language and Russian language no longer use \"tsar\" as an equivalent of the term imperator as it exists in the West European (Latin) tradition. Currently, the term \"tsar\" refers to native sovereigns, ancient and Biblical rulers, as well as monarchs in fairy tales and the like. The title \"king\" (Russian korol' , Bulgarian kral-, the origin of which is Charlemagne (Karl)) is sometimes perceived as alien and is by some Russian speakers reserved for (West) European royalty (and, by extension, for those modern monarchs outside of Europe whose titles are translated as \"king\" in English, roi in French etc.). Foreign monarchs of imperial status, both inside and outside of Europe, ancient as well as modern, are generally called imperator (Ð¸Ð¼Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€) rather than tsar.\nA duke (male) can either be a monarch ranked below the emperor, king, and grand duke ruling over a duchy or a member of royalty or nobility, historically of highest rank, below princes of nobility and grand dukes. The title comes from French duc, itself from the Latin dux, 'leader', a term used in republican Rome to refer to a military commander without an official rank (particularly one of Germanic or Celtic origin), and later coming to mean the leading military commander of a province. In most countries, the word duchess is the female equivalent. However, in some countries (such as the UK), the term duke is used even for females, and the word duchess is reserved for those who marry dukes.",
+        "question": "Would a duke hypothetically be subservient to a Tsar?",
+        "answer": "True",
+        "decompositions": [
+            {
+                "question": "What is the equivalent of a Tsar in English hierarchy/royalty?",
+                "answer": ""
+            },
+            {
+                "question": "Do dukes rank below #1?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "Amy Jade Winehouse (14 September 1983 â€“ 23 July 2011) was an English singer and songwriter. She was known for her deep, expressive contralto vocals and her eclectic mix of musical genres, including soul, rhythm and blues and jazz.\nBrexit (/ËˆbrÉ›ksÉªt, ËˆbrÉ›É¡zÉªt/; a portmanteau of \"British\" and \"exit\") was the withdrawal of the United Kingdom (UK) from the European Union (EU). Following a UK-wide referendum in June 2016, in which 52% voted to leave and 48% voted to remain in the EU, the British government formally announced the country's withdrawal in March 2017, beginning the Brexit process. The withdrawal was delayed by deadlock in the British parliament. Following a general election, Parliament ratified the withdrawal agreement, and the UK left the EU at 11Â p.m. GMT on 31 January 2020. This began a transition period that is set to end on 31 December 2020, during which the UK and EU will negotiate their future relationship. The UK remains subject to EU law and remains part of the EU customs union and single market during the transition, but is no longer part of the EU's political bodies or institutions.\nOn 29 March 2017, the UK government formally began the withdrawal process by invoking Article 50 of the Treaty on European Union with permission from Parliament. May called a snap general election in June 2017, which resulted in a Conservative minority government supported by the Democratic Unionist Party (DUP). UKâ€“EU withdrawal negotiations began later that month. The UK negotiated to leave the EU customs union and single market. This resulted in the November 2018 withdrawal agreement, but the British parliament voted against ratifying it three times. The Labour Party wanted any agreement to maintain a customs union, while many Conservatives opposed the agreement's financial settlement, as well as the \"Irish backstop\" designed to prevent border controls between Northern Ireland and the Republic of Ireland. The Liberal Democrats, Scottish National Party (SNP), and others sought to reverse Brexit through a proposed second referendum.",
+        "question": "Was Amy Winehouse familiar with Brexit?",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "When did Amy Winehouse die?",
+                "answer": ""
+            },
+            {
+                "question": "When did Brexit begin?",
+                "answer": ""
+            },
+            {
+                "question": "Did #2 occur before #1?",
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "context": "Wilhelm Richard Wagner (/ËˆvÉ‘ËÉ¡nÉ™r/ VAHG-nÉ™r, German: [ËˆÊÉªÃ§aÊt ËˆvaËÉ¡nÉ] (listen); 22 May 1813Â â€“ 13 February 1883) was a German composer, theatre director, polemicist, and conductor who is chiefly known for his operas (or, as some of his mature works were later known, \"music dramas\"). Unlike most opera composers, Wagner wrote both the libretto and the music for each of his stage works. Initially establishing his reputation as a composer of works in the romantic vein of Carl Maria von Weber and Giacomo Meyerbeer, Wagner revolutionised opera through his concept of the Gesamtkunstwerk (\"total work of art\"), by which he sought to synthesise the poetic, visual, musical and dramatic arts, with music subsidiary to drama. He described this vision in a series of essays published between 1849 and 1852. Wagner realised these ideas most fully in the first half of the four-opera cycle Der Ring des Nibelungen (The Ring of the Nibelung).\nThe National Socialist German Workers' Party (German: Nationalsozialistische Deutsche ArbeiterparteiÂ (helpÂ·info), abbreviated NSDAP), commonly referred to in English as the Nazi Party (English: /ËˆnÉ‘Ëtsi, ËˆnÃ¦tsi/), was a far-right political party in Germany that was active between 1920 and 1945, that created and supported the ideology of National Socialism. Its precursor, the German Workers' Party (Deutsche Arbeiterpartei; DAP), existed from 1919 to 1920.",
+        "question": "Did Richard Wagner support the Nazis?",
+        "answer": "False",
+        "decompositions": [
+            {
+                "question": "When did Richard Wagner die?",
+                "answer": ""
+            },
+            {
+                "question": "When was the Nazi Party formed?",
+                "answer": ""
+            },
+            {
+                "question": "Is #2 before #1?",
+                "answer": ""
+            }
+        ]
+    }
+]
